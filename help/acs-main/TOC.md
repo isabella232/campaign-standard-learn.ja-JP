@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 96cc4e9c52ed122e8c6fbbc7cd91f38c4ad98333
+source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '522'
 ht-degree: 10%
 
 ---
@@ -76,14 +76,13 @@ ht-degree: 10%
       + [ランディングページのテストと公開](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [ランディングページテンプレートの設定](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + コンテンツのデザインとパーソナライズ {#designing-content}
-   + 電子メールデザイナー{#email-designer}
+   + Email Designer{#email-designer}
       + [概要](/help/designing-content/email-designer/email-designer-overview.md)
       + [電子メールコンテンツテンプレートの概要](/help/designing-content/email-designer/email-content-templates.md)
       + [モバイル表示の設定](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [電子メールおよびスパム対策分析のプレビュー](/help/designing-content/email-designer/preview-your-email.md)
       + [既存のコンテンツの操作](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Adobe Dreamweaverを使用したコンテンツの作成](/help/designing-content/email-designer/dreamweaver-integration.md)
-      + [Creative Cloud SDKを使用した画像の編集](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
    + [トランザクション電子メールでの製品リストの設定](/help/designing-content/product-listings-in-transactional-email.md)
 + プロセスとデータの管理{#managing-processes-and-data}
    + [ワークフローの作成](/help/managing-processes-and-data/create-workflow.md)
