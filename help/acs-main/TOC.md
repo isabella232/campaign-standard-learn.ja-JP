@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
+source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 10%
+source-wordcount: '488'
+ht-degree: 11%
 
 ---
 
@@ -99,17 +99,6 @@ ht-degree: 10%
 + 開発中{#developing}
    + Custom Resources {#custom-resources-develop}
       + [カスタムリソースの作成](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ 統合 {#integrating}
-   + Microsoft Dynamics 365コネクタ {#microsoft-dynamics365-connector}
-      + [はじめに](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-      + [シングルサインオン(SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-      + [ミラーページURLのサポート](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-      + [Microsoft Dynamics 365の構成](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [Adobe IOの設定](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-      + [Unifiの設定 — 概要](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-      + [Unifiジョブ — 概要](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-      + [Unifiジョブ — 入力と出力](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-      + [Unifi — 運用と監視](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
    + コントロールパネル{#control-panel}
