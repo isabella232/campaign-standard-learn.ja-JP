@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
+source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 11%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 11%
 
 + [概要](/help/overview.md)
 + はじめに{#getting-started}
+   + [概要](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign標準の概要](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [機能の概要](/help/getting-started/functional-overview.md)
    + [UIの概要](/help/getting-started/getting-started-with-the-ui.md)
