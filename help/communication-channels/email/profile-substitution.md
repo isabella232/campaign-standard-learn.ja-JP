@@ -4,12 +4,12 @@ description: このビデオでは、プロファイル置換機能を使用し�
 feature: Email
 topics: Channels
 kt: 4667
-MPCID: 32368
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 786db4341c6fa2bc40a2d3aea51c31d44ca0df08
+source-git-commit: 7a945efd6bd8fad28c89c71b8fc19c764f216be8
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 7%
