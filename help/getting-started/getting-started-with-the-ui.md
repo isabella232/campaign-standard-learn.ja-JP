@@ -1,29 +1,29 @@
 ---
 title: 'UI使用の手引き '
-description: このビデオでは、Adobe Campaign標準のユーザーインターフェイスの概要と、主な機能およびコア機能について説明します。
+description: このビデオでは、Adobe Campaign Standardのユーザーインターフェイス、主な機能、およびコア機能の概要を説明します。
 feature: User Interface
-topics: null
+topics: Getting started
 kt: 3882
+thumbnail: null
 doc-type: feature video
 activity: understand
-team: WWFRE
+team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 381e1873293b8e7ab9331529acc0a3a1d42b7486
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 20%
 
 ---
 
 
 # UI使用の手引き
 
-このビデオでは、Adobe Campaign標準の概要を説明します。
-
-次の操作を行います。
-
-* Adobe Campaign標準の主な機能と主な機能を理解する
-* システム内でのナビゲーション方法
-* ホームページメニューについて理解する
+このビデオでは、Adobe Campaign Standardのユーザーインターフェイスの概要と、主な機能やコア機能に移動する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
+
+## その他のリソース
+
+* [インターフェイスについて](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [インターフェイスの説明](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
