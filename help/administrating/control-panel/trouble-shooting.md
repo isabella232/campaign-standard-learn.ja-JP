@@ -1,6 +1,6 @@
 ---
 title: コントロールパネルのトラブルシューティング
-description: コントロールパネルでは、インスタンスおよびホワイトリストのIPアドレス別に、SFTPストレージを監視および管理できます。
+description: コントロールパネルでは、インスタンスと許可リストのIPアドレス別に、SFTPストレージを監視および管理できます。
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,9 +8,9 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 1%
 
 ---
@@ -62,7 +62,7 @@ ht-degree: 1%
 
 SFTPサーバーに接続するには、次の環境が必要です。
 
-* [!UICONTROL Whitelisting] SFTPサーバーに接続するIPアドレス
+* [!UICONTROL allow listing] SFTPサーバーに接続するIPアドレス
 * Adobe Campaignに登録する必要がある秘密鍵と公開鍵のペア
 * SFTPサーバーに直接接続する場合は、SFTPクライアントソフトウェアも必要です
 
