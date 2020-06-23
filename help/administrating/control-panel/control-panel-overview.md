@@ -1,6 +1,6 @@
 ---
 title: コントロールパネル
-description: コントロールパネルでは、インスタンスおよびホワイトリストのIPアドレス別に、SFTPストレージを監視および管理できます。
+description: コントロールパネルでは、インスタンスと許可リストのIPアドレス別に、SFTPストレージを監視および管理できます。
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,17 +8,21 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 7%
+source-wordcount: '361'
+ht-degree: 6%
 
 ---
 
 
 # [!UICONTROL Control Panel] {#control-panel}
 
-を [!UICONTROL Control Panel] 使用すると、Adobe Campaign管理者は、主要アセットを監視し、インスタンス別やホワイトリストIPアドレス別のSFTPストレージの管理などの管理タスクを実行できます。
+>[!NOTE]
+>
+>Adobe Campaignマニュアルでは、「[!UICONTROL whitelist]」および「[!UICONTROL blacklist]」という用語は「[!UICONTROL allow list]」および「」[!UICONTROL block list]に置き換えられました。 これらの用語の一部は、製品のUI、オプション名、内部コード、チュートリアルビデオに残っている場合があります。 これらは、今後のコントロールパネルのリリースで置き換えられる予定です。
+
+を [!UICONTROL Control Panel] 使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンスまたは [!UICONTROL allow list] IPアドレスごとのSFTPストレージの管理などの管理タスクを実行できます。
 
 ## アクセス [!UICONTROL Control Panel]
 
@@ -55,25 +59,34 @@ ht-degree: 7%
 ## コントロールパネルのチュートリアル
 
 * **SFTPサーバーの管理**
-   <br>
-   *サーバーの容量、ホワイトリストのIPアドレスを監視し、SSHキーを追加する方法を学びます。*
 
-   * [サーバの容量の監視、IPアドレスのホワイトリスト登録、SSHキーの追加](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+   *サーバーの容量、許可リストのIPアドレスを監視し、SSHキーを追加する方法を説明します。*
+
+   * [サーバの容量の監視、IPアドレスの一覧表示、SSHキーの追加を許可](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [SSHキーの生成](/help/administrating/control-panel/generate-ssh-key.md)
    * [SFTPサーバーへの接続](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[サブドメインの委任](/help/administrating/control-panel/subdomain-delegation.md)**   <br>
+* **[サブドメインの委任](/help/administrating/control-panel/subdomain-delegation.md)**
+
    *サブドメインをAdobe Campaignに完全に委任する方法を学びます*
-* **[SSL証明書の追加](/help/administrating/control-panel/adding-ssl-certificates.md)**   <br>
+* **[SSL証明書の追加](/help/administrating/control-panel/adding-ssl-certificates.md)**
+
    *サブドメインを保護するためにSSL証明書を追加する方法について説明します。*
-* **[SSL証明書の管理](/help/administrating/control-panel/managing-ssl-certificates.md)**   <br>
+* **[SSL証明書の管理](/help/administrating/control-panel/managing-ssl-certificates.md)**
+
    *サブドメインのSSL証明書のステータスを表示し、更新を要求する方法について説明します。*
-* **[Google TXT レコード管理](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
+* **[Google TXT レコード管理](/help/administrating/control-panel/google-txt-record-management.md)**
+
    *キャンペーンコントロールパネルを使用してGMAILアドレスに電子メールを送信するために使用するすべてのサブドメインに、Google TXTサイト検証レコードを追加する方法を説明します。*
 
-* **[トラブル・シューティング](/help/administrating/control-panel/trouble-shooting.md)**   <br>
+* **[GPGキーの生成とインストール](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *指定したインスタンスに新しい公開/秘密GPGキーペアを生成してインストールする方法と、Adobe Campaignインスタンスに公開キーを読み込んでインストールする方法を説明します。*
+
+* **[トラブル・シューティング](/help/administrating/control-panel/trouble-shooting.md)**
+
    *コントロールパネルのトラブルシューティング方法を理解する*
 
 ## その他のリソース
 
-* [[!UICONTROLコントロールパネルヘルプセンター]](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
+* [コントロールパネルヘルプセンター](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
 
