@@ -3,7 +3,7 @@ title: Adobe Campaign Standardチュートリアル — 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザガイドには、Adobe Campaign Standardの多くの機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
+source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 21%
@@ -17,15 +17,17 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[GPGキーの生成とインストールのコントロールパネル](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+* **[コントロールパネル — GPGキーの生成とインストール](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
    *指定したインスタンスに新しい公開/秘密GPGキーペアを生成してインストールする方法と、Adobe Campaignインスタンスに公開キーを読み込んでインストールする方法を説明します。*
 
-* **[外部APIアクティビティ](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
+* **[外部APIアクティビティ](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+
    *External APIアクティビティを使用してワークフローを設定および実行する方法について説明します。*
 
-* **[プロファイルの置き換え — ターゲットプロファイルを使用した電子メールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)**   <br>
-   *プロファイルが受け取るメッセージを正確に表示した状態で、レビュー用に配達確認を送信する方法を説明します。*
+* **[プロファイルの置き換え — ターゲットプロファイルを使用した電子メールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)**
 
+   *プロファイルが受け取るメッセージを正確に表示した状態で、レビュー用に配達確認を送信する方法を説明します。*
 
 ## スタッフの選考
 
