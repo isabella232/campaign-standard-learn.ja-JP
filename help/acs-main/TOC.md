@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign標準のチュートリアル
+user-guide-title: Adobe Campaign Standardチュートリアル
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '495'
 ht-degree: 11%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 11%
 + [概要](/help/overview.md)
 + はじめに{#getting-started}
    + [概要](/help/getting-started/getting-started-overview.md)
-   + [Adobe Campaign標準の概要](/help/getting-started/adobe-campaign-standard-introduction.md)
+   + [Adobe Campaign Standardの概要](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [機能の概要](/help/getting-started/functional-overview.md)
    + [UIの概要](/help/getting-started/getting-started-with-the-ui.md)
    + [リストの設定](/help/getting-started/configure-a-list.md)
@@ -67,10 +67,10 @@ ht-degree: 11%
          + [アプリ内メッセージの概要](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [イベントの設定](/help/communication-channels/mobile/in-app/configure-events.md)
          + [アプリ内メッセージのブロードキャスト](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
-         + [キャンペーンプロファイルに基づくターゲットユーザー](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
+         + [キャンペーンプロファイルに基づくTargetユーザー](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [ワークフロー内でのアプリ内配信の作成](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [アプリ内配信のレポート](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Adobe Experience Platform SDKを使用したモバイルアプリの設定](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+      + [Adobe Experience PlatformSDKを使用したモバイルアプリの設定](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [ダイレクトメール](/help/communication-channels/direct-mail/directmail.md)
    + ランディングページ{#landing-pages}
       + [ランディングページの作成と編集](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
@@ -104,16 +104,17 @@ ht-degree: 11%
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
    + コントロールパネル{#control-panel}
       + [コントロールパネルの概要](/help/administrating/control-panel/control-panel-overview.md)
-      + [サーバの容量の監視、IPアドレスのホワイトリスト登録、SSHキーの追加](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+      + [サーバの容量の監視、IPアドレスの一覧表示、SSHキーの追加を許可](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [SSHキーの生成](/help/administrating/control-panel/generate-ssh-key.md)
       + [SFTPサーバーへの接続](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [サブドメインの委任](/help/administrating/control-panel/subdomain-delegation.md)
       + [SSL証明書の追加](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [SSL 証明書の管理](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT レコード管理](/help/administrating/control-panel/google-txt-record-management.md)
+      + [GPGキーの生成とインストール](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [トラブル・シューティング](/help/administrating/control-panel/trouble-shooting.md)
-   + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
-      + [Adobe Experience Platform Data Connectorについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Adobe Experience Platformデータコネクタ{adobe-experience-platform-data-connector}
+      + [Adobe Experience Platformデータコネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [カスタムリソースのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [エクスペリエンスイベントのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [シードテーブルデータのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
