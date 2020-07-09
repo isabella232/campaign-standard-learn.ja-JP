@@ -3,9 +3,9 @@ title: Adobe Campaign Standardチュートリアル — 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザガイドには、Adobe Campaign Standardの多くの機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '308'
 ht-degree: 21%
 
 ---
@@ -17,9 +17,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[コントロールパネル — GPGキーの生成とインストール](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[GPGキー管理](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *指定したインスタンスに新しい公開/秘密GPGキーペアを生成してインストールする方法と、Adobe Campaignインスタンスに公開キーを読み込んでインストールする方法を説明します。*
+   *送信データの暗号化用に、指定したキャンペーンインスタンスに公開/秘密鍵のペアを生成してインストールする方法、および受信データの復号化用に、キャンペーンインスタンスに公開鍵を読み込んでインストールする方法を説明します。*
 
 * **[外部APIアクティビティ](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
