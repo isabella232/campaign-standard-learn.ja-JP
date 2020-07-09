@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '386'
 ht-degree: 6%
 
 ---
@@ -78,9 +78,13 @@ ht-degree: 6%
 
    *キャンペーンコントロールパネルを使用してGMAILアドレスに電子メールを送信するために使用するすべてのサブドメインに、Google TXTサイト検証レコードを追加する方法を説明します。*
 
-* **[GPGキーの生成とインストール](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **GPGキー管理**
 
-   *指定したインスタンスに新しい公開/秘密GPGキーペアを生成してインストールする方法と、Adobe Campaignインスタンスに公開キーを読み込んでインストールする方法を説明します。*
+   *送信データの暗号化用に指定したキャンペーンインスタンスに公開鍵と秘密鍵のペアを生成してインストールする方法、および受信データの復号化用にキャンペーンインスタンスに公開鍵を読み込んでインストールする方法を説明します。*
+
+   * [データ暗号化用のGPGキーの生成とインストール](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [GPGキーを使用したデータの暗号化](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [データの復号化](./gpg-key-management/decrypting-data.md)
 
 * **[トラブル・シューティング](/help/administrating/control-panel/trouble-shooting.md)**
 
