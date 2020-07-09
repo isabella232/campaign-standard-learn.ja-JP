@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaignを使用したモバイルマーケティング
-description: このビデオでは、モバイルマーケティング戦略をサポートできるAdobe Campaign標準機能を説明します。
+description: このビデオでは、モバイルマーケティング戦略をサポートできるAdobe Campaign Standard機能を説明します。
 feature: Mobile
 topics: null
 kt: 3976
@@ -8,7 +8,7 @@ doc-type: value video
 activity: understand
 team: PMM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 3%
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Adobe Campaign付きMobile Marketing
 
-このビデオでは、モバイルマーケティング戦略をサポートできるAdobe Campaign標準機能を説明します。
+このビデオでは、モバイルマーケティング戦略をサポートできるAdobe Campaign Standard機能を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
 
