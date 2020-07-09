@@ -1,6 +1,6 @@
 ---
 title: エクスペリエンスイベントのマッピング
-description: Adobe Experience Platform(AEP)でエクスペリエンスイベントをマッピングする方法を学びます。
+description: Adobe Experience Platformでのエクスペリエンスイベントのマッピング方法(AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2832
@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 9%
