@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '514'
 ht-degree: 11%
 
 ---
@@ -111,7 +111,11 @@ ht-degree: 11%
       + [SSL証明書の追加](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [SSL 証明書の管理](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT レコード管理](/help/administrating/control-panel/google-txt-record-management.md)
-      + [GPGキーの生成とインストール](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
+      + GPGキー管理 {#gpg-key-management}
+         + [GPGキー管理 — 概要](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [データ暗号化用のGPGキーの生成とインストール](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [GPGキーを使用したデータの暗号化](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [データの復号化](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [トラブル・シューティング](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platformデータコネクタ{adobe-experience-platform-data-connector}
       + [Adobe Experience Platformデータコネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
