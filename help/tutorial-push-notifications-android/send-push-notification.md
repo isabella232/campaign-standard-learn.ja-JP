@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 次に、Adobe Campaignを使用して、を作成し、送信する必要があ [!UICONTROL Push Notification] ります。 . テスト用に単純なプッシュ通知を作成するには、次の手順に従います。
 
-* Adobe Campaign標準インスタンスにログインします。
+* Adobe Campaign Standardインスタンスにログインします
 * Click **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * 選択 **[!UICONTROL Send push to app subscribers(mobileApp)]** して「次へ」をクリックします
 * ドロップダウンリストから適切なモバイルアプリを選択し、 **[!UICONTROL Associate a Mobile App to a delivery]** 「 **[!UICONTROL Next]**
