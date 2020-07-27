@@ -1,6 +1,6 @@
 ---
-title: コントロールパネルのトラブルシューティング
-description: コントロールパネルでは、インスタンスと許可リストのIPアドレス別に、SFTPストレージを監視および管理できます。
+title: Campaign コントロールパネルの撮影の問題
+description: このCampaign コントロールパネルでは、インスタンスと許可リストのIPアドレス別に、SFTPストレージを監視および管理できます。
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,15 +10,15 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
 
 
-# [!UICONTROLコントロールパネル}のキャプチャ中にエラーが発生しました
+# [!UICONTROLCampaign コントロールパネル}のキャプチャ中にエラーが発生しました
 
-コントロールパネルを使用する場合の問題のトラブルシューティング方法を説明します。
+Campaign コントロールパネルを使用する際の問題のトラブルシューティング方法を説明します。
 
 ## ログインとホームページ
 
@@ -55,8 +55,8 @@ ht-degree: 1%
 
 ### 便利なドキュメント
 
-* [[!UICONTROLコントロールパネル]を見つけます](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [[!UICONTROLコントロールパネル]のアクセス許可を管理する](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Folio Builder [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [次に対する権限の管理 [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## SFTPサーバー（クライアントまたはAPI）への接続の確立
 
