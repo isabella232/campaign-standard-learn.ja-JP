@@ -1,6 +1,6 @@
 ---
 title: 'アプリ内メッセージのブロードキャスト '
-description: アプリ内メッセージのブロードキャストテンプレートを使用すると、モバイルアプリのすべてのユーザーをAdobe Campaign標準(ACS)でターゲットできます
+description: アプリ内メッセージのブロードキャストテンプレートを使用すると、モバイルアプリのすべてのユーザーをAdobe Campaign Standard(ACS)とターゲットできます
 feature: In-App
 topics: Mobile
 kt: 2497
