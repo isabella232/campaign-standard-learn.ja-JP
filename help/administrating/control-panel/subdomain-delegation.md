@@ -1,6 +1,6 @@
 ---
 title: サブドメインの委任
-description: Adobe Campaignコントロールパネルでは、サブドメインをAdobe Campaignに完全に委任できます。 それには、次の手順に従います。
+description: Adobe CampaignCampaign コントロールパネルを使用すると、サブドメインをAdobe Campaignに完全に委任できます。 それには、次の手順に従います。
 feature: Control Panel
 topics: null
 kt: 4115
@@ -21,14 +21,14 @@ ht-degree: 18%
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
 >[!NOTE]
-> からのサブドメインの委任 [!UICONTROL Control Panel] は、1月末までにベータ版で利用可能になり、
-> 頻繁な更新と予告なしの変更
+>
+>Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
 
 ## アクセス [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 [[!UICONTROL Subdomain Management] ]にアクセスするに [!UICONTROL Control Panel]は、次の場所に移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) / [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** カード> **[!UICONTROL Subdomains & Certificates]** カード
+* [Experience Cloudホーム](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** カード> **[!UICONTROL Subdomains & Certificates]** カード
 
    または
 * URLから直接： [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
