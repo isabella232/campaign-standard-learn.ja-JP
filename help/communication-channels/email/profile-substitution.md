@@ -4,7 +4,7 @@ description: このビデオでは、プロファイル置換機能を使用し�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
