@@ -1,6 +1,6 @@
 ---
 title: 機能の概要
-description: このビデオでは、Adobe Campaign標準(ACS)機能の概要を説明します。
+description: このビデオでは、Adobe Campaign Standard(ACS)機能の概要を説明します。
 feature: Profiles and Audiences
 topics: Getting Started
 kt: 3971
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 機能の概要
 
-このビデオでは、Adobe Campaign標準機能の概要を説明します。
+このビデオでは、Adobe Campaign Standard機能の概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
