@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
 
 
-# Folio Builder [!UICONTROL Control Panel]
+# [!UICONTROLCampaign コントロールパネル}のキャプチャ中にエラーが発生しました
 
 Campaign コントロールパネルを使用する際の問題のトラブルシューティング方法を説明します。
 
@@ -24,7 +24,7 @@ Campaign コントロールパネルを使用する際の問題のトラブル�
 
 ログインとホームページで発生する問題。
 
-### 症状： Adobe Experience Cloudにログインできない
+### 症状： Adobe Experience Cloudにログインできません
 
 **操作方法：**
 ユーザーは、 [!DNL IMS Org ID] (xxx)を探す必要があります。 管理者は、管理する各インスタンス [!UICONTROL product profile] に対して、ユーザ [!DNL “Campaign-xxx-Admins”] をに追加する必要があります。 ユーザーがすべてのインスタンスの管理者である場合、として自分自身を追加する必要がある場合があり *[!UICONTROL user]*&#x200B;ます。
@@ -43,7 +43,7 @@ Campaign コントロールパネルを使用する際の問題のトラブル�
 見つからないインスタンスの *[!UICONTROL user]* 製品プロファイルとして追加され `!DNL Campaign-xxx-Administrators/Admin` る可能性が高いユーザー
 
 **操作方法：**
-管理者は、管理する各インスタンスに対して、ユーザーを製品プロファイル `Campaign-xxx-Admins` に追加する必要があります。 ユーザーがすべてのインスタンスの管理者である場合、として自分を追加する必要がある場合があり *[!UICONTROL user]*&#x200B;ます。
+管理者は、管理する各インスタンスに対して、ユーザーを製品プロファイル `Campaign-xxx-Admins` に追加する必要があります。 ユーザーがすべてのインスタンスの管理者である場合、として自分自身を追加する必要がある場合があり *[!UICONTROL user]*&#x200B;ます。
 
 ### 役立つビデオ
 
