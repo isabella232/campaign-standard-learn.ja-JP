@@ -1,6 +1,6 @@
 ---
 title: A/B テスト
-description: 'このビデオでは、A/BテストをAdobe Campaign標準で設定し、送信して、件名行をテストする方法を説明します。 '
+description: 'このビデオでは、A/BテストをAdobe Campaign Standardで設定し、送信して、件名行をテストする方法を説明します。 '
 feature: A/B Testing
 topics: null
 kt: 3907
