@@ -27,13 +27,11 @@ ACS 19.2では、ワークフローを呼び出すだけでなく、オーディ
 次のビデオでは、次の操作に必要な設定手順を説明します。
 
 1. **コンテンツ管理システム** (CRM)など、外部システムから外部パラメーターを受け取ります。
-
    * 外部シグナルアクティビティでパラメータを宣言する
    * API呼び出しを設定して、パラメーターを定義し、ワークフローの外部シグナルアクティビティをトリガーします。 API呼び出しの設定方法について詳しくは、「シグナルアクティビティの [トリガー](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)」を参照してください。
 
 1. **外部パラメーターを使用したワークフローのカスタマイズ** (イベント変数):
-
-   ワークフローがトリガーされると、パラメーターはワークフローのイベント変数に取り込まれ、ワークフロー内で使用できます。 イベント変数を使用してカスタマイズ可能なすべてのアクティビティについては、 [ドキュメント](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) を参照してください。
+ワークフローがトリガーされると、パラメーターはワークフローのイベント変数に取り込まれ、ワークフロー内で使用できます。 イベント変数を使用してカスタマイズ可能なすべてのアクティビティについては、 [ドキュメント](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) を参照してください。
 
    * テストアクティビティの設定（19.2で導入された新機能）
    * 読み取りオーディエンスと電子メール配信アクティビティの設定
