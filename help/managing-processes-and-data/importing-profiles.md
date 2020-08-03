@@ -27,4 +27,4 @@ ht-degree: 1%
 ## その他のリソース
 
 * [ステップバイステップのチュートリアルでデータのインポートを行います](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
-* [Adobe Campaign標準 — プロセスとデータの管理](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+* [Adobe Campaign Standard — プロセスとデータの管理](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
