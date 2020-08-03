@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign標準(ACS)でのプライバシー要求の名前空間の作成
+title: Adobe Campaign Standard(ACS)でのプライバシー要求の名前空間の作成
 description: GDPRやCCPAが必要とするプライバシー・アクセスおよび削除要求を作成できる前提条件は、Adobe Campaign・データベース内のデータ・サブジェクトの識別に使用される名前空間の定義です。 このビデオでは、プライバシー要求の名前空間を作成する方法を説明します。
 feature: GDPR, CCPA
 topic: null
