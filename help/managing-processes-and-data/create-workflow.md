@@ -1,6 +1,6 @@
 ---
 title: ワークフローの作成
-description: このビデオでは、Workflow Standardでのワークフローの作成および編集方法を説明します。
+description: このビデオでは、Adobe Campaign Standardでワークフローを作成および編集する方法について説明します。
 feature: Workflows
 topics: null
 kt: 1809
@@ -25,7 +25,7 @@ ht-degree: 2%
 * キャンペーンデータベースへのデータのインポート
 * データベースのクリーンアップ、追跡情報の回復などの技術的なプロセス
 
-このビデオでは、Workflow Standardでのワークフローの作成および編集方法を説明します。
+このビデオでは、Adobe Campaign Standardでワークフローを作成および編集する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
