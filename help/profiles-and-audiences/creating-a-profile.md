@@ -1,6 +1,6 @@
 ---
 title: 'プロファイルの作成 '
-description: このビデオでは、Adobe Campaignを作成する方法と、プロファイル標準(ACS)でオーディエンスに追加する方法を説明します
+description: このビデオでは、プロファイルの作成方法と、Adobe Campaign Standard内のオーディエンス(ACS)に追加する方法を説明します
 feature: Profiles and Audiences
 topic: null
 kt: 1820
