@@ -21,17 +21,18 @@ ht-degree: 1%
 >[!NOTE]
 >
 >この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
+>
 >この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
 
-Adobe Campaign標準を使用すると、Adobe Experience Cloudの [リアルタイム顧客プロファイル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) (Adobe Experience Platform [!UICONTROL Unified Segment Builder])のデータを使用してオーディエンスを作成できます。
+Adobe Campaign Standardを使用すると、オーディエンスを使用して、Adobe Experience Cloud [リアルタイム顧客プロファイル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) のデータを使用してAdobe Experience Platformを作成でき [!UICONTROL Unified Segment Builder]ます。
 
-モジュールを使用して、Adobe Campaign標準内で [!UICONTROL Unified Segment Builder] 直接に [!UICONTROL Audiences ] アクセスできます。 これにより、これらのオーディエンスを [!UICONTROL Audiences] リスト表示で直接管理できます。Adobe Campaignインターフェイスから直接、新しいAdobe Experience Platformオーディエンスを編集または作成できます
+モジュールを使用して、Adobe Campaign Standard内 [!UICONTROL Unified Segment Builder] で直接に [!UICONTROL Audiences ] アクセスできます。 これにより、これらのオーディエンスを [!UICONTROL Audiences] リスト表示で直接管理できます。Adobe Campaignインターフェイスから直接、新しいAdobe Experience Platformオーディエンスを編集または作成できます
 
-次のビデオでは、Adobe Campaign標準 [!UICONTROL Unified Segment Builder] 内で新しいオーディエンスを作成する方法を説明しています。
+次のビデオでは、Adobe Campaign Standard [!UICONTROL Unified Segment Builder] 内で新しいオーディエンスを作成する方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
-*統合セグメントビルダーを使用したAdobe Campaign標準での新しいオーディエンスの作成方法（分02:47）*
+*統合セグメントビルダーを使用したAdobe Campaign Standardでの新しいオーディエンスの作成方法（分02:47）*
 
 ## その他のリソース
 
@@ -43,4 +44,4 @@ Adobe Campaign標準を使用すると、Adobe Experience Cloudの [リアルタ
 ビデオリソース：
 
 * [ワークフローでのAEPオーディエンスのアクティブ化](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [プラットフォームオーディエンスの配信のターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Platformオーディエンスの配信のターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
