@@ -1,6 +1,6 @@
 ---
 title: サーバの容量の監視、IPアドレスの一覧表示、SSHキーの追加を許可
-description: コントロールパネルでは、SFTPストレージをインスタンス別に監視および管理し、IPアドレスを許可リストに追加できます。
+description: このCampaign コントロールパネルを使用すると、SFTPストレージをインスタンス別に監視および管理し、許可リストにIPアドレスを追加できます。
 feature: Control Panel
 topics: null
 kt: 3266
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # サーバの容量、 [!UICONTROL allow listing] IPアドレスの監視、SSHキーの追加
 
-コントロールパネルでは、SFTPストレージをインスタンス別に監視および管理し、 [!UICONTROL allow listing]IPアドレスを追加できます。
+このCampaign コントロールパネルを使用すると、SFTPストレージをインスタンス別に監視および管理し、 [!UICONTROL allow listing]IPアドレスを追加できます。
 
 ## サブドメイン [!UICONTROL Control Panel] 管理へのアクセス
 
