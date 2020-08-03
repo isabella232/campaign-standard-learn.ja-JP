@@ -1,6 +1,6 @@
 ---
 title: コントロールパネル
-description: コントロールパネルでは、インスタンスと許可リストのIPアドレス別に、SFTPストレージを監視および管理できます。
+description: このCampaign コントロールパネルでは、インスタンスと許可リストのIPアドレス別に、SFTPストレージを監視および管理できます。
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -20,13 +20,13 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Adobe Campaignマニュアルでは、「[!UICONTROL whitelist]」および「[!UICONTROL blacklist]」という用語は「[!UICONTROL allow list]」および「」[!UICONTROL block list]に置き換えられました。 これらの用語の一部は、製品のUI、オプション名、内部コード、チュートリアルビデオに残っている場合があります。 これらは、今後のコントロールパネルのリリースで置き換えられる予定です。
+>Adobe Campaignマニュアルでは、「[!UICONTROL whitelist]」および「[!UICONTROL blacklist]」という用語は「[!UICONTROL allow list]」および「」[!UICONTROL block list]に置き換えられました。 これらの用語の一部は、製品のUI、オプション名、内部コード、チュートリアルビデオに残っている場合があります。 今後のCampaign コントロールパネルリリースで置き換えられる予定です。
 
 を [!UICONTROL Control Panel] 使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンスまたは [!UICONTROL allow list] IPアドレスごとのSFTPストレージの管理などの管理タスクを実行できます。
 
 ## アクセス [!UICONTROL Control Panel]
 
-コントロールパネルにアクセスするには、Experience Cloudホームに移動します。 [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Campaign コントロールパネルにアクセスするには、Experience Cloudホームに移動します。 [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -56,7 +56,7 @@ ht-degree: 6%
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *製品プロファイル「[!UICONTROL Administrators]」に管理者を追加して使用できるようにする方法[!UICONTROL Control Panel]（01:03分）*
 
-## コントロールパネルのチュートリアル
+## Campaign コントロールパネルTutorials
 
 * **SFTPサーバーの管理**
 
@@ -76,7 +76,7 @@ ht-degree: 6%
    *サブドメインのSSL証明書のステータスを表示し、更新を要求する方法について説明します。*
 * **[Google TXT レコード管理](/help/administrating/control-panel/google-txt-record-management.md)**
 
-   *キャンペーンコントロールパネルを使用してGMAILアドレスに電子メールを送信するために使用するすべてのサブドメインに、Google TXTサイト検証レコードを追加する方法を説明します。*
+   *キャンペーンCampaign コントロールパネルを介してGMAILアドレスに電子メールを送信するために使用するすべてのサブドメインに、Google TXTサイト検証レコードを追加する方法を説明します。*
 
 * **GPGキー管理**
 
@@ -88,9 +88,9 @@ ht-degree: 6%
 
 * **[トラブル・シューティング](/help/administrating/control-panel/trouble-shooting.md)**
 
-   *コントロールパネルのトラブルシューティング方法を理解する*
+   *Campaign コントロールパネルのトラブルシューティング方法を理解する*
 
 ## その他のリソース
 
-* [コントロールパネルヘルプセンター](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
+* [Campaign コントロールパネルヘルプセンター](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
 
