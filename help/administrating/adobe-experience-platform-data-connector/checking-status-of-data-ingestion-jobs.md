@@ -21,9 +21,10 @@ ht-degree: 9%
 >[!NOTE]
 >
 >この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。
+>
 >この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
 
-データ取り込みジョブのステータスを確認する方法、およびデータがAdobe Campaign標準からAdobe Experience Platformに取り込まれたかどうかを確認する方法について説明します。
+データ取り込みジョブのステータスを確認する方法、およびデータがAdobe Campaign StandardからAdobe Experience Platformに取り込まれたかどうかを確認する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
