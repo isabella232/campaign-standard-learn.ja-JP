@@ -53,13 +53,13 @@ ht-degree: 1%
 
 モバイルアプリで実装されるカテゴリに応じて、以下の3つの実装がサポートされます。
 
-* アドビAnalytics
+* Adobe Analytics
 * [!UICONTROL Context data]
 * [!UICONTROL View state]
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] にはアドビのAnalyticsライセンスが必要です。 [[!DNL Analytics] 拡張機能を設定し](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 、 [AnalyticsをApp](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)に追加すると、これらのイベントはACSの [!UICONTROL In-App] 設定で使用できるようになります。
+>[!UICONTROL Analytics events] Adobe Analyticsのライセンスが必要です。 [[!DNL Analytics] 拡張機能を設定し](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 、 [AnalyticsをApp](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)に追加すると、これらのイベントはACSの [!UICONTROL In-App] 設定で使用できるようになります。
 
 ## その他のリソース
 
