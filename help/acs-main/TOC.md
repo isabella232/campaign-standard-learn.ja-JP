@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign Standardチュートリアル
+user-guide-title: Adobe Campaign StandardTutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -11,7 +11,7 @@ getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '529'
 ht-degree: 11%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 11%
    + [プロファイルとオーディエンスの作成 — 概要](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [プロファイルの作成](/help/profiles-and-audiences/creating-a-profile.md)
    + [テストプロファイルの作成](/help/profiles-and-audiences/test-profiles.md)
-   + [ワークフローでのプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
+   + [ワークフローを使用したプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
    + [サービスと購読の管理](/help/managing-processes-and-data/services-and-subscriptions.md)
    + オーディエンスの宛先（ベータ版）{#audience-destinations}
       + [概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -57,6 +57,7 @@ ht-degree: 11%
    + モバイル {#mobile}
       + SMS{#sms}
          + [SMS配信の作成](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [多言語電子メールまたはSMS配信の作成](/help/communication-channels/create-multilingual-deliveries.md)
          + [既存の電子メール、SMS配信またはテンプレートを多言語に変換する](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + プッシュ通知 {#push}
          + [プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -86,6 +87,7 @@ ht-degree: 11%
    + [トランザクション電子メールでの製品リストの設定](/help/designing-content/product-listings-in-transactional-email.md)
 + プロセスとデータの管理{#managing-processes-and-data}
    + [ワークフローの作成](/help/managing-processes-and-data/create-workflow.md)
+   + [ワークフローを使用したプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [外部信号アクティビティ](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
@@ -101,7 +103,7 @@ ht-degree: 11%
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
    + コントロールパネル{#control-panel}
-      + [コントロールパネルの概要](/help/administrating/control-panel/control-panel-overview.md)
+      + [Campaign コントロールパネルの概要](/help/administrating/control-panel/control-panel-overview.md)
       + [サーバの容量の監視、IPアドレスの一覧表示、SSHキーの追加を許可](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [SSHキーの生成](/help/administrating/control-panel/generate-ssh-key.md)
       + [SFTPサーバーへの接続](/help/administrating/control-panel/connect-to-sftp-server.md)
@@ -131,3 +133,5 @@ ht-degree: 11%
    + [プライバシー要求のカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
    + [プライバシーリクエストの手動作成と追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシー要求の実行](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign配信品質ベストプラクティスガイド](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
