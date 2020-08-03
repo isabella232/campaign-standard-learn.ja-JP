@@ -25,4 +25,4 @@ Adobe Campaignでは、ワークフローがプライバシーリクエストを
 ## その他のリソース
 
 * [キャンペーンに関する一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
-* [Adobe Campaign標準のCCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Adobe Campaign Standard用CCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
