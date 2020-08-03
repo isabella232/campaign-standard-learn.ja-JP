@@ -1,6 +1,6 @@
 ---
 title: プッシュ通知の作成
-description: 'Adobe Campaign標準(ACS)でプッシュ通知を作成する方法を説明します。 '
+description: 'Adobe Campaign Standard(ACS)でプッシュ通知を作成する方法を説明します。 '
 feature: Push
 topics: Mobile
 kt: 1401
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Folio Builder [!UICONTROL push notification]
 
-Adobe Campaign標準(ACS) [!UICONTROL push notification] でのを作成する方法を学びます。
+Adobe Campaign Standard [!UICONTROL push notification] 内(ACS)の作成方法を学びます。
 
 Adobe Campaignを使用すると、パーソナライズおよびセグメント化 [!UICONTROL push notifications] をiOSおよびAndroidモバイルデバイスに送信できます。 次の2つの方法があります。
 
