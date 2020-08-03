@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 手順3 — モバイルアプリに拡張機能を登録する
 
-この部分では、ユーザープロファイル、ID、ライフサイクル、シグナル拡張を登録するコードを追加します。 これらの拡張機能は、 [[!UICONTROL Mobile Core Extensions]の一部](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)です。 また、以下のコードに示すように、Adobe Campaign標準拡張を登録する必要があります。
+この部分では、ユーザープロファイル、ID、ライフサイクル、シグナル拡張を登録するコードを追加します。 これらの拡張は、の一部で [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)す。 また、以下のコードに示すように、Adobe Campaign Standard拡張を登録する必要があります。
 
 プロジェクトを [!DNL Android] studioで開きます。 MainApp内のコード全体を削除します。ただし、パッケージ文の最初の行は **除きます**。
 
