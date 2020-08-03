@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign標準の概要
-description: このビデオでは、Adobe Campaign標準の概要を説明します。
+title: Adobe Campaign Standardの概要
+description: このビデオでは、Adobe Campaign Standardの概要を説明します。
 feature: Profiles and Audiences
 topics: null
 kt: 3993
@@ -16,8 +16,8 @@ ht-degree: 0%
 ---
 
 
-# Adobe Campaign標準の概要
+# Adobe Campaign Standardの概要
 
-このビデオでは、Adobe Campaign標準の概要を説明します。
+このビデオでは、Adobe Campaign Standardの概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27072?quality=12)
