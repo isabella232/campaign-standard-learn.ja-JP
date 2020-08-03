@@ -1,6 +1,6 @@
 ---
 title: 'カスタムリソースのマッピング '
-description: Adobe Campaign標準(ACS)とAdobe Experience Platform(AEP)の間で異なるデータタイプをマッピングする方法を学びます。
+description: Adobe Campaign Standard(ACS)とAdobe Experience Platform(AEP)の間で異なるデータタイプをマッピングする方法を学びます。
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2828
@@ -21,9 +21,10 @@ ht-degree: 6%
 >[!NOTE]
 >
 >この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。
+>
 >この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
 
-Adobe Campaign標準とAdobe Experience Platformの間で異なるデータタイプをマッピングする方法について説明します。
+Adobe Campaign StandardとAdobe Experience Platformの間で異なるデータタイプをマッピングする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12)
 
