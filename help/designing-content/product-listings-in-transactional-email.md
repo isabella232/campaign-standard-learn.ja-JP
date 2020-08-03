@@ -1,6 +1,6 @@
 ---
 title: トランザクション電子メールでの製品リストの設定
-description: このビデオでは、Adobe Campaign標準(ACS)のトランザクション電子メールでの製品リストの設定に必要な手順を説明しています。
+description: このビデオでは、Adobe Campaign Standard(ACS)でのトランザクション電子メールの製品リストの設定に必要な手順を説明しています。
 feature: Transactional Emails
 topics: Content Creation
 kt: 1728
