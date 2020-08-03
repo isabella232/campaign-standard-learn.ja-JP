@@ -1,12 +1,12 @@
 ---
-title: Adobe Campaign Standardチュートリアル — 概要
+title: Adobe Campaign StandardTutorials — 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザガイドには、Adobe Campaign Standardの多くの機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 21%
+source-wordcount: '280'
+ht-degree: 23%
 
 ---
 
@@ -24,10 +24,6 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 * **[外部APIアクティビティ](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *External APIアクティビティを使用してワークフローを設定および実行する方法について説明します。*
-
-* **[プロファイルの置き換え — ターゲットプロファイルを使用した電子メールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)**
-
-   *プロファイルが受け取るメッセージを正確に表示した状態で、レビュー用に配達確認を送信する方法を説明します。*
 
 ## スタッフの選考
 
