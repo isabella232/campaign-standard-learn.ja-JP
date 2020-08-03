@@ -1,6 +1,6 @@
 ---
 title: 多言語電子メールまたはSMS配信の作成
-description: Adobe Campaign標準(ACS)を使用すると、多言語キャンペーンの送信の操作の複雑さを簡単にできます。 電子メール配信とSMS配信の両方をマルチ言語として設定でき、プロファイルが希望する言語に基づいて電子メールまたはSMSを送信できます。 このビデオで示したアプローチは、電子メールとSMS配信の両方に適用されます。
+description: Adobe Campaign Standard(ACS)を使用すると、多言語キャンペーンの送信の操作の複雑さを簡単にできます。 電子メール配信とSMS配信の両方をマルチ言語として設定でき、プロファイルが希望する言語に基づいて電子メールまたはSMSを送信できます。 このビデオで示したアプローチは、電子メールとSMS配信の両方に適用されます。
 feature: Multi-lingual Deliveries
 topics: Mobile Channel, Email Channel
 kt: 1277
