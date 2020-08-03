@@ -24,7 +24,7 @@ ht-degree: 48%
 
 にアクセスす [!UICONTROL Subdomain Management] るに [!UICONTROL Control Panel]は、次の場所に移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) / [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** カード> **[!UICONTROL Subdomains & Certificates]** カード
+* [Experience Cloudホーム](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** カード> **[!UICONTROL Subdomains & Certificates]** カード
 
    または
 * URLから直接： [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
