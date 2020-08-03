@@ -1,6 +1,6 @@
 ---
 title: Google TXT レコード管理
-description: キャンペーンコントロールパネルで、GMAILアドレスに電子メールを送信するために使用するすべてのサブドメインに、Google TXTサイト検証レコードを追加できます。
+description: Google TXTサイト検証レコードは、キャンペーンCampaign コントロールパネルを介してGMAILアドレスに電子メールを送信するために使用するすべてのサブドメインに追加できます。
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744
