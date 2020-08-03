@@ -1,6 +1,6 @@
 ---
 title: プロファイルとオーディエンスの作成 — 概要
-description: このビデオでは、既存のプロファイルに移動する方法、およびAdobe Campaign標準(ACS)でプロファイルとオーディエンスを作成する方法を説明します。
+description: このビデオでは、既存のプロファイルに移動する方法と、Adobe Campaign Standard(ACS)でプロファイルとオーディエンスを作成する方法を説明します。
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -25,7 +25,7 @@ Adobe Campaignには2つのタイプ(プロファイル)があります。
 
 1つまたは複数の共通の条件に従ってグループ化されたプロファイルを **オーディエンスと呼びます**。
 
-このビデオでは、既存のプロファイルに移動する方法、およびAdobe Campaign標準でプロファイルとオーディエンスを作成する方法を説明します。
+このビデオでは、既存のプロファイルに移動する方法、およびAdobe Campaign Standardでプロファイルとオーディエンスを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
