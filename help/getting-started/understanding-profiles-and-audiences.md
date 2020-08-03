@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign標準でのプロファイルとオーディエンスの理解
-description: このビデオでは、プロファイルとオーディエンスの概念、およびAdobe Campaign標準でプロファイルとオーディエンスを作成する方法を説明します。
+title: Adobe Campaign Standardでのプロファイルとオーディエンスの理解
+description: このビデオでは、プロファイルとオーディエンスの概念、およびAdobe Campaign Standardでプロファイルとオーディエンスを作成する方法を説明します。
 feature: Profiles and Audiences
 topics: null
 kt: 3893
@@ -16,7 +16,7 @@ ht-degree: 3%
 ---
 
 
-# Adobe Campaign標準でのプロファイルとオーディエンスの理解
+# Adobe Campaign Standardでのプロファイルとオーディエンスの理解
 
 このビデオでは、概念と、プロファイルとオーディエンスを作成する方法を説明します。
 
