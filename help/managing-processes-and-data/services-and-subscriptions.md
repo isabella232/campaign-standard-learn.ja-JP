@@ -1,6 +1,6 @@
 ---
 title: サービスと購読の管理
-description: Adobe Campaignを使用すると、一連のサービスを通じて、ニュースレターやチャネル間の通信を作成および管理できます。 このビデオでは、Adobe Campaign標準(ACS)でサービスを作成し、購読を管理する方法を説明します。
+description: Adobe Campaignを使用すると、一連のサービスを通じて、ニュースレターやチャネル間の通信を作成および管理できます。 このビデオでは、サービスを作成し、Adobe Campaign Standard(ACS)で購読を管理する方法を示します。
 feature: Subscriptions and Services
 topics: null
 kt: 1815
