@@ -1,6 +1,6 @@
 ---
 title: 電子メール配信とレポートの確認
-description: このビデオでは、パーソナライズされた電子メール配信を確認する方法、およびAdobe Campaign標準(ACS)で利用可能な様々なレポートを調査する方法を説明します。
+description: このビデオでは、パーソナライズされた電子メール配信を確認する方法、およびAdobe Campaign Standard(ACS)で使用可能な様々なレポートを調査する方法を説明します。
 feature: Reporting
 topics: null
 kt: 3904
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # 電子メール配信とレポートの確認
 
-このビデオでは、パーソナライズされた電子メール配信を確認する方法、およびAdobe Campaign標準で使用できる様々なレポートを調査する方法を説明します。
+このビデオでは、パーソナライズされた電子メール配信を確認する方法、およびAdobe Campaign Standardで利用できる様々なレポートを調査する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 
