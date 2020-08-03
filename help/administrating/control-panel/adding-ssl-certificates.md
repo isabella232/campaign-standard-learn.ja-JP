@@ -1,6 +1,6 @@
 ---
 title: SSL証明書の追加
-description: Adobe Campaignコントロールパネルでは、サブドメインを保護するためにSSL証明書を追加できます。
+description: Adobe CampaignCampaign コントロールパネルでは、SSL証明書を追加してサブドメインを保護できます。
 feature: Control Panel
 topics: null
 kt: 4219
@@ -24,7 +24,7 @@ ht-degree: 6%
 
 のサブドメイン管理にアクセスするに [!UICONTROL Control Panel]は、次のリンクに移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) / [!UICONTROL Solution picker]: [!DNL Campaign] / **[!UICONTROL Control Panel]** カード/ [!UICONTROL **サブドメインと証明書&#x200B;**]カード
+* [Experience Cloudホーム](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] / **[!UICONTROL Control Panel]** カード/ [!UICONTROL **サブドメインと証明書&#x200B;**]カード
 
    または
 * URLから直接： [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
