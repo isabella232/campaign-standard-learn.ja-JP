@@ -1,6 +1,6 @@
 ---
 title: Android Appでのプッシュ通知の使用の手引き
-description: Adobe Campaignを使用すると、パーソナライズされたセグメント化されたプッシュ通知をiOSおよびAndroidモバイルデバイスに送信できます。 これらのメッセージは、Experience Cloud Mobile SDK V4またはExperience Platform SDKを利用して、Adobe Campaignで設定したモバイルアプリで受信されます。 このチュートリアルでは、Adobe Campaignからプッシュ通知を送信し、Androidアプリでこれらの通知を受信する手順について説明します。
+description: Adobe Campaignを使用すると、パーソナライズされたセグメント化されたプッシュ通知をiOSおよびAndroidモバイルデバイスに送信できます。 これらのメッセージは、Experience CloudMobile SDK V4またはExperience PlatformSDKを利用して、Adobe Campaignで設定したモバイルアプリケーションで受信されます。 このチュートリアルでは、Adobe Campaignからプッシュ通知を送信し、Androidアプリでこれらの通知を受信する手順について説明します。
 feature: Push
 topics: Mobile
 kt: 3846
@@ -18,16 +18,16 @@ ht-degree: 0%
 # Android Appでのプッシュ通知の使用の手引き
 
 Adobe Campaignを使用すると、パーソナライズされたセグメント化されたプッシュ通知をiOSおよびAndroidモバイルデバイスに送信できます。
-これらのメッセージは、Experience Cloud Mobile SDK V4またはExperience Platform SDKを利用して、Adobe Campaignで設定したモバイルアプリで受信されます。
+これらのメッセージは、Experience CloudMobile SDK V4またはExperience PlatformSDKを利用して、Adobe Campaignで設定したモバイルアプリケーションで受信されます。
 このチュートリアルでは、Adobe Campaignからプッシュ通知を送信し、Androidアプリでこれらの通知を受信する手順について説明します。
 
 ## 前提条件
 
-* Adobe Campaign標準拡張機能で起動プロパティを設定しておく必要があります。 以下のオンラインヘルプに従ってください。
+* Adobe Campaign Standard拡張機能を使用して起動プロパティを設定する必要があります。 以下のオンラインヘルプに従ってください。
    * [ビデオチュートリアル](https://video.tv.adobe.com/v/26224?quality=12&captions=jpn)
    * [ドキュメント](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
-* Adobe Campaign標準での対応するプロパティのステータスが設定済みに設定されていることを確認します。
+* Adobe Campaign Standard内の対応するプロパティのステータスが「設定済み」に設定されていることを確認します。
 * [アクティブなGoogle Firebaseアカウントを持っている](https://firebase.google.com)
 * [インストールされたAndroid Studioの最新バージョン](https://developer.android.com/studio)
 
