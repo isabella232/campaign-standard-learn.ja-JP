@@ -1,6 +1,6 @@
 ---
 title: 電子メールデザイナでのモバイル表示の設定
-description: このビデオでは、モバイル表示用のすべてのスタイルオプションを個別に編集して、Adobe Campaign標準(ACS)で電子メールのレスポンシブデザインを微調整する方法を説明します。
+description: このビデオでは、モバイルディスプレイ用のすべてのスタイルオプションを個別に編集し、Adobe Campaign Standard(ACS)で電子メールのレスポンシブデザインを微調整する方法を説明します。
 feature: Email Designer
 topics: null
 kt: 2423
