@@ -1,6 +1,6 @@
 ---
 title: 'GPGキーを使用したデータの暗号化 '
-description: コントロールパネルにインストールされたGPGキーを使用してデータを書き出す方法を説明します。
+description: Campaign コントロールパネルにインストールされたGPGキーを使用してデータをエクスポートする方法を説明します。
 feature: Control Panel
 topics: GPG key Management
 kt: 5688
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 # GPGキーを使用したデータの暗号化
 
-コントロールパネルにインストールされたGPGキーを使用してデータを書き出す方法を説明します。
+Campaign コントロールパネルにインストールされたGPGキーを使用してデータをエクスポートする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
 
