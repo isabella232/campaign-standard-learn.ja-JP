@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Standard付きプライバシー要求(ACS) — 概要
-description: このチュートリアルでは、Adobe Campaign Standard(ACS)インターフェイスを介したPrivacyリクエストの作成方法を説明します。
+title: Adobe Campaign Standard(ACS)とのプライバシー要求 — 概要
+description: このチュートリアルでは、Adobe Campaign Standard(ACS)インターフェイスを介したプライバシーの作成リクエストについて説明します。
 feature: GDPR, CCAP
 topic: Privacy
 kt: 1480
@@ -16,7 +16,7 @@ ht-degree: 7%
 ---
 
 
-# Adobe Campaign Standardユーザーインターフェイスを使用したプライバシー要求
+# Adobe Campaign Standardユーザーインターフェイスでのプライバシー要求
 
 Adobe Campaignオファーデータは、GDPR(General Data Protection Regulation)やCCPA(California Consumer Privacy Act)などのプライバシー行為に従って、PIIデータのプライバシーアクセスおよび削除の要求を実行する3つの方法を制御します。
 
@@ -54,5 +54,5 @@ Adobe Campaignオファーデータは、GDPR(General Data Protection Regulation
 
 * [キャンペーンに関する一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
 * [ACS用CCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
-* [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
+* [Adobe Experience Platformプライバシーサービス](https://adobe.io/apis/cloudplatform/gdpr.html)
 * [Adobe Campaign StandardREST APIドキュメント](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
