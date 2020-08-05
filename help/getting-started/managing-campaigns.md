@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 4%
+ht-degree: 14%
 
 ---
 
 
 # キャンペーンの管理
 
-Adobe Campaignを使用すると、様々なタイプのアクティビティを作成および管理できるマーケティングキャンペーンを計画できます。 電子メール、SMSメッセージ、 [!UICONTROL push notifications]ワークフロー、ランディングページ。 これらのキャンペーンとそのコンテンツは、プログラムに収集できます。 このビデオでは、Adobe Campaignでキャンペーンを作成および管理する方法について説明します。
+Adobe Campaign allows you to plan marketing campaigns in which you can create and manage different types of activities: emails, SMS messages, [!UICONTROL push notifications], workflows, landing pages. これらのキャンペーンとそのコンテンツは、プログラムに収集できます。このビデオでは、Adobe Campaignでキャンペーンを作成および管理する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24672?quality=12)
 
