@@ -1,6 +1,6 @@
 ---
 title: 電子メールコンテンツテンプレートの概要
-description: Adobe Campaign Standardオファー18は、レスポンシブな電子メールテンプレートをすぐに使用できる状態で完全にカスタマイズ可能です。  これらのテンプレートは、Adobe Campaign Standard専用に作成されたもので、操作や変更が簡単です。 電子メールを作成する際の足がかりとなります。
+description: Adobe Campaign Standardオファー18は、レスポンシブな電子メールテンプレートをすぐに使用できる状態で完全にカスタマイズ可能です。  Adobe Campaign Standard向けに作られたテンプレートで、操作や変更が簡単です。 電子メールを作成する際の足がかりとなります。
 feature: Email Designer
 topics: null
 kt: 1442
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 電子メールコンテンツテンプレートの概要 {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standardオファー18は、レスポンシブな電子メールテンプレートをすぐに使用できる状態で完全にカスタマイズ可能です。 これらのテンプレートは、Adobe Campaign Standard専用に作成されたもので、操作や変更が簡単です。 電子メールを作成する際の足がかりとなります。
+Adobe Campaign Standardオファー18は、レスポンシブな電子メールテンプレートをすぐに使用できる状態で完全にカスタマイズ可能です。 Adobe Campaign Standard向けに作られたテンプレートで、操作や変更が簡単です。 電子メールを作成する際の足がかりとなります。
 
 このビデオでは、テンプレートの紹介と、独自のテンプレートの作成方法について説明します。
 
