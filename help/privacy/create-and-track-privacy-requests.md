@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaignユーザーインターフェイスを使用したプライバシーリクエストの手動作成と追跡
-description: Adobe Campaignを使用すると、GDPRやCCPAなどのプライバシー行為に従って、PIIデータのアクセス要求や削除要求を作成できます。 このビデオでは、プライバシーリクエストを手動で作成し、Adobe Campaign Standardユーザーインターフェイスでその変化を追跡する方法を説明します。
+description: Adobe Campaignを使用すると、GDPRやCCPAなどのプライバシー行為に従って、PIIデータのアクセス要求や削除要求を作成できます。 このビデオでは、プライバシーリクエストを手動で作成し、Adobe Campaign Standardのユーザーインターフェイスでそれらの進化を追跡する方法を説明します。
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 Adobe Campaignを使用すると、GDPRやCCPAなどのプライバシー行為に従って、PIIデータのアクセス要求や削除要求を作成できます。
 
-このビデオでは、プライバシーリクエストを手動で作成し、Adobe Campaign Standardユーザーインターフェイスでその変化を追跡する方法を説明します。
+このビデオでは、プライバシーリクエストを手動で作成し、Adobe Campaign Standardのユーザーインターフェイスでそれらの進化を追跡する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
