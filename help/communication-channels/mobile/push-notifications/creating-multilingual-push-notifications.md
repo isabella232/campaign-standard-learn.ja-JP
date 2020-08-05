@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 14%
+ht-degree: 20%
 
 ---
 
 
 # Create a multilingual push notification [!UICONTROL push notification]
 
-Adobe Campaign Standardで多言語を作成する方法 [!UICONTROL push notifications] を説明します。
+Adobe Campaign Standardで多言語を作成する方法を学び [!UICONTROL push notifications] ます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
