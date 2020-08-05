@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Platformデータコネクタについて
-description: Adobe Experience Platformデータコネクタは、XTKデータ(キャンペーンで取り込まれたデータ)をAdobe Experience Platform上のエクスペリエンスデータモデル(XDM)データにマッピングすることで、既存のお客様がAdobe Experience Platform上でデータを利用できるようにします。
+description: Adobe Experience PlatformData Connectorは、XTKデータ(キャンペーンで取り込まれたデータ)をAdobe Experience Platformのエクスペリエンスデータモデル(XDM)データにマッピングすることで、既存のお客様がAdobe Experience Platformでデータを利用できるようにします。
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
@@ -26,21 +26,21 @@ ht-degree: 5%
 
 ## 概要
 
-Adobe Experience Platform [!UICONTROL Data Connector] は、XTKデータ(Adobe Campaignで取り込まれたデータ)をAdobe Experience Platform上の [!DNL Experience Data Model] (XDM)データにマッピングすることで、既存のお客様がデータをAdobe Experience Platform上で利用できるようにするのに役立ちます。
+Adobe Experience Platform [!UICONTROL Data Connector] は、XTKデータ(Adobe Campaignで取り込まれたデータ)をAdobe Experience Platformの [!DNL Experience Data Model] (XDM)データにマッピングすることで、既存のお客様がAdobe Experience Platformでデータを利用できるように支援します。
 
-コネクタは単方向であり、データをAdobe Campaign StandardからAdobe Experience Platformに送信します。 データはAdobe Experience PlatformからAdobe Campaign Standardに送信されません。
+コネクタは単方向であり、データをAdobe Campaign StandardからAdobe Experience Platformに送信します。 データはAdobe Experience PlatformからAdobe Campaign Standardに送られません。
 
 Adobe Experience Platform [!UICONTROL Data Connector][!UICONTROL custom resources] は、Adobe Campaign Standardを理解し、お客様の全体的なデータスキーマがAdobe Experience Platform内でどのように行われるべきかを理解しているデータエンジニアを対象としています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*このビデオでは、Adobe Experience Platformの概要を説明[!UICONTROL Data Connector]します（09:35分）。*
+*このビデオでは、Adobe Experience Platformの概要を説明し[!UICONTROL Data Connector]ます（09:35分）。*
 
 >[!NOTE]
 >
->の既製の転送はサポートされてい [!UICONTROL subscription events] ません。 転送するに [!UICONTROL subscription events]は、Adobe Experience Platform上に対応するXDMとデータセットを作成し、これらのデータに対するカスタムデータマッピングを設定します。
+>の既製の転送はサポートされてい [!UICONTROL subscription events] ません。 転送するに [!UICONTROL subscription events]は、対応するXDMとデータセットをAdobe Experience Platform上に作成し、これらのデータに対するカスタムデータマッピングを設定します。
 >
->既存のも [!UICONTROL experience events] のはAdobe Experience Platformに取り込むことはできませんが、継続中の生成物 [!UICONTROL experience events] はAdobe Experience Platformにストリーミングされます。
+>現存するも [!UICONTROL experience events] のはAdobe Experience Platformに取り込むことはできないが、現在の生成物はAdobe Experience Platform [!UICONTROL experience events] に流される。
 
 ## データマッピングを実行するための主な手順
 
@@ -57,5 +57,5 @@ Adobe Experience Platform [!UICONTROL Data Connector][!UICONTROL custom resource
 * [Adobe Experience Platform Data Connector について](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
 * [エクスペリエンスデータモデルの概要](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
 * [マッピング定義](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [マッピングの有効化](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-* [API によるデータ取り込みのトリガー](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
+* [マッピングのアクティベーション](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
+* [API によるデータ取得トリガー](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
