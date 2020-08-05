@@ -20,7 +20,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
+>この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、具体的な設定が必要です。
 >
 >この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
 
@@ -38,5 +38,5 @@ ht-degree: 2%
 ビデオリソース：
 
 * [統合セグメントビルダーを使用したAdobe Campaign Standardでの新しいオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Platformオーディエンスの配信のターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [プラットフォームオーディエンスの配信のターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
