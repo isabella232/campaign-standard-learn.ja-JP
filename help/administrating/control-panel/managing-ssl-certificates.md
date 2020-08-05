@@ -20,7 +20,7 @@ ht-degree: 48%
 
 コントロールパネルを使用すると、Adobe Campaign にデリゲートしたサブドメインを管理できます。サブドメインを表示したり、その証明書の更新をリクエストしたりできます。
 
-## アクセス [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## [!UICONTROL Control Panel] へのアクセス[!UICONTROL Subdomain Management]
 
 にアクセスす [!UICONTROL Subdomain Management] るに [!UICONTROL Control Panel]は、次の場所に移動します。
 
