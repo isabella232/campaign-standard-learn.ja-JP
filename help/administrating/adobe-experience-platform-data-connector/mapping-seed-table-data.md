@@ -24,12 +24,12 @@ ht-degree: 6%
 >
 >この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
 
-シードデータのマッピングおよびAdobe Experience Platformを使用したテストプロファイルの方法を説明します。
+シードデータのマッピング方法と、Adobe Experience Platformでのプロファイルのテスト方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 
 ## その他のリソース
 
 * [マッピング定義](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [マッピングの有効化](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
+* [マッピングのアクティベーション](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
 
