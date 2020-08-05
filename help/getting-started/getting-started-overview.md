@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign Standard使用の手引き
+title: はじめに —Adobe Campaign Standard
 description: このビデオでは、Adobe Campaign Standardのユーザーインターフェイス、主な機能、およびコア機能の概要を説明します。
 feature: User Interface
 topics: null
@@ -11,20 +11,20 @@ translation-type: tm+mt
 source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 
-# Adobe Campaign Standard使用の手引き
+# はじめに —Adobe Campaign Standard
 
 Adobe Campaign Standardは、オンラインとオフラインの戦略を調整して、パーソナライズされた顧客体験を作り出すのに役立つ強力なクロスチャネルキャンペーン管理ツールです。
 
 チャネル間のキャンペーンの作成、実行、追跡のプロセス全体を制御し、クライアントのプロファイル、行動、環境設定、ニーズに応じてパーソナライズされたメッセージを送信します。 マーケティングプロセス全体を容易に調整、モデル化、自動化し、他のAdobeソリューションと統合できます。
 
-Adobe Campaign Standardの使い始めに役立つチュートリアルビデオがいくつか用意されています。
+Adobe Campaign Standardの使い始めに役立つチュートリアルビデオがいくつかあります。
 
-* [Adobe Campaign Standardの概要](/help/getting-started/adobe-campaign-standard-introduction.md)
+* [Adobe Campaign Standardの紹介](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [機能の概要](/help/getting-started/functional-overview.md)
 * [UIの概要](/help/getting-started/getting-started-with-the-ui.md)
 * [リストの設定](/help/getting-started/configure-a-list.md)
@@ -37,4 +37,4 @@ Adobe Campaign Standardの使い始めに役立つチュートリアルビデオ
 
 ## その他のリソース
 
-* [ドキュメント —Adobe Campaign Standard使用の手引き](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-campaign-standard.html)
+* [ドキュメント —Adobe Campaign Standardを使い始める](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-campaign-standard.html)
