@@ -17,7 +17,7 @@ ht-degree: 7%
 ---
 
 
-# [!UICONTROL Profile Substitution] - ターゲットプロファイルを使用した電子メールメッセージのテスト
+# [!UICONTROL Profile Substitution] - ターゲットプロファイルを使用した E メールメッセージのテスト
 
 このビデオでは、を使用して電子メールメッセージをテストする方法を説明 [!UICONTROL Profile Substitution]します。 次の使用例について説明します。
 
@@ -34,5 +34,5 @@ ht-degree: 7%
 ## その他のリソース
 
 * [ターゲットプロファイルを使用したメッセージのテスト（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
-* [A/B テスト用電子メールのデザイン](/help/communication-channels/email/a-b-testing.md)
+* [A/B テスト用 E メールのデザイン](/help/communication-channels/email/a-b-testing.md)
 * [テストの送信、準備、電子メールの送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
