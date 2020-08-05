@@ -1,6 +1,6 @@
 ---
 title: 外部シグナルアクティビティ — パラメータを使用してワークフローを呼び出します。
-description: 外部信号アクティビティは、同じ顧客の遍歴の一部である異なるプロセスを別々のワークフローに編成および調整するために使用します。 ワークフローを別のワークフローから開始でき、より複雑な顧客の遍歴をサポートしながら、問題が発生した場合の監視と対応を改善できます。
+description: 外部信号アクティビティは、同じ顧客の遍歴の一部である異なるプロセスを別々のワークフローに編成および調整するために使用します。 このアクティビティでは、あるワークフローを別のワークフローから起動できるので、さらに複雑なカスタマージャーニーをサポートできる一方、問題が発生した場合の監視と対応を改善することができます。
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
 
 # [!UICONTROL External Signal activity ]— パラメーターを使用してワークフローを呼び出す
 
-は、同じ顧客の遍歴の一部である異なるプロセスを別々のワークフローに編成および調整するために使用します。 [!UICONTROL External Signal activity] ワークフローを別のワークフローから開始でき、より複雑な顧客の遍歴をサポートしながら、問題が発生した場合の監視と対応を改善できます。
+The [!UICONTROL External Signal activity] is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. このアクティビティでは、あるワークフローを別のワークフローから起動できるので、さらに複雑なカスタマージャーニーをサポートできる一方、問題が発生した場合の監視と対応を改善することができます。
 
 ACS 19.2では、ワークフローを呼び出すだけでなく、オーディエンスにパラメータ(ターゲットに対するワークフロー名、インポートするファイル名、メッセージコンテンツの一部など)を渡すこともできます。 [!UICONTROL External Signal activity] を別のワークフローまたはREST API呼び出しから取得して、外部システムと統合できます。
 
