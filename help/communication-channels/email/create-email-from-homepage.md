@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 9%
+ht-degree: 16%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 9%
 
 * [ワークフローを介した電子メールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [電子メールの作成（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [配信のベストプラクティス](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)
+* [配信のベストプラクティス](https://helpx.adobe.com/jp/campaign/kb/delivery-best-practices.html)
