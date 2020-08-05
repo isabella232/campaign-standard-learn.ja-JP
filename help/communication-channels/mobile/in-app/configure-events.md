@@ -1,6 +1,6 @@
 ---
 title: イベントの設定
-description: 'Adobe Campaign Standard(ACS)でアプリ内メッセージを設定する場合、イベントが開始するアクションによって表示するメッセージがトリガーされるユーザーが定義します。 '
+description: 'Adobe Campaign Standard(ACS)イベントでアプリ内メッセージを設定する場合、どのユーザが開始したアクションによって表示するメッセージがトリガされるかを定義します。 '
 feature: In-App
 topics: Mobile
 kt: 2548
