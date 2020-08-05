@@ -95,7 +95,7 @@ MobileCore.lifecyclePause();
 ### モバイルアプリケーション購読者の確認
 
 Adobe Campaign Standardインスタンスにログインします。
-ナビゲ **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**&#x200B;ート 適切なモバイルアプリケーションを開きます。 タブに移動し [!UICONTROL Mobile Application Subscribers] ます。 リストが表示され [!UICONTROL registration token ]ます。
+ナビゲ **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**&#x200B;ート 適切なモバイルアプリケーションを開きます。 Tab to the [!UICONTROL Mobile Application Subscribers] tab. リストが表示され [!UICONTROL registration token ]ます。
 
 ![モバイルアプリケーション購読者](assets/mobile-application-subscribers.PNG)
 
