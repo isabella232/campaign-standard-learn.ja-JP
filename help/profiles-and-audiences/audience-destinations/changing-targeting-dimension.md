@@ -1,6 +1,6 @@
 ---
 title: ターゲティングディメンションの変更
-description: このビデオでは、Adobe Campaign Standardのプライマリプロファイルテーブル外のPlatformオーディエンスの配信のターゲティングディメンションを変更する方法を説明します。
+description: このビデオでは、Adobe Campaign Standardのプライマリプロファイル表の外で、プラットフォームオーディエンスの配信のターゲティングディメンションを変更する方法を説明します。
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
@@ -20,7 +20,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
+>この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、具体的な設定が必要です。
 >
 >この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
 
