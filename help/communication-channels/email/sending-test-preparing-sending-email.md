@@ -1,6 +1,6 @@
 ---
 title: テストの送信、準備、電子メールの送信
-description: 'このビデオでは、テスト用電子メールを送信し、Adobe Campaign Standard(ACS)で電子メール配信を準備して送信する方法を説明します。 '
+description: 'このビデオでは、テスト用の電子メールを送信し、Adobe Campaign Standard(ACS)で電子メール配信を準備して送信する方法を説明します。 '
 feature: Email
 topics: null
 kt: 1812
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # テストの送信、準備、電子メールの送信
 
-このビデオでは、テスト用電子メールを送信し、Adobe Campaign Standard(ACS)で電子メール配信を準備して送信する方法を説明します。
+このビデオでは、テスト用の電子メールを送信し、Adobe Campaign Standard(ACS)で電子メール配信を準備して送信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)
 
