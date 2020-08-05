@@ -24,12 +24,12 @@ ht-degree: 9%
 >
 >この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
 
-データ取り込みジョブのステータスを確認する方法、およびデータがAdobe Campaign StandardからAdobe Experience Platformに取り込まれたかどうかを確認する方法について説明します。
+データ取り込みジョブの状態を確認する方法、およびデータがAdobe Campaign StandardからAdobe Experience Platformに取り込まれたかどうかを確認する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
 ## その他のリソース
 
 * [マッピング定義](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [マッピングの有効化](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-* [API によるデータ取り込みのトリガー](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
+* [マッピングのアクティベーション](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
+* [API によるデータ取得トリガー](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
