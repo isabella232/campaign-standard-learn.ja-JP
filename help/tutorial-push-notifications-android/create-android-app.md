@@ -1,6 +1,6 @@
 ---
 title: 手順1 - Androidアプリを作成し、Firebase Cloud Messagingを使用するように設定する
-description: ここでは、Adobe Campaign Standardから [!DNL Android] App to receive [!UICONTROL Push notifications] 作成します。 プッシュ通知を受け取るには、アプリをGoogleに登録する必要があります [!DNL Firebase Cloud Service]。
+description: ここではAdobe Campaign Standardから [!DNL Android] App to receive [!UICONTROL Push notifications] 作成します。 プッシュ通知を受け取るには、アプリをGoogleに登録する必要があります [!DNL Firebase Cloud Service]。
 feature: Push
 topics: Mobile
 kt: 4825
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
 workflow-type: tm+mt
 source-wordcount: '316'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 2. 起動 [!DNL Android Studio]
 3. Click **[!UICONTROL File]** > **[!UICONTROL New]** > **[!UICONTROL New Project].**
-4. を選択 **[!UICONTROL Empty Activity]** し、をクリックし **[!UICONTROL Next]ます。**
+4. 「**[!UICONTROL Empty Activity]**」を選択し、「**[!UICONTROL Next]」をクリックします。**
 
    ![android-project](assets/android-project.PNG)
 
@@ -42,13 +42,13 @@ ht-degree: 1%
    ![android-project-structure](assets/android-project-structure.PNG)
 
 8. クリック **[!UICONTROL Tools]** > **[!UICONTROL Firebase].**(これにより、プロジェクトがに追加され[!DNL Firebase]ます)
-9. クリック **[!UICONTROL Set up Firebase Cloud Messaging].**
+9. 「**[!UICONTROL Set up Firebase Cloud Messaging]」をクリックします。**
 
    ![firebaseの設定](assets/android-project-firebase-messaging.PNG)
 
-10. クリック **[!UICONTROL Connect to Firebase].**
+10. 「**[!UICONTROL Connect to Firebase]」をクリックします。**
 11. アプリケーションがFirebaseに接続されたら、をクリックし **[!UICONTROL Add FCM to your app]ます。**
-12. クリック **[!UICONTROL Accept Changes].**
+12. 「**[!UICONTROL Accept Changes]」をクリックします。**
 
    アプリにFCMを追加する場合、ウィザードでプロジェクトに変更を加えるための権限が必要です。
 
@@ -68,7 +68,7 @@ ht-degree: 1%
 
    ![project-settings](assets/firebase-project-settings.PNG)
 
-4. タブに移動し **[!UICONTROL Cloud Messaging]** ます。
+4. Tab to the **[!UICONTROL Cloud Messaging]** tab.
 5. サーバーキーをコピーします
 
    ![サーバーキー](assets/firebase-server-key.PNG)
@@ -83,4 +83,4 @@ ht-degree: 1%
 
 ![push-チャネル設定](assets/push-channel-settings.PNG)
 
-要約すると、を作成し、を [!DNL Android App] 使用してに接続し [!DNL Android App] ま [!DNL Firebase]す。 次に、Adobe Campaign Standard内のモバイルアプリにアプリのサーバーキーを貼り付け [!DNL Android App][!DNL Android] て、アプリとのAdobe Campaignでモバイルアプリを接続しました。
+要約すると、を作成し、を [!DNL Android App] 使用してに接続し [!DNL Android App] ま [!DNL Firebase]す。 次に、アプリのサーバーキーをAdobe Campaign Standardのモバイルアプリに貼り付け [!DNL Android App] て、とAdobe Campaignしてモバ [!DNL Android] イルアプリを接続しました。
