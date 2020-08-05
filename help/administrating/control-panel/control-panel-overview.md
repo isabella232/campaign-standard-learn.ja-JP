@@ -24,7 +24,7 @@ ht-degree: 6%
 
 を [!UICONTROL Control Panel] 使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンスまたは [!UICONTROL allow list] IPアドレスごとのSFTPストレージの管理などの管理タスクを実行できます。
 
-## アクセス [!UICONTROL Control Panel]
+## [!UICONTROL Control Panel] へのアクセス
 
 Campaign コントロールパネルにアクセスするには、Experience Cloudホームに移動します。 [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
