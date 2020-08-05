@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -31,4 +31,4 @@ ht-degree: 1%
 ## その他のリソース
 
 * [モバイルプロパティの設定(Adobe起動ドキュメント)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Adobe Experience PlatformSDKを使用したモバイルアプリの設定（ドキュメント）](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [Adobe Experience PlatformSDKを使用したモバイルアプリの設定（ドキュメント）](https://helpx.adobe.com/jp/campaign/kb/configuring-app-sdk.html)
