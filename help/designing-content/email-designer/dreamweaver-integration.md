@@ -1,6 +1,6 @@
 ---
 title: Adobe Dreamweaverを使用したコンテンツの作成
-description: このビデオでは、Dreamweaverの統合を有効にするために必要なものと、Dreamweaverを使用してAdobe Campaign Standard用のコンテンツを作成、編集する方法を説明しています。
+description: このビデオでは、Dreamweaver統合を有効にするために必要なものと、Dreamweaverを使用してAdobe Campaign Standard向けのコンテンツを作成、編集する方法を説明しています。
 feature: Email Designer
 kt: 1420
 doc-type: feature video
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # Adobe Dreamweaverを使用したコンテンツの作成
 
-Adobe DreamweaverとのAdobe Campaign Standard統合により、Dreamweaverのインターフェイス内で電子メールのコンテンツを直接編集できます。
+Adobe Campaign StandardとAdobe Dreamweaverの統合により、Dreamweaverのインターフェイス内で電子メールのコンテンツを直接編集できます。
 
 * コンテンツの双方向リアルタイム同期
 * Dreamweaver経由でAdobe Campaignにローカル画像をアップロードする
@@ -27,7 +27,7 @@ Adobe DreamweaverとのAdobe Campaign Standard統合により、Dreamweaverの�
 >
 >この機能には、という名前のDreamweaver拡張子が必要 **[!UICONTROL Adobe Campaign Integration]**&#x200B;です。 この拡張機能は、 [AdobeExchangeからダウンロードできます](https://exchange.adobe.com/creativecloud.html#search)。 インストールの詳細については、 [キャンペーン拡張機能(Dreamweaver版)を参照してください](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)。
 
-このビデオでは、Dreamweaverの統合を有効にするために必要なものと、Dreamweaverを使用してAdobe Campaign Standard用のコンテンツを作成、編集する方法を説明しています。
+このビデオでは、Dreamweaver統合を有効にするために必要なものと、Dreamweaverを使用してAdobe Campaign Standard向けのコンテンツを作成、編集する方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
 *Adobe CampaignでのDreamweaver統合の使い方（02:37分）*
