@@ -22,11 +22,11 @@ ht-degree: 2%
 
 * Adobe Campaign Standardインスタンスにログインします
 * Click **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
-* 選択 **[!UICONTROL Send push to app subscribers(mobileApp)]** して「次へ」をクリックします
+* Select **[!UICONTROL Send push to app subscribers(mobileApp)]** and click Next
 * ドロップダウンリストから適切なモバイルアプリを選択し、 **[!UICONTROL Associate a Mobile App to a delivery]** 「 **[!UICONTROL Next]**
 * カウントラベルをクリックすると、0より大きい値が返されます。 クリック **[!UICONTROL Next]**
 * 意味のある値を指定し、をクリックし [!UICONTROL Message title] ま [!UICONTROL Message body]**[!UICONTROL Create]**&#x200B;す。
-* クリック **[!UICONTROL Prepare]** .準備が完了したら、クリックしてメッセージ **[!UICONTROL Confirm]** を送信します。
+* 「**[!UICONTROL Prepare]**」をクリックします。準備が完了したら、クリックしてメッセージ **[!UICONTROL Confirm]** を送信します。
 
 問題が解決しない場合は、エミュレーターで実行されているAndroidアプリで通知が表示されます
 
