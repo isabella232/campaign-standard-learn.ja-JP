@@ -19,7 +19,7 @@ ht-degree: 20%
 
 # UI使用の手引き
 
-このビデオでは、Adobe Campaign Standardのユーザーインターフェイスの概要と、主な機能やコア機能に移動する方法を説明します。
+このビデオでは、Adobe Campaign Standardのユーザーインターフェイスの概要と、主な機能や主要な機能に移動する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
 
