@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 次のコードをに貼り付けま [!DNL MainActivity]す。
 
-```java{.line-numbers}
+```java
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -100,5 +100,4 @@ Adobe Campaign Standardインスタンスにログインします。
 ![モバイルアプリケーション購読者](assets/mobile-application-subscribers.PNG)
 
 >[注意]
->
 >これ以上操作を行う前に、 [!UICONTROL Mobile Application Subscribers] タブ「ここで停止」に登録トークンが表示されない場合。
