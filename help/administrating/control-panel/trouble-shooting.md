@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 99%
+source-wordcount: '330'
+ht-degree: 100%
 
 ---
 
 
-# Folio Builder [!UICONTROL Control Panel]
+# Campaign コントロールパネル]のトラブルシューティング
 
 Campaign コントロールパネルを使用する際の問題のトラブルシューティング方法を説明します。
 
