@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '529'
-ht-degree: 91%
+source-wordcount: '500'
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 91%
    + [プロファイルとオーディエンスの作成 - 概要](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [プロファイルの作成](/help/profiles-and-audiences/creating-a-profile.md)
    + [テストプロファイルの作成](/help/profiles-and-audiences/test-profiles.md)
-   + [ワークフローを使用したプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
+   + [ワークフローでのプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
    + [サービスと購読の管理](/help/managing-processes-and-data/services-and-subscriptions.md)
    + オーディエンスの宛先（ベータ版）{#audience-destinations}
       + [概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -49,7 +49,7 @@ ht-degree: 91%
       + [E メールの作成](/help/communication-channels/email/create-email-from-homepage.md)
       + [テストの送信、E メールの準備および送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [多言語の E メールまたは SMS 配信の作成](/help/communication-channels/create-multilingual-deliveries.md)
-      + [既存の電子メール、SMS配信またはテンプレートを多言語に変換する](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [既存の E メール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B テスト](/help/communication-channels/email/a-b-testing.md)
       + [ターゲットプロファイルを使用した E メールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)
       + [E メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,7 @@ ht-degree: 91%
    + モバイル {#mobile}
       + SMS{#sms}
          + [SMS 配信の作成](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [多言語の E メールまたは SMS 配信の作成](/help/communication-channels/create-multilingual-deliveries.md)
-         + [既存の電子メール、SMS配信またはテンプレートを多言語に変換する](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [既存の E メール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + プッシュ通知 {#push}
          + [プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [多言語プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -87,7 +86,6 @@ ht-degree: 91%
    + [トランザクション E メールでの製品リストの設定](/help/designing-content/product-listings-in-transactional-email.md)
 + プロセスとデータの管理{#managing-processes-and-data}
    + [ワークフローの作成](/help/managing-processes-and-data/create-workflow.md)
-   + [ワークフローを使用したプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
    + 実行アクティビティ{#execution-activities}
       + [外部信号アクティビティ](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + データ管理アクティビティ{#data-management-activities}
@@ -109,7 +107,6 @@ ht-degree: 91%
       + [SFTP サーバーへの接続](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [サブドメインのデリゲート](/help/administrating/control-panel/subdomain-delegation.md)
       + [SSL 証明書の追加](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [SSL 証明書の管理](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT レコード管理](/help/administrating/control-panel/google-txt-record-management.md)
       + GPG キー管理 {#gpg-key-management}
          + [GPG キー管理 - 概要](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
@@ -133,5 +130,3 @@ ht-degree: 91%
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
    + [プライバシーリクエストの手動作成と追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign配信品質ベストプラクティスガイド](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-
