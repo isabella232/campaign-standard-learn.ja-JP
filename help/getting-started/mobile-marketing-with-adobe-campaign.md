@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaignを使用したモバイルマーケティング
-description: このビデオでは、お客様のモバイルマーケティング戦略をサポートできるAdobe Campaign Standardの機能を説明します。
+title: Adobe Campaign を使用したモバイルマーケティング
+description: このビデオでは、モバイルマーケティング戦略をサポートできる Adobe Campaign Standard 機能を説明します。
 feature: Mobile
 topics: null
 kt: 3976
@@ -11,19 +11,19 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign付きMobile Marketing
+# Adobe Campaign を使用したモバイルマーケティング
 
-このビデオでは、お客様のモバイルマーケティング戦略をサポートできるAdobe Campaign Standardの機能を説明します。
+このビデオでは、モバイルマーケティング戦略をサポートできる Adobe Campaign Standard 機能を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
 
 ## その他のリソース
 
-* [Adobe Campaignを使用したアプリ内メッセージ](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
-* [プッシュNOTの作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
-* [SMS配信](/help/communication-channels/mobile/sms/sms-delivery.md)
+* [Adobe Campaign を使用したアプリ内メッセージ](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
+* [プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [SMS 配信](/help/communication-channels/mobile/sms/sms-delivery.md)
