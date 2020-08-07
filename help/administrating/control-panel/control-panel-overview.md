@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '364'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 * **[SSL 証明書の追加](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *サブドメインを保護するために SSL 証明書を追加する方法について説明します。*
-* **[SSL 証明書の管理](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *サブドメインの SSL 証明書のステータスを表示し、更新を要求する方法について説明します。*
 * **[Google TXT レコード管理](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Campaign コントロールパネルを使用して、Gmail アドレス宛ての E メール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。*
