@@ -1,6 +1,6 @@
 ---
-title: 階層とマーケティングアクティビティの調査
-description: このビデオでは、Adobe Campaign Standard(ACS)のプログラムとキャンペーンの階層、マーケティングプログラムの作成方法、およびプログラム内でマーケティングキャンペーンを作成する方法について説明します。
+title: 階層とマーケティングアクティビティの詳細
+description: このビデオでは、Adobe Campaign Standard（ACS）でのプログラムとキャンペーンの階層、マーケティングプログラムの作成方法、およびプログラム内でのマーケティングキャンペーンの作成方法を説明します。
 feature: managing campaigns
 topics: null
 kt: 3892
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# 階層とマーケティングアクティビティの調査
+# 階層とマーケティングアクティビティの詳細
 
 このビデオでは、プログラムとキャンペーンの階層、マーケティングプログラムの作成方法、プログラム内でマーケティングキャンペーンを作成する方法について説明します。
 
@@ -24,4 +24,4 @@ ht-degree: 6%
 
 ## その他のリソース
 
-* [プログラムとキャンペーン](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
+* [プログラムとキャンペーン](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.translate.html)
