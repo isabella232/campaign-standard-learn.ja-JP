@@ -1,6 +1,6 @@
 ---
-title: データ暗号化用のGPGキーの生成とインストール
-description: コントロールパネルでは、Adobe Campaign インスタンスから送信されるデータを暗号化できます。送信データの暗号化用に、指定したキャンペーンインスタンスに公開鍵と秘密鍵のペアを生成し、インストールする方法を説明します。
+title: データ暗号化用の GPG キーの生成とインストール
+description: コントロールパネルでは、Adobe Campaign インスタンスから送信されるデータを暗号化できます。送信データの暗号化用に、特定の Campaign インスタンスに公開／秘密鍵のペアを生成してインストールする方法を説明します。
 feature: Control Panel
 topics: null
 kt: 5188
@@ -12,18 +12,18 @@ translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
 
-# データ暗号化用のGPGキーの生成とインストール
+# データ暗号化用の GPG キーの生成とインストール
 
-コントロールパネルでは、Adobe Campaign インスタンスから送信されるデータを暗号化できます。送信データの暗号化用に、指定したキャンペーンインスタンスに公開鍵と秘密鍵のペアを生成し、インストールする方法を説明します。
+コントロールパネルでは、Adobe Campaign インスタンスから送信されるデータを暗号化できます。送信データの暗号化用に、特定の Campaign インスタンスに公開／秘密鍵のペアを生成してインストールする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
 ## その他のリソース
 
-* [GPGキー管理（ビデオ）](./gpg-key-management-overview.md)
-* [GPG鍵管理（ドキュメント）](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG キー管理（ビデオ）](./gpg-key-management-overview.md)
+* [GPG キー管理（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/control-panel/using/instances-settings/gpg-keys-management.translate.html)
