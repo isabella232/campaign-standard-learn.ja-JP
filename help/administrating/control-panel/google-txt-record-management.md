@@ -1,6 +1,6 @@
 ---
 title: Google TXT レコード管理
-description: Google TXTサイト検証レコードは、キャンペーンCampaign コントロールパネルを介してGMAILアドレスに電子メールを送信するために使用するすべてのサブドメインに追加できます。
+description: Campaign コントロールパネルを使用して、Gmail アドレス宛ての E メール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加できます。
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744
@@ -11,19 +11,19 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Google] TXTレコード管理
+# [!DNL Google] TXT レコード管理
 
-To ensure high inbox rates and low spam rates, some services like [!DNL Google] require that you add a TXT record to your domain setting to verify that you own the domain. TXT レコードは、ドメインに関するテキスト情報を提供するために使用される DNS レコードの一種で、外部ソースから読み取ることができます。
+高い受信ボックス率および低いスパム率を確保するために、[!DNL Google] などの一部のサービスでは、ドメインを所有していることを検証するために、ドメイン設定に TXT レコードを追加する必要があります。TXT レコードは、ドメインに関するテキスト情報を提供するために使用される DNS レコードの一種で、外部ソースから読み取ることができます。
 
-次のビデオでは、でGMAILアドレスに電子メールを送信する際に使用するすべてのサブドメインに、 [!DNL Google] TXTサイト検証レコードを追加する方法を説明 [!UICONTROL Campaign Control Panel]します。
+次のビデオでは、[!UICONTROL Campaign Control Panel] で Gmail アドレスに E メールを送信する際に使用するすべてのサブドメインに、[!DNL Google] TXT サイト検証レコードを追加する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
 ## その他のリソース
 
-* [ドキュメント](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
+* [ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
