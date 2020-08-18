@@ -3,15 +3,15 @@ title: 電子メールデザイナの概要
 description: このビデオでは、電子メールデザイナの一般的な機能、および一から電子メールを設計する方法を説明します。このページには、Adobe Campaign電子メールデザイナで利用できるすべての機能ビデオがリストされています
 feature: Email Designer
 topics: Content Creation
-kt: 2391
+kt: null
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 1%
+source-wordcount: '137'
+ht-degree: 11%
 
 ---
 
@@ -24,18 +24,13 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
-## Getting Started with the [!UICONTROL Email Designer]
-
-このビデオでは、の一般的な機能 [!UICONTROL Email Designer] と、電子メールをゼロからデザインする方法を説明します。
-
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
-
 ## チュートリアル
 
 次の詳細なチュートリアルを使用できます。
 
+* [電子メールデザイナの概要](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [コンテンツテンプレート](/help/designing-content/email-designer/email-content-templates.md)
 * [モバイル表示の設定](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [電子メールのプレビュー](/help/designing-content/email-designer/preview-your-email.md)
-* [既存のコンテンツの操作](/help/designing-content/email-designer/working-with-existing-content.md)
-* [Adobe Dreamweaverを使用したコンテンツの作成](/help/designing-content/email-designer/dreamweaver-integration.md)
+* [既存コンテンツの使用](/help/designing-content/email-designer/working-with-existing-content.md)
+* [Adobe Dreamweaver を使用したコンテンツ作成](/help/designing-content/email-designer/dreamweaver-integration.md)
