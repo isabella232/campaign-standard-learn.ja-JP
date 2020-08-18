@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 97%
+source-wordcount: '519'
+ht-degree: 96%
 
 ---
 
@@ -79,6 +79,7 @@ ht-degree: 97%
 + コンテンツのデザインとパーソナライズ {#designing-content}
    + Email Designer {#email-designer}
       + [概要](/help/designing-content/email-designer/email-designer-overview.md)
+      + [電子メールデザイナの概要](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [E メールコンテンツテンプレートの概要](/help/designing-content/email-designer/email-content-templates.md)
       + [モバイル表示の設定](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [E メールおよびスパム対策分析のプレビュー](/help/designing-content/email-designer/preview-your-email.md)
