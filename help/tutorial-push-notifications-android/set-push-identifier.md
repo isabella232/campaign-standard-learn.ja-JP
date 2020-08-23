@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -99,5 +99,6 @@ Adobe Campaign Standardインスタンスにログインします。
 
 ![モバイルアプリケーション購読者](assets/mobile-application-subscribers.PNG)
 
->[注意]
+>[!NOTE]
+>
 >これ以上操作を行う前に、 [!UICONTROL Mobile Application Subscribers] タブ「ここで停止」に登録トークンが表示されない場合。
