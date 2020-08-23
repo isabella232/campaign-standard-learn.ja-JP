@@ -1,5 +1,5 @@
 ---
-title: トランザクション電子メールでの製品リストの設定
+title: トランザクション E メールでの製品リストの設定
 description: このビデオでは、Adobe Campaign Standard(ACS)のトランザクション電子メールでの製品リストの設定に必要な手順を説明しています。
 feature: Transactional Emails
 topics: Content Creation
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '174'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 次のビデオでは、での設定に必要な手順を説明 [!UICONTROL product listings] してい [!UICONTROL transactional emails]ます。
 
->[注意]
+>[!NOTE]
 >
 >この機能は、現在、ビデオ内ではループと呼ばれています。
 
