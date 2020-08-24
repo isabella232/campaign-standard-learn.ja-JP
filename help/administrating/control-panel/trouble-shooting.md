@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
+source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 99%
 
 ---
 
 
-# Campaign コントロールパネルのトラブルシューティング
+# Folio Builder [!UICONTROL Control Panel]
 
 Campaign コントロールパネルを使用する際の問題のトラブルシューティング方法を説明します。
 
@@ -40,7 +40,7 @@ Campaign コントロールパネルを使用する際の問題のトラブル�
 ### 症状： インスタンスが [!UICONTROL Control Panel] の一覧に表示されない
 
 **原因：**
-ユーザーは、見つからないインスタンスについて、製品プロファイル（`!DNL Campaign-xxx-Administrators/Admin`）に *[!UICONTROL user]* として追加される必要があると考えられます。
+ユーザーは、見つからないインスタンスについて、製品プロファイル（`Campaign-xxx-Administrators/Admin`）に *[!UICONTROL user]* として追加される必要があると考えられます。
 
 **解決方法：**
 管理者は、管理する各インスタンスについて、ユーザーを製品プロファイル（`Campaign-xxx-Admins`）に追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、場合によっては、*[!UICONTROL user]* として自分自身を追加する必要があります。
