@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
+source-git-commit: c72943b6e3209156b6f17679bae4d303fa766224
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ SFTP 管理にアクセスし、SFTP サーバーに接続する方法を説明�
 
 Campaign コントロールパネルで SFTP 管理にアクセスするには、次のいずれかの手順に従います。
 
-* [Experience Cloud ホーム](https://experience.adobe.com/jp/#/home)／[!UICONTROL Solution picker]：[!UICONTROL Campaign]／**[!UICONTROL Control Panel]** カード／**SFTP** カード
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／[!UICONTROL Solution picker]：[!UICONTROL Campaign]／**[!UICONTROL Control Panel]** カード／**SFTP** カード
 
    または
 * URL から直接アクセス：[http://experience.adobe.com/jp/#/controlpanel/sftp](http://experience.adobe.com/jp/#/controlpanel/sftp)
@@ -33,11 +33,11 @@ Campaign コントロールパネルで SFTP 管理にアクセスするには�
 
 SFTP サーバーに接続するには、次の環境が必要です。
 
-* [!! ]SFTP サーバーに接続する IP アドレスの許可リスト
+* SFTP サーバーに接続する IP アドレスの [!UICONTROL allow listing]
 * Adobe Campaign に登録する必要がある秘密鍵と公開鍵のペア
 * SFTP サーバーに直接接続する場合は、SFTP クライアントソフトウェアも必要です
 
 このビデオでは、Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションを使用して SFTP サーバーに接続する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
-*SFTP サーバーへの接続（02:04 分）*
+*SFTP サーバーへの接続（2 分 4 秒）*
