@@ -8,8 +8,9 @@ tutorials-title: チュートリアル
 tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.translate.html
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
+source-git-commit: 5d176b2df0da17dd66c6b2990b9da051296fd508
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 96%
@@ -103,9 +104,9 @@ ht-degree: 96%
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
    + コントロールパネル{#control-panel}
-      + [コントロールパネルの概要](/help/administrating/control-panel/control-panel-overview.md)
+      + [Campaign コントロールパネルの概要](/help/administrating/control-panel/control-panel-overview.md)
       + [サーバー容量の監視、許可リストへの IP アドレスの追加、SSH 鍵の追加](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [SSH 鍵の生成](/help/administrating/control-panel/generate-ssh-key.md)
+      + [SSH キーの生成](/help/administrating/control-panel/generate-ssh-key.md)
       + [SFTP サーバーへの接続](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [サブドメインのデリゲート](/help/administrating/control-panel/subdomain-delegation.md)
       + [SSL 証明書の追加](/help/administrating/control-panel/adding-ssl-certificates.md)
