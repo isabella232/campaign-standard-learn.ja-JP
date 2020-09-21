@@ -3,10 +3,10 @@ title: Adobe Campaign Standard チュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザーガイドには、Adobe Campaign Standard の多くの機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 62%
 
 ---
 
@@ -17,13 +17,17 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[GPG キー管理](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[配信へのコントロール母集団の追加](/help/communication-channels/email/control-groups.md)**
 
-   *送信データの暗号化用に、特定の Campaign インスタンスに公開／秘密鍵のペアを生成してインストールする方法、および受信データの復号化用に、Campaign インスタンスに公開鍵を読み込んでインストールする方法を説明します。*
+   *配信のターゲットを定義する[!UICONTROL control group]際に、を作成する方法を説明します。*
 
-* **[外部 API アクティビティ](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[予測送信時間の最適化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *外部 API アクティビティを使用してワークフローを設定および実行する方法について説明します。*
+   *Adobe CampaignとJarney AIモデルの間でデータを同期するために必要なワークフローを理解します。 個々のプロファイルレベルで時間スコアを表示送信する方法、および送信時間の数式を使用して電子メール配信を実行する方法について説明します。*
+
+* **[予測エンゲージメントスコアリング](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+
+   *個々のプロファイルレベルでの表示エンゲージメントスコアの作成、アクションを実行したユーザーのターゲット設定、疲労したユーザーの抑制の方法、およびタイポロジルールの作成方法を説明します。*
 
 ## アドビのお勧め
 
@@ -43,16 +47,16 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     <p>
   </td>
    <td>
-    <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="Email Designer（ビデオ）" src="./assets/email_designer_tutorial.png" />
+    <a href="./administrating/control-panel/control-panel-overview.md">
+      <img alt="Campaign コントロールパネル（ビデオ）" src="./assets/control-panel.png" />
     </a>
     <div>
-      <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>Email Designer（ビデオ）</strong>
+    <a href="./administrating/control-panel/control-panel-overview.md">
+    <strong>Campaign コントロールパネル（ビデオ）</strong>
     </a>
     </div>
     <p>
-    <em>Email Designer を使用すると、個々にパーソナライズされた E メールを容易かつ素早く、視覚的に作成できます。</em>
+    <em> Campaign コントロールパネルでインスタンスの設定を管理し、使用状況を追跡することで、管理者の効率を向上させます。</em>
     <p>
   </td>
   <td>
