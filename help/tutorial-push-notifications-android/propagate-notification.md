@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -26,6 +26,10 @@ ht-degree: 0%
 * パッケージフォルダー([!DNL com.example.acspushtutorial])を右クリックし、 [!DNL New ->Java Class]
 * このクラスに名前を付け、拡張し *[!DNL MyService]* ていることを確認します [!DNL FirebaseMessagingService]
 * このクラスで *[!DNL sendNotification]* メソッドを作成します。 このメソッドでは、 [!DNL NotificationCompat.Builder] オブジェクトを使用して通知のコンテンツとチャネルを設定する必要があります。 通知を表示するには、を呼び出し [!DNL NotificationManagerCompat.notify()]、通知との結果の一意のIDを渡し [!DNL NotificationCompat.Builder.build()]ます。
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 package com.example.pushmessaging;
@@ -91,6 +95,10 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 ## 修正 [!DNL AndroidManifest.xml]
 
 に追加対して作成されたサービス [!DNL AndroidManifest.xml]。 最終的な結果 [!DNL AndroidManifest.xml] は次のようになります。
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
