@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,5 +38,5 @@ ht-degree: 10%
 
 ビデオリソース：
 
-* [統合セグメントビルダーを使用した新しいオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [統合セグメントビルダーを使用した新規オーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [マーケティングワークフローでのAdobe Experience Platformオーディエンスのアクティブ化](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
