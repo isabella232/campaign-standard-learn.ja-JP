@@ -1,22 +1,22 @@
 ---
-title: 既存のコンテンツの操作
+title: 既存コンテンツの使用
 description: このビデオでは、クリエイティブなコンテンツをWebサイトからすばやく取得し、電子メールデザイナーに読み込む方法を説明します。
 feature: Email Designer
 topics: Content Creation
-kt: 1453
+kt: 6295
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# 既存のコンテンツの操作{#working-with-existing-content}
+# 既存コンテンツの使用{#working-with-existing-content}
 
 ## URLからのコンテンツの読み込み
 
