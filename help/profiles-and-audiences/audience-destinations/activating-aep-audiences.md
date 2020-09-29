@@ -1,5 +1,5 @@
 ---
-title: ワークフローでのAdobe Experience Platformオーディエンスのアクティブ化
+title: ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション
 description: このビデオでは、「オーディエンスを読み取り」アクティビティを使用して、ワークフロー内のData Servicesクエリオーディエンスをアクティブにする方法を説明します。
 feature: Audience Destinations
 topics: ACOP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
