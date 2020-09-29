@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,11 +33,11 @@ Adobe Campaign Standardの [!UICONTROL Audiences] モジュールを使用する
 
 次のビデオチュートリアルに従って、各手順を進めてください。
 
-1. [統合セグメントビルダーを使用した新しいオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+1. [統合セグメントビルダーを使用した新規オーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [マーケティングワークフローでのAEPオーディエンスのアクティブ化](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [プラットフォームオーディエンスの配信のターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## その他のリソース
 
-*Adobe Experience Platformデータコネクタ[について](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Adobe Experience Platform コネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 
