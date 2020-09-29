@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 6%
 >
 >この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
 
-シードデータのマッピング方法と、Adobe Experience Platformでのプロファイルのテスト方法を説明します。
+シードデータのマッピング方法と、Adobe Experience Platformでのプロファイルのテスト方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 
