@@ -11,10 +11,10 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 93%
    + [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
    + [プロファイルとオーディエンスについて](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [作成と電子メール](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [E メールの作成](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [ワークフローの作成](/help/managing-processes-and-data/create-workflow.md)
    + [レポートの概要](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Adobe Campaign と共に成長](/help/getting-started/growing-with-adobe-campaign.md)
 + プロファイルとオーディエンス{#profiles-and-audiences}
-   + [プロファイルとオーディエンスの作成 - 概要](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [プロファイルとオーディエンスの作成 — 概要](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [プロファイルの作成](/help/profiles-and-audiences/creating-a-profile.md)
    + [テストプロファイルの作成](/help/profiles-and-audiences/test-profiles.md)
    + [ワークフローでのプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
