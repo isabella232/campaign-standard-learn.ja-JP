@@ -8,15 +8,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# プライバシー要求のカスタムリソースの変更
+# プライバシーリクエストのカスタムリソースの変更
 
 プライバシーの要求を処理するようにAdobe Campaign Standardを設定する場合は、プロファイルにリンクされているカスタムデータを、プロファイルを削除するときに必ず削除してください。 このビデオでは、この要件を満たすためにカスタムリソースを変更する方法を説明します。
 
