@@ -1,6 +1,6 @@
 ---
 title: プロファイルとオーディエンスの作成 — 概要
-description: このビデオでは、既存のプロファイルに移動する方法と、Adobe Campaign Standard(ACS)でプロファイルとオーディエンスを作成する方法を説明します。
+description: 既存のプロファイルに移動する方法、およびAdobe Campaign Standardでプロファイルとオーディエンスを作成する方法を説明します。
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
