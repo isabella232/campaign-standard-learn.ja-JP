@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Platformデータコネクタについて
+title: Adobe Experience Platform コネクタについて
 description: Adobe Experience PlatformData Connectorは、XTKデータ(キャンペーンで取り込まれたデータ)をAdobe Experience Platformのエクスペリエンスデータモデル(XDM)データにマッピングすることで、既存のお客様がAdobe Experience Platformでデータを利用できるようにします。
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -50,7 +50,7 @@ Adobe Experience Platform [!UICONTROL Data Connector][!UICONTROL custom resource
 2. [エクスペリエンスイベントのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [シードテーブルデータのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [データ・マッピングの変更](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [データ取り込みジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [データ取得ジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## その他のリソース
 
