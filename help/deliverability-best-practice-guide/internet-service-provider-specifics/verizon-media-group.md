@@ -8,15 +8,15 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: f98966913cb4adfcd15b578ea4589ff00798a037
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
 
-# [!DNL Verizon Media Group]（Yahoo、AOL、Verizonなど）
+# [!DNL Verizon Media Group] （Yahoo、AOL、Verizonなど）
 
 [!DNL Verizon Media Group] は、通常、ほとんどのB2Cリストにとって上位3つのドメインの1つです。 評判の問題が発生した場合、通常はメールの送信量を制限または一括送信するので、ユーザは多少独自の動作をします。
 
