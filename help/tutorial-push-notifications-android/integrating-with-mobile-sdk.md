@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,10 @@ ht-degree: 0%
 
 * フォルダを展開し [!DNL Gradle Scripts] ます。 重複がモジュール [!DNL build.gradle] のをクリックします。 次の依存関係を、フ [!DNL build.gradle] ァイルの依存関係セクションに貼り付けます。 これで、 [!DNL build.gradle] ファイルは次のようになります
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```java
 implementation 'com.adobe.marketing.mobile:campaign:1.+'
 implementation 'com.adobe.marketing.mobile:userprofile:1.+'
@@ -41,12 +45,20 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 AndroidManifest.xml *を開き* 、manifest要素の後、およびapplication要素の前に、以下の2行を貼り付けます。 これにより、アプリケーションが外部の世界と通信できるようになります
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
 アプリケーション要素に次の行をコピーし[!DNL android:name=".MainApp"]ます。 [!DNL AndroidManifest.xml]「保存」は、次のよう [!DNL AndroidManifest.xml] に表示されます。
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
