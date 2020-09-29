@@ -11,7 +11,7 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
    + [プロファイルとオーディエンスの作成 — 概要](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [プロファイルの作成](/help/profiles-and-audiences/creating-a-profile.md)
    + [テストプロファイルの作成](/help/profiles-and-audiences/test-profiles.md)
-   + [ワークフローでのプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
+   + [ワークフローを使用したプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
    + [サービスと購読の管理](/help/managing-processes-and-data/services-and-subscriptions.md)
    + オーディエンスの宛先（ベータ版）{#audience-destinations}
       + [概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -64,7 +64,6 @@ ht-degree: 0%
    + モバイル {#mobile}
       + SMS{#sms}
          + [SMS 配信の作成](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [既存の E メール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + プッシュ通知 {#push}
          + [プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [多言語プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -138,3 +137,5 @@ ht-degree: 0%
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
    + [プライバシーリクエストの手動作成と追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign配信品質ベストプラクティスガイド](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
