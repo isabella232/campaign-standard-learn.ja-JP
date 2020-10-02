@@ -11,10 +11,10 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: b28cbfdbc4edd00bc0f8cf58e2ea7fb35016e83e
+source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
 workflow-type: tm+mt
 source-wordcount: '526'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 91%
    + [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
    + [プロファイルとオーディエンスについて](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [E メールの作成](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [E メールの作成](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.translate.html)
    + [ワークフローの作成](/help/managing-processes-and-data/create-workflow.md)
    + [レポートの概要](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -58,7 +58,7 @@ ht-degree: 91%
       + [既存の E メール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [E メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [ワークフローを介した E メールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + AI電子メール {#journey-ai}
+      + AI を活用した E メール {#journey-ai}
          + [予測送信時間の最適化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [予測エンゲージメントスコアリング](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + モバイル {#mobile}
@@ -84,7 +84,7 @@ ht-degree: 91%
 + コンテンツのデザインとパーソナライズ {#designing-content}
    + Email Designer {#email-designer}
       + [概要](/help/designing-content/email-designer/email-designer-overview.md)
-      + [電子メールデザイナの概要](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Email Designer の概要](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [E メールコンテンツテンプレートの概要](/help/designing-content/email-designer/email-content-templates.md)
       + [モバイル表示の設定](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [E メールおよびスパム対策分析のプレビュー](/help/designing-content/email-designer/preview-your-email.md)
@@ -137,4 +137,3 @@ ht-degree: 91%
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
    + [プライバシーリクエストの手動作成と追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
-
