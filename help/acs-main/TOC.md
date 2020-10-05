@@ -11,10 +11,10 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
+source-git-commit: bf087838a03c404d3036f0ad9c36f483dff5d4a4
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 98%
+source-wordcount: '548'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 98%
 + はじめに{#getting-started}
    + [概要](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign Standard の概要](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [機能の概要](/help/getting-started/functional-overview.md)
    + [UI の概要](/help/getting-started/getting-started-with-the-ui.md)
    + [リストの設定](/help/getting-started/configure-a-list.md)
    + [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
@@ -137,3 +136,5 @@ ht-degree: 98%
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
    + [プライバシーリクエストの手動作成と追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign配信品質ベストプラクティスガイド](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [コントロールパネル](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
