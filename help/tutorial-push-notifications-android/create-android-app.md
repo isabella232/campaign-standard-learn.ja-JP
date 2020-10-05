@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: cdd78e97f2769503d3d4f26933ccc7f35e9b20b9
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 2%
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    ![android-project-structure](assets/android-project-structure.PNG)
 
-8. クリック **[!UICONTROL Tools]** > **[!UICONTROL Firebase].**(これにより、プロジェクトがに追加され[!DNL Firebase]ます)
+8. クリック **[!UICONTROL Tools]** > **[!UICONTROL Firebase].** (これにより、プロジェクトがに追加され [!DNL Firebase]ます)
 9. 「**[!UICONTROL Set up Firebase Cloud Messaging]」をクリックします。**
 
    ![firebaseの設定](assets/android-project-firebase-messaging.PNG)
@@ -76,7 +76,7 @@ ht-degree: 2%
 6. Adobe Campaign Standardインスタンスにログインします
 7. Click **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Channels]** > **[!UICONTROL Mobile App].**
 8. 適切なを選択し **[!UICONTROL Mobile Application Property]ます。**
-9. セクションで **[!DNL Android]アイコン&#x200B;**をクリック&#x200B;**[!UICONTROL Push Channel settings]**します。
+9. セクションで **[!DNL Android]アイコン** をクリック **[!UICONTROL Push Channel settings]** します。
 10. サーバーキーをサーバーキーフィールドに貼り付けます。
 
 うまくいけばSUCCESSメッセージが表示されます。
