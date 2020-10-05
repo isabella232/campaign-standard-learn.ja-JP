@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -31,21 +31,21 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 * **[!UICONTROL Experience Cloud Home]**／**[!UICONTROL Quick Access]**
 
    または
-* **[!UICONTROL Experience Cloud Home]**／[!UICONTROL Solution picker]：**Campaign**／**[!UICONTROL Control Panel]カード&#x200B;**
+* **[!UICONTROL Experience Cloud Home]**／[!UICONTROL Solution picker]：**Campaign**／**[!UICONTROL Control Panel]カード**
 
    または
 
-* URL から直接アクセス：[https://experience.adobe.com/jp/#/controlpanel](https://experience.adobe.com/jp/#/controlpanel)
+* URL（[https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)）で直接移動
 
 ## 前提条件
 
-開始する前に、次の前提条件を満たしておく必要があります。
+開始する前に、次の前提条件を満たすようにしてください。
 
-### [!DNL IMS Org ID] を確認
+### [!DNL IMS Org ID] の確認
 
-自身の [!DNL IMS org ID] を知っておく必要があります。次のビデオでは、インスタンスの [!DNL IMS org ID] の参照場所を説明します。
+自分の [!DNL IMS org ID] がわかっている必要があります。次のビデオでは、インスタンスの [!DNL IMS org ID] を参照できる場所を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=jpn)
 *チェック[!DNL IMS Org ID]（00:26 分）*
 
 ### 管理者権限
@@ -53,7 +53,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 [!UICONTROL Control Panel] にアクセスするには、管理者権限が必要です。
 次のビデオでは、Campaign インスタンスに管理者を追加する方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=jpn)
 *製品プロファイルの「[!UICONTROL Administrators]」に管理者を追加して[!UICONTROL Control Panel]を使用できるようにする方法（01:03 分）*
 
 ## Campaign コントロールパネルのチュートリアル
@@ -63,7 +63,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
    *サーバー容量の監視方法、許可リストへの IP アドレスの追加方法、および SSH 鍵の追加方法を説明します。*
 
    * [サーバ容量の監視、許可リストへの IP アドレスの追加、SSH 鍵の追加](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   * [SSH 鍵の生成](/help/administrating/control-panel/generate-ssh-key.md)
+   * [SSH キーの生成](/help/administrating/control-panel/generate-ssh-key.md)
    * [SFTP サーバーへの接続](/help/administrating/control-panel/connect-to-sftp-server.md)
 * **[サブドメインのデリゲート](/help/administrating/control-panel/subdomain-delegation.md)**
 
@@ -78,7 +78,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 * **GPG キー管理**
 
-   *送信データの暗号化用に、特定の Campaign インスタンスに公開／秘密鍵のペアを生成してインストールする方法、および受信データの復号化用に、Campaign インスタンスに公開鍵を読み込んでインストールする方法を説明します。*
+   *アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の Campaign インスタンスに生成しインストールする方法と、インバウンドデータを復号化するために公開鍵を Campaign インスタンスにインポートしインストールする方法を説明します。*
 
    * [データ暗号化用の GPG キーの生成とインストール](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
    * [GPG キーを使用したデータの暗号化](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
@@ -90,5 +90,5 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 ## その他のリソース
 
-* [Campaign コントロールパネルのヘルプセンター](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
+* [Campaign コントロールパネルヘルプセンター](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
 
