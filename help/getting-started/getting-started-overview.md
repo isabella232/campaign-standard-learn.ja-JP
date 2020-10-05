@@ -1,6 +1,6 @@
 ---
 title: はじめに —Adobe Campaign Standard
-description: このビデオでは、Adobe Campaign Standardのユーザーインターフェイス、主な機能、およびコア機能の概要を説明します。
+description: このビデオでは、Adobe Campaign Standard のユーザーインターフェイス、主な機能、およびコア機能の概要を説明します。
 feature: User Interface
 topics: null
 kt: null
@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 2%
+source-wordcount: '191'
+ht-degree: 38%
 
 ---
 
@@ -24,16 +24,17 @@ Adobe Campaign Standardは、オンラインとオフラインの戦略を調整
 
 Adobe Campaign Standardの使い始めに役立つチュートリアルビデオがいくつかあります。
 
-* [Adobe Campaign Standardの紹介](/help/getting-started/adobe-campaign-standard-introduction.md)
-* [機能の概要](/help/getting-started/functional-overview.md)
-* [UIの概要](/help/getting-started/getting-started-with-the-ui.md)
+* [Adobe Campaign Standard の概要](/help/getting-started/adobe-campaign-standard-introduction.md)
+* [UI の概要](/help/getting-started/getting-started-with-the-ui.md)
 * [リストの設定](/help/getting-started/configure-a-list.md)
-* [階層とマーケティングアクティビティの調査](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
+* [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
-* [プロファイルとオーディエンスの理解](/help/getting-started/understanding-profiles-and-audiences.md)
+* [プロファイルとオーディエンスについて](/help/getting-started/understanding-profiles-and-audiences.md)
+* [E メールの作成](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.translate.html)
 * [ワークフローの作成](/help/managing-processes-and-data/create-workflow.md)
 * [レポートの概要](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
-* [Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)*Adobe Campaignに合わせて[拡大するMobile Marketing](/help/getting-started/growing-with-adobe-campaign.md)
+* [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
+* [Adobe Campaign と共に成長](/help/getting-started/growing-with-adobe-campaign.md)
 
 ## その他のリソース
 
