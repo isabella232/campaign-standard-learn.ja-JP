@@ -10,30 +10,30 @@ team: PM
 translation-type: tm+mt
 source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 100%
 
 ---
 
 
 # サブドメインのデリゲート
 
-Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
+Adobe Campaign [!UICONTROL Control Panel] を使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。
 
 >[!NOTE]
 >
->Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
+>Campaign [!UICONTROL Control Panel] でのサブドメインのデリゲートは、1 月末までにベータ版が利用可能になり、その後は頻繁に更新され予告なしで変更されます。
 
 ## [!UICONTROL Control Panel] へのアクセス[!UICONTROL Subdomain Management]
 
-To access the [!UICONTROL Subdomain Management] in [!UICONTROL Control Panel], go to:
+[!UICONTROL Control Panel] の [!UICONTROL Subdomain Management] にアクセスするには、次のいずれかの手順に従います。
 
 * [Experience Cloud ホーム](https://experience.adobe.com/#/home)／[!UICONTROL Solution picker]：[!DNL Campaign]／**[!UICONTROL Control Panel]** カード／**[!UICONTROL Subdomains & Certificates]** カード
 
    または
 * URL（[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)）で直接移動
 
-## サブドメインの委任方法
+## サブドメインのデリゲート方法
 
 次のビデオでは、サブドメインをデリゲートする方法を示します。
 
