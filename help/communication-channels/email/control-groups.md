@@ -8,21 +8,21 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# に [!UICONTROL control group] [!UICONTROL delivery]
+# [!UICONTROL delivery] への [!UICONTROL control group] の追加
 
-との連携 [!UICONTROL control groups] により、自分の影響を測定 [!UICONTROL delivery ]し、マーケティングキャンペーンを最適化できます。
+[!UICONTROL control groups] と連携することで、[!UICONTROL delivery ] の影響を測定でき、マーケティングキャンペーンを最適化できます。
 
-[!DNL Adobe Campaign Standard] ターゲットオーディエンスから、ランダム [!UICONTROL control group]に、または特定の条件に基づいて除外できる、を作成できます。 その後、の行動は、マーケティングコミュニケーションを受け取ったターゲットの人口の行動と比較するためのベンチマークとして機能し [!UICONTROL control group] ます。
+[!DNL Adobe Campaign Standard] では、ターゲットオーディエンスからランダムに、または特定の条件に基づいて除外できる [!UICONTROL control group] を作成できます。その後、[!UICONTROL control group] の行動は、マーケティングコミュニケーションを受け取ったターゲット母集団の行動と比較するためのベンチマークとして役立ちます。
 
-のを定義する方法 [!UICONTROL control group] と、の送信 [!UICONTROL delivery] 後ににに割り当てられたプロファイルを抽出する方法 [!UICONTROL control group][!UICONTROL delivery] を説明します。
+[!UICONTROL delivery] の [!UICONTROL control group] を定義する方法と、[!UICONTROL delivery] の送信後に [!UICONTROL control group] に割り当てられたプロファイルを抽出する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=jpn)
