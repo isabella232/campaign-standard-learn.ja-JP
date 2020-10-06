@@ -1,6 +1,6 @@
 ---
-title: コントロールパネル
-description: このCampaign コントロールパネルにより、Adobe Campaign管理者は、キーアセットを監視し、SFTPストレージをインスタンス別に管理したり、GPGキーを管理したり、サブドメインや証明書を管理したりするなどの管理タスクを実行できます。
+title: コントロールパネル - 概要
+description: Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Campaign管理者は、キーアセットを監視し、SFTPストレージをインスタンス別に管理したり、GPGキーを管理したり、サブドメインや証明書を管理したりするなどの管理タスクを実行できます。
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,54 +8,77 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 3b6e85fee260723c83306825e5bcf59c58b2b118
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 72%
+source-wordcount: '255'
+ht-degree: 29%
 
 ---
 
+# Campaign コントロールパネル — 概要
 
-# [!UICONTROL Control Panel] {#control-panel}
+Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Campaign管理者は、キーアセットを監視し、SFTPストレージをインスタンス別に管理したり、GPGキーを管理したり、サブドメインや証明書を管理したりするなどの管理タスクを実行できます。
 
->[!NOTE]
->
->Adobe Campaign ドキュメントでは、「[!UICONTROL whitelist]（ホワイトリスト）」および「[!UICONTROL blacklist]（ブラックリスト）」という用語は「[!UICONTROL allowlist]（許可リスト）」および「[!UICONTROL denylist]（ブロックリスト）」に置き換えられました。これらの用語が製品の UI、オプション名、内部コード、チュートリアルビデオに残っている場合がありますが、今後の Campaign コントロールパネルリリースで置き換えられる予定です。
+## 新着情報
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+* **[データ暗号化用の GPG キーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
 
-## [!UICONTROL Control Panel] へのアクセス
+   *公開/秘密GPGキーペアを生成し、その公開鍵をにインストールして、インスタンスからデータを送信する前[!UICONTROL Control Panel]にデータを暗号化できるようにする方法を説明します。*
 
-Campaign コントロールパネルにアクセスするには、Experience Cloud ホーム（[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)）に移動します。
+* **[GPG キーを使用したデータの暗号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
 
-* **[!UICONTROL Experience Cloud Home]**／**[!UICONTROL Quick Access]**
+   *にインストールされたGPGキーを使用してデータをエクスポートする方法を説明[!UICONTROL Control Panel]します。*
 
-   または
-* **[!UICONTROL Experience Cloud Home]**／[!UICONTROL Solution picker]：**Campaign**／**[!UICONTROL Control Panel]カード**
+* **[データの復号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
 
-   または
+   *公開鍵を作成して、インバウンドデータの復号化のために[!UICONTROL Campaign]インスタンスにインポートしインストールする方法を説明します。*
 
-* URL（[https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)）で直接移動
+## スタッフのおすすめ
 
-## 前提条件
-
-開始する前に、次の前提条件を満たすようにしてください。
-
-### [!DNL IMS Org ID] の確認
-
-自分の [!DNL IMS org ID] がわかっている必要があります。次のビデオでは、インスタンスの [!DNL IMS org ID] を参照できる場所を説明しています。
-
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*チェック[!DNL IMS Org ID]（00:26 分）*
-
-### 管理者権限
-
-[!UICONTROL Control Panel] にアクセスするには、管理者権限が必要です。
-次のビデオでは、Campaign インスタンスに管理者を追加する方法を説明します
-
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+<table>
+<tr>
+  <td>
+    <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
+      <img alt="サブドメインのAdobe Campaignへの委任（ビデオ）" src="./assets/31390.jpg"/>
+    </a>
+    <div>
+      <a href="./subdomains-and-certificates/subdomain-delegation.md">
+    <strong>サブドメインのAdobe Campaignへの委任（ビデオ）</strong>
+    </a>
+    </div>
+    <p>
+    <em>サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。</em>
+    <p>
+  </td>
+   <td>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+      <img alt="Google TXTレコード管理（ビデオ）" src="./assets/32369.jpg" />
+    </a>
+    <div>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+    <strong>Google TXTレコード管理（ビデオ）</strong>
+    </a>
+    </div>
+    <p>
+    <em> Google TXTサイト検証レコードを、キャンペーンCampaign コントロールパネル付きの電子メールをGMAILアドレスに送信するために使用するすべてのサブドメインに追加する方法を説明します。</em>
+    <p>
+  </td>
+  <td>
+    <a href="./sftp-management/connect-to-sftp-server.md">
+      <img alt="SFTPサーバーへの接続" src="./assets/27263.jpg" />
+    </a>
+    <div>
+      <a href="./sftp-management/connect-to-sftp-server.md">
+    <strong>SFTP サーバーへの接続</strong>
+    </a>
+    </div>
+    <p>
+    <em>Campaign コントロールパネルに保存したキーを使用して、クライアントSFTPアプリケーションを使用してSFTPサーバーに接続する方法を説明します。 </em>
+    <p>
+  </td>
+</tr>
+</table>
 
 ## その他のリソース
 
 * [Campaign コントロールパネルヘルプセンター](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
-
