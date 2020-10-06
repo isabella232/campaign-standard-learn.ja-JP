@@ -7,11 +7,11 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: ht
-source-wordcount: '364'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: a078367ce8ffece206d3b83bfeefc4df4f8078d6
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -45,15 +45,17 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 自分の [!DNL IMS org ID] がわかっている必要があります。次のビデオでは、インスタンスの [!DNL IMS org ID] を参照できる場所を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=jpn)
-*チェック[!DNL IMS Org ID]（00:26 分）*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
+*[!DNL IMS Org ID]の確認（0 分 26 秒）*
 
 ### 管理者権限
 
 [!UICONTROL Control Panel] にアクセスするには、管理者権限が必要です。
 次のビデオでは、Campaign インスタンスに管理者を追加する方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *製品プロファイルの「[!UICONTROL Administrators]」に管理者を追加して[!UICONTROL Control Panel]を使用できるようにする方法（01:03 分）*
 
 ## Campaign コントロールパネルのチュートリアル
