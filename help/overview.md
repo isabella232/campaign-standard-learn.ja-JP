@@ -1,19 +1,19 @@
 ---
 title: Adobe Campaign Standard チュートリアル - 概要
-description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザーガイドには、Adobe Campaign Standard の多くの機能に関するビデオとチュートリアルが含まれています。
+description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
-translation-type: ht
-source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+workflow-type: tm+mt
+source-wordcount: '321'
+ht-degree: 98%
 
 ---
 
 
-# 概要
+# Adobe Campaign Standard — 概要
 
-Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザーガイドには、Adobe Campaign Standard の多くの機能に関するビデオとチュートリアルが含まれています。
+Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Standard の多くの機能に関するビデオとチュートリアルが含まれています。
 
 ## 新機能
 
