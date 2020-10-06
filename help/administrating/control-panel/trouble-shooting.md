@@ -7,11 +7,11 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: ht
-source-wordcount: '327'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -47,10 +47,12 @@ Campaign コントロールパネルを使用する際の問題のトラブル�
 
 ### 参考ビデオ
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=jpn)
-*チェック[!DNL IMS Org ID]（00:26 分）*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=jpn)
+*[!DNL IMS Org ID]の確認（0 分 26 秒）*
+
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *[!UICONTROL product profile]の&#x200B;*[!DNL administrators]*に管理者を追加して[!UICONTROL Control Panel]を使用できるようにする方法（01:03 分）*
 
 ### 参考ドキュメント
