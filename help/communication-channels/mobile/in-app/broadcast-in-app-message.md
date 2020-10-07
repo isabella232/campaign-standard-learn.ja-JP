@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -26,6 +26,7 @@ ht-degree: 1%
 * 新機能のリリースに関するお知らせ
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
+
 *アプリ内ブロードキャストメッセージの作成[!UICONTROL SDKV5 Mobile property]*
 
 ## その他のリソース
