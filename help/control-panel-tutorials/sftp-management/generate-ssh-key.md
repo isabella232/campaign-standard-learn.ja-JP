@@ -1,17 +1,18 @@
 ---
 title: SSH キーの生成
-description: SSH キーを Adobe Campaign コントロールパネルに追加するには、SSH キーを生成できる必要があります。次のビデオでは、端末を使用して SSH キーを生成する方法を説明しています。
+description: ターミナルを使用してSSHキーを生成する方法と、キーの公開バージョンをCampaign コントロールパネルに格納する方法について説明します。
 feature: Control Panel
 topics: null
 kt: 2923
+thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 21e864e4becac6a88f28c73d7df483014199387b
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 67%
+source-wordcount: '110'
+ht-degree: 35%
 
 ---
 
@@ -31,6 +32,6 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 
 ## SSH キーの生成方法
 
-次のビデオでは、ターミナルを使用してSSHキーを生成する方法を説明します。
+ターミナルを使用してSSHキーを生成する方法と、キーの公開バージョンをCampaign コントロールパネルに格納する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
