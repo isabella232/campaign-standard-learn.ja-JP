@@ -3,16 +3,17 @@ title: データの復号化
 description: 以下のビデオでは、公開鍵を作成して、データの復号化のために Campaign インスタンスにインポートしインストールする方法を説明します。
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 5545
 thumbnail: 35753.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
