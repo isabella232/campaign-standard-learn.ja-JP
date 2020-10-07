@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -34,8 +34,8 @@ ht-degree: 85%
    + [Google TXT レコード管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + インスタンス設定 {#instance-settings}
    + GPG キー管理 {#gpg-key-management}
-      + [GPG キー管理 - 概要](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [データ暗号化用の GPG キーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [GPG キーを使用したデータの暗号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [データの復号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+   + [GPG キー管理 - 概要](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+   + [データ暗号化用の GPG キーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   + [GPG キーを使用したデータの暗号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   + [データの復号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Campaign コントロールパネルのトラブルシューティング](/help/control-panel-tutorials/trouble-shooting.md)
