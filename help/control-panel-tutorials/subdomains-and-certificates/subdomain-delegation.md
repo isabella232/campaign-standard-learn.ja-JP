@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
@@ -39,6 +39,7 @@ Adobe Campaign [!UICONTROL Control Panel] を使用すると、サブドメイ�
 次のビデオでは、サブドメインをデリゲートする方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+
 *サブドメインのデリゲート（5 分 7 秒）*
 
 ## その他のリソース
