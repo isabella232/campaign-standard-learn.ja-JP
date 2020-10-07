@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 68%
@@ -47,7 +47,8 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 自分の [!DNL IMS org ID] がわかっている必要があります。次のビデオでは、インスタンスの [!DNL IMS org ID] を参照できる場所を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*チェック[!DNL IMS Org ID]（00:26 分）*
+
+*[!DNL IMS Org ID]の確認（0 分 26 秒）*
 
 ### 管理者権限
 
