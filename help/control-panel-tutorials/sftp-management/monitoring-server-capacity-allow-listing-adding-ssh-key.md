@@ -3,16 +3,16 @@ title: サーバー容量の監視、許可リストへの IP アドレスの追
 description: Campaign コントロールパネルでは、インスタンスごとに SFTP ストレージを監視および管理し、許可リストに IP アドレスを追加できます。
 feature: Control Panel
 topics: null
-audience: administrator
 kt: 3266
 doc-type: feature video
+audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '235'
+ht-degree: 100%
 
 ---
 
