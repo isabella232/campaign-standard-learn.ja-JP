@@ -1,6 +1,6 @@
 ---
 title: サーバ容量の監視
-description: Campaign コントロールパネルでは、インスタンスごとに SFTP ストレージを監視および管理し、許可リストに IP アドレスを追加できます。
+description: SFTPサーバーのストレージ容量を監視する方法を説明します。
 feature: SFTP Management
 topics: Control Panel
 audience: administrator
@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
+source-git-commit: 1a108846158bfaf8f9efd1b7a78f652c0d3f3211
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 82%
+source-wordcount: '83'
+ht-degree: 49%
 
 ---
 
@@ -33,25 +33,6 @@ ht-degree: 82%
 
 ## サーバー容量の監視、[!UICONTROL allow list] への IP アドレスの追加、SSH 鍵の追加
 
-このビデオでは、SFTPサーバーへのアクセス方法 [!UICONTROL Adobe Campaign Control Panel] と、SFTPサーバーのストレージを監視できる場所を説明します。
+SFTPサーバーのストレージ容量を監視する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### インターフェイスの説明
-
-**インスタンス**：管理者権限を持つインスタンスのみが表示されます。
-
-**ジョブのログ**：[!UICONTROL Control Panel] 内で実行されたジョブのみが表示されます。[!UICONTROL Control Panel] の外部で実行されたジョブは含まれません（例えば、実行中のワークフローなど）。
-
-ログには、組織の管理者が実行するジョブのみが含まれます。複数の組織がある場合、ジョブのログにその他の組織のログは表示されません。
-
-**「ストレージ」タブ**：ヘッダーには、最も頻繁に使用されるサーバーの上位 3 つが表示されます。3 台以上のサーバーがある場合は、「[!UICONTROL Storage]」タブに残りのサーバーが表示されます。
-
-**警告メッセージ**：
-
-* オレンジ - サーバーの使用率が 80％
-* 赤 - サーバーの使用率が 90％
-
-## その他のリソース
-
-* [SSH 鍵の生成](./generate-ssh-key.md)
