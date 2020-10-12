@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe CampaignCampaign コントロールパネルTutorials
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
-breadcrumb-title: Control Panel Tutorials
+user-guide-description: Campaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別や許可リストIPアドレス別のSFTPストレージの管理などの管理タスクを実行できます。
+breadcrumb-title: Campaign コントロールパネルのチュートリアル
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: チュートリアル
@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
+source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 75%
+source-wordcount: '141'
+ht-degree: 61%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 75%
 + [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign コントロールパネル使用の手引き](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理 {#sftp-management}
-   + [サーバ容量の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   + [サーバ容量の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [許可リストへのIP範囲の追加](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
