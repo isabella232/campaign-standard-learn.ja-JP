@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: dd218f7956b3dd487f59424246b81c115829160a
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '117'
+ht-degree: 100%
 
 ---
 
@@ -41,9 +41,7 @@ Adobe Campaign [!UICONTROL Control Panel] を使用すると、サブドメイ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
-*サブドメインのデリゲート（5 分 7 秒）*
-
 ## その他のリソース
 
-* [SSL 証明書の追加](/help/administrating/control-panel/adding-ssl-certificates.md)
+* [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [サブドメインおよび証明書](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
