@@ -1,6 +1,6 @@
 ---
 title: E メール配信を作成します。
-description: 'キャンペーン、Adobe Campaignホームページまたはマーケティングアクティビティリストから電子メールを作成できます。 ワークフローから単一送信および定期的な電子メールを作成することもできます。 このビデオでは、ホームページから電子メール配信を作成する方法を説明します。 '
+description: 'キャンペーン、Adobe Campaign ホームページまたはマーケティングアクティビティリストから電子メールを作成できます。ワークフローから 1 回限りの電子メールや定期的な電子メールを作成することもできます。このビデオでは、ホームページから電子メール配信を作成する方法について説明します。 '
 feature: Email
 topics: null
 kt: 1807
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 16%
+ht-degree: 53%
 
 ---
 
@@ -26,6 +26,6 @@ ht-degree: 16%
 
 ## その他のリソース
 
-* [ワークフローを介した電子メールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+* [ワークフローを介した E メールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [電子メールの作成（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
 * [配信のベストプラクティス](https://helpx.adobe.com/jp/campaign/kb/delivery-best-practices.html)
