@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '327'
+ht-degree: 100%
 
 ---
 
@@ -49,11 +49,11 @@ Campaign コントロールパネルを使用する際の問題のトラブル�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*[!DNL IMS Org ID]の確認（0 分 26 秒）*
+*[!DNL IMS Org ID] の確認（0 分 26 秒）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*[!UICONTROL product profile]の&#x200B;*[!DNL administrators]*に管理者を追加して[!UICONTROL Control Panel]を使用できるようにする方法（01:03 分）*
+*[!UICONTROL product profile] の&#x200B;*[!DNL administrators]*に管理者を追加して [!UICONTROL Control Panel] を使用できるようにする方法（01:03 分）*
 
 ### 参考ドキュメント
 
@@ -68,7 +68,7 @@ SFTP サーバーに接続するには、次の環境が必要です。
 * Adobe Campaign に登録する必要がある秘密鍵と公開鍵のペア
 * SFTP サーバーに直接接続する場合は、SFTP クライアントソフトウェアも必要です
 
-### 参考ドキュメント
+### 参考ドキュメント {#helpful-docs}
 
 * [SFTP サーバーへのログイン](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
