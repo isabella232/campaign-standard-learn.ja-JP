@@ -3,7 +3,7 @@ title: Adobe Campaign Standard チュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 98%
@@ -19,7 +19,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 * **[配信へのコントロール母集団の追加](/help/communication-channels/email/control-groups.md)**
 
-   *配信のターゲットを定義する際に、[!UICONTROL control group]を作成する方法を説明します。*
+   *配信のターゲットを定義する際に、[!UICONTROL control group] を作成する方法を説明します。*
 
 * **[予測送信時間の最適化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
@@ -47,11 +47,11 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     <p>
   </td>
    <td>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
       <img alt="Campaign コントロールパネル（ビデオ）" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
     <strong>Campaign コントロールパネル（ビデオ）</strong>
     </a>
     </div>
