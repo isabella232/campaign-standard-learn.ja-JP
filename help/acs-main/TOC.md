@@ -11,10 +11,10 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 8216cb314c055c9c4286d0a47fd49a6e50952e06
+source-git-commit: c1717885f4221f2323c8a580c718c17ffd4269e4
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 96%
+source-wordcount: '489'
+ht-degree: 97%
 
 ---
 
@@ -106,7 +106,7 @@ ht-degree: 96%
       + [カスタムリソースの作成](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
-   + [Campaign コントロールパネル] (help/control-panel-tutorials/control-panel-overview.md)
+   + [コントロールパネル](/help/control-panel-tutorials/control-panel-overview.md)
    + Adobe Experience Platform コネクタ {adobe-experience-platform-data-connector}
       + [Adobe Experience Platform コネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [カスタムリソースのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
