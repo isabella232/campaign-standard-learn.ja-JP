@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard チュートリアル
-user-guide-description: Design cross-channel customer experiences and create an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
-breadcrumb-title: Campaign Standard Tutorials
+user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
+breadcrumb-title: Campaign Standard チュートリアル
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: チュートリアル
@@ -13,8 +13,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: 370c10f0f3c696ce006c4af8d01c80bafa25b50c
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 98%
+source-wordcount: '571'
+ht-degree: 94%
 
 ---
 
@@ -136,3 +136,5 @@ ht-degree: 98%
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
    + [プライバシーリクエストの手動作成と追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign配信品質ベストプラクティスガイド](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [コントロールパネル](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
