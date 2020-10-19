@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: d2f63c27e950cffa354c7b4722546afd7c96d05e
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 73%
+source-wordcount: '148'
+ht-degree: 68%
 
 ---
 
@@ -30,7 +30,8 @@ ht-degree: 73%
    + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + サブドメインおよび証明書{#subdomains-and-certificates}
-   + [サブドメインのデリゲート](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [完全なサブドメイン委任（ベータ）](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [CNAMEを使用したサブドメインの委任（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT レコード管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + インスタンス設定 {#instance-settings}
