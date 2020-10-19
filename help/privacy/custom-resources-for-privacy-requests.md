@@ -1,36 +1,36 @@
 ---
-title: プライバシー要求に対するAdobe Campaign Standard(ACS)のセットアップ時にカスタムリソースを変更する
-description: プライバシー要求を処理するようにAdobe Campaign Standard(ACS)を設定する場合は、プロファイルを削除するときに、プロファイルにリンクされているカスタムデータを削除する必要があります。 このビデオでは、この要件を満たすためにカスタムリソースを変更する方法を説明します。
+title: プライバシーリクエスト対応に向けた Adobe Campaign Standard（ACS）設定時のカスタムリソースの変更
+description: プライバシーリクエストに対応するため Adobe Campaign Standard（ACS）を設定する際、プロファイルを削除するときにプロファイルにリンクされているすべてのカスタムデータを削除する必要があります。このビデオでは、この要件を満たすためにカスタムリソースを変更する方法を説明します。
 feature: GDPR, CCPA
 topic: null
 kt: 1243
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '199'
+ht-degree: 100%
 
 ---
 
 
 # プライバシーリクエストのカスタムリソースの変更
 
-プライバシーの要求を処理するようにAdobe Campaign Standardを設定する場合は、プロファイルにリンクされているカスタムデータを、プロファイルを削除するときに必ず削除してください。 このビデオでは、この要件を満たすためにカスタムリソースを変更する方法を説明します。
+プライバシーリクエストに対応するため Adobe Campaign Standard を設定する際、プロファイルを削除するときにプロファイルにリンクされているすべてのカスタムデータを削除する必要があります。このビデオでは、この要件を満たすためにカスタムリソースを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=jpn)
 
 >[!NOTE]
 >
->**個人情報(CCPA)の販売のオプトアウト**
+>**個人情報の販売のオプトアウト（CCPA）**
 >
->19.4以降、キャンペーンインターフェイスおよびAPIでは、CCPAオプトアウトフィールドがすぐに使用できます。 19.3の場合、この情報を活用するには、Adobe Campaign Standardでこの>フィールドを作成する必要があります。 詳しくは、 [詳細なドキュメント](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) を参照してください。
+>19.4 以降、Campaign インターフェイスおよび API で、「CCPA オプトアウト」フィールドが標準で提供されます。19.3 の場合、この情報を活用するには Adobe Campaign Standard でこのフィールドを作成する必要があります。詳しくは、[詳細なドキュメント](https://helpx.adobe.com/jp/campaign/kb/acs-privacy.html#ccpa)を参照してください。
 >
-> バージョンを確認するには、 アイコンをクリックし、「バージョン情報」を選択します。
+> バージョンを確認するには、インターフェイスの右上にある ? アイコンをクリックし、「バージョン情報」を選択します。
 
 ## その他のリソース
 
-* [キャンペーンに関する一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
+* [Adobe Campaign の一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
 * [カスタムリソースの作成](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
