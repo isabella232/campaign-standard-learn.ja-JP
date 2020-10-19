@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 96%
    + [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Adobe Campaign と共に成長](/help/getting-started/growing-with-adobe-campaign.md)
 + プロファイルとオーディエンス{#profiles-and-audiences}
-   + [プロファイルとオーディエンスの作成 — 概要](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [プロファイルとオーディエンスの作成 - 概要](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [プロファイルの作成](/help/profiles-and-audiences/creating-a-profile.md)
    + [テストプロファイルの作成](/help/profiles-and-audiences/test-profiles.md)
-   + [ワークフローを使用したプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
+   + [ワークフローでのプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
    + [サービスと購読の管理](/help/managing-processes-and-data/services-and-subscriptions.md)
    + オーディエンスの宛先（ベータ版）{#audience-destinations}
       + [概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
