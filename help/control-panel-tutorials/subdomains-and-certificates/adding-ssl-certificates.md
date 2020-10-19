@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 43%
+source-wordcount: '194'
+ht-degree: 42%
 
 ---
 
@@ -61,5 +61,5 @@ The video below explains how to install SSL certificates in [!UICONTROL Control 
 
 ## その他のリソース
 
-* [サブドメインのデリゲート](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+* [完全なサブドメインの委任（ビデオ）](./subdomain-delegation.md)
 * [サブドメインおよび証明書 - ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
