@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 24%
@@ -27,7 +27,7 @@ ht-degree: 24%
 
 Campaign コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12))
+>[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
 ## その他のリソース
 
