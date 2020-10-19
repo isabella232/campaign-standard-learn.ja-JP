@@ -1,5 +1,5 @@
 ---
-title: サブドメインのデリゲート
+title: 完全なサブドメインデリゲーション
 description: Adobe Campaign コントロールパネルを使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。それには、次の手順に従います。
 feature: Subdomains and certificates
 topics: null
@@ -10,15 +10,15 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 
-# サブドメインのデリゲート
+# 完全なサブドメインデリゲーション
 
 Adobe Campaign [!UICONTROL Control Panel] を使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。
 
