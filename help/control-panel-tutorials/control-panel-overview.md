@@ -1,6 +1,6 @@
 ---
-title: コントロールパネル - 概要
-description: Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Campaign管理者は、キーアセットを監視し、SFTPストレージをインスタンス別に管理したり、GPGキーを管理したり、サブドメインや証明書を管理したりするなどの管理タスクを実行できます。
+title: コントロールパネル- 概要
+description: Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -9,30 +9,22 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 90%
 
 ---
 
-# Campaign コントロールパネル — 概要
+# Campaign コントロールパネル - 概要
 
-Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Campaign管理者は、キーアセットを監視し、SFTPストレージをインスタンス別に管理したり、GPGキーを管理したり、サブドメインや証明書を管理したりするなどの管理タスクを実行できます。
+Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
 
 ## 新着情報
 
-* **[データ暗号化用の GPG キーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[CNAMEを使用したサブドメインの委任](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *公開/秘密GPGキーペアを生成し、その公開鍵をにインストールして、インスタンスからデータを送信する前[!UICONTROL Control Panel]にデータを暗号化できるようにする方法を説明します。*
-
-* **[GPG キーを使用したデータの暗号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *にインストールされたGPGキーを使用してデータをエクスポートする方法を説明[!UICONTROL Control Panel]します。*
-
-* **[データの復号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *公開鍵を作成して、インバウンドデータの復号化のために[!UICONTROL Campaign]インスタンスにインポートしインストールする方法を説明します。*
+   *Campaign コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法について説明します。*
 
 ## スタッフのおすすめ
 
@@ -40,11 +32,11 @@ Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Cam
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="サブドメインのAdobe Campaignへの委任（ビデオ）" src="./assets/31390.jpg"/>
+      <img alt="Adobe Campaign へのサブドメインのデリゲート（ビデオ）" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>サブドメインのAdobe Campaignへの委任（ビデオ）</strong>
+    <strong>Adobe Campaign へのサブドメインのデリゲート（ビデオ）</strong>
     </a>
     </div>
     <p>
@@ -53,20 +45,20 @@ Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Cam
   </td>
    <td>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-      <img alt="Google TXTレコード管理（ビデオ）" src="./assets/32369.jpg" />
+      <img alt="Google TXT レコード管理（ビデオ）" src="./assets/32369.jpg" />
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXTレコード管理（ビデオ）</strong>
+    <strong>Google TXT レコード管理（ビデオ）</strong>
     </a>
     </div>
     <p>
-    <em> Google TXTサイト検証レコードを、キャンペーンCampaign コントロールパネル付きの電子メールをGMAILアドレスに送信するために使用するすべてのサブドメインに追加する方法を説明します。</em>
+    <em>Campaign コントロールパネルで、Gmail アドレス宛ての E メール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。</em>
     <p>
   </td>
   <td>
     <a href="./sftp-management/connect-to-sftp-server.md">
-      <img alt="SFTPサーバーへの接続" src="./assets/27263.jpg" />
+      <img alt="SFTP サーバーへの接続" src="./assets/27263.jpg" />
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
@@ -74,7 +66,7 @@ Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Cam
     </a>
     </div>
     <p>
-    <em>Campaign コントロールパネルに保存したキーを使用して、クライアントSFTPアプリケーションを使用してSFTPサーバーに接続する方法を説明します。 </em>
+    <em>Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。</em>
     <p>
   </td>
 </tr>
