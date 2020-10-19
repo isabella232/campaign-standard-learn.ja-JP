@@ -3,10 +3,10 @@ title: Adobe Campaign Standard チュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 94%
+source-wordcount: '262'
+ht-degree: 85%
 
 ---
 
@@ -17,17 +17,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[配信へのコントロール母集団の追加](/help/communication-channels/email/control-groups.md)**
+* **[CNAMEを使用したサブドメインの委任](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *配信のターゲットを定義する際に、[!UICONTROL control group] を作成する方法を説明します。*
-
-* **[予測送信時間の最適化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
-
-   *Adobe Campaign とジャーニー AI モデルの間でデータを同期するために必要なワークフローを理解します。個々のプロファイルレベルで送信時間スコアを表示する方法、および送信時間の数式を使用して E メール配信を実行する方法について説明します。*
-
-* **[予測エンゲージメントスコアリング](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
-
-   *個々のプロファイルレベルでのエンゲージメントスコアの表示、エンゲージユーザーをターゲティングするためのスコア利用、疲労ユーザーの抑制、および顧客疲労を管理するタイポロジルールの作成方法を説明します。*
+   *Campaign コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法について説明します。*
 
 ## アドビのお勧め
 
