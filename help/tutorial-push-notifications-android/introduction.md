@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 33%
+ht-degree: 41%
 
 ---
 
@@ -32,9 +32,9 @@ Adobe Campaign では、iOS および Android モバイルデバイスにパー�
 
 ## チュートリアルの手順
 
-* [手順1 - Androidアプリを作成する](/help/tutorial-push-notifications-android/create-android-app.md)
-* [手順2 — モバイルSDKの統合](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
+* [手順 1 - Android アプリを作成](/help/tutorial-push-notifications-android/create-android-app.md)
+* [手順 2 - モバイル SDK を統合](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
 * [手順3 — モバイルアプリに拡張機能を登録する](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
-* [手順4 — プッシュ識別子を設定する](/help/tutorial-push-notifications-android/set-push-identifier.md)
-* [手順5 — 通知の伝播](/help/tutorial-push-notifications-android/propagate-notification.md)
+* [手順 4 - プッシュ識別子を設定](/help/tutorial-push-notifications-android/set-push-identifier.md)
+* [手順 5 - 通知を反映](/help/tutorial-push-notifications-android/propagate-notification.md)
 * [手順6 — プッシュ通知を送信する](/help/tutorial-push-notifications-android/send-push-notification.md)
