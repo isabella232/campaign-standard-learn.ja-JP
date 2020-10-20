@@ -1,5 +1,5 @@
 ---
-title: プロファイルとオーディエンスの作成 — 概要
+title: プロファイルとオーディエンスの作成 - 概要
 description: 既存のプロファイルへの移動方法、および Adobe Campaign Standard でプロファイルとオーディエンスを作成する方法について説明します。
 feature: Profiles and Audiences
 topics: null
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 25%
+ht-degree: 36%
 
 ---
 
 
-# プロファイルとオーディエンスの作成 — 概要
+# プロファイルとオーディエンスの作成 - 概要
 
 Adobe Campaignには2つのタイプ(プロファイル)があります。
 
