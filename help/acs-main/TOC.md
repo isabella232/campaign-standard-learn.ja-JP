@@ -13,8 +13,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 98%
+source-wordcount: '521'
+ht-degree: 94%
 
 ---
 
@@ -123,3 +123,5 @@ ht-degree: 98%
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
    + [プライバシーリクエストの手動作成と追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign配信品質ベストプラクティスガイド](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [コントロールパネル](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
