@@ -1,5 +1,5 @@
 ---
-title: コントロールパネル- 概要
+title: Campaign コントロールパネル- 概要
 description: Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
 feature: Control Panel
 topics: Control Panel
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 90%
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
@@ -22,9 +22,13 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
 
 ## 新着情報
 
-* **[CNAMEを使用したサブドメインの委任](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[データベースの監視](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Campaign コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法について説明します。*
+   *インスタンスのデータベース使用状況を監視する方法を説明します。*
+
+* **[CNAME を使用したサブドメインのデリゲート](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+
+   *Campaign コントロールパネルで CNAME を使用してサブドメインを設定し、送信する方法について説明します。*
 
 ## スタッフのおすすめ
 
