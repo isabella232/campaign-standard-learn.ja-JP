@@ -3,10 +3,10 @@ title: Adobe Campaign Standard チュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 86%
+source-wordcount: '274'
+ht-degree: 89%
 
 ---
 
@@ -17,9 +17,13 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[CNAMEを使用したサブドメインの委任](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[データベースの監視](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Campaign コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法について説明します。*
+   *インスタンスのデータベース使用状況を監視する方法を説明します。*
+
+* **[CNAME を使用したサブドメインのデリゲート](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+
+   *Campaign コントロールパネルで CNAME を使用してサブドメインを設定し、送信する方法について説明します。*
 
 ## アドビのお勧め
 
