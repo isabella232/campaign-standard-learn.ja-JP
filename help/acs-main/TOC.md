@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard チュートリアル
-user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
+user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -9,11 +9,11 @@ tutorials-title: チュートリアル
 tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.translate.html
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -105,7 +105,7 @@ ht-degree: 98%
       + [カスタムリソースの作成](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
-   + [Campaign コントロールパネル](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [Campaign コントロールパネル](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/control-panel-overview.html)
    + Adobe Experience Platform コネクタ {adobe-experience-platform-data-connector}
       + [Adobe Experience Platform コネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [カスタムリソースのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
