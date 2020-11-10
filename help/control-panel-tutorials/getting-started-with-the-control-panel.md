@@ -1,6 +1,6 @@
 ---
 title: Campaign コントロールパネル使用の手引き
-description: この記事では、Campaign コントロールパネルにアクセスする方法と、コントロールパネルを使用するための前提条件を説明します。
+description: この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -9,24 +9,24 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '215'
+ht-degree: 100%
 
 ---
 
 
-# Getting started with the [!UICONTROL Control Panel] {#control-panel}
+# [!UICONTROL Control Panel] 使用の手引き{#control-panel}
 
 >[!NOTE]
 >
->Adobe Campaign ドキュメントでは、「[!UICONTROL whitelist]（ホワイトリスト）」および「[!UICONTROL blacklist]（ブラックリスト）」という用語は「[!UICONTROL allowlist]（許可リスト）」および「[!UICONTROL denylist]（ブロックリスト）」に置き換えられました。これらの用語が製品の UI、オプション名、内部コード、チュートリアルビデオに残っている場合がありますが、今後の Campaign コントロールパネルリリースで置き換えられる予定です。
+>Adobe Campaign ドキュメントでは、「[!UICONTROL whitelist]」および「[!UICONTROL blacklist]」という用語は「[!UICONTROL allowlist]」および「[!UICONTROL denylist]」に置き換えられました。これらの用語が製品の UI、オプション名、内部コード、チュートリアルビデオに残っている場合がありますが、今後の Campaign コントロールパネルリリースで置き換えられる予定です。
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+[!UICONTROL Control Panel] を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは [!UICONTROL subdomains] と [!UICONTROL certificates] の管理などの管理タスクを実行したりできます。
 
-この記事では、Campaign コントロールパネルにアクセスする方法と、コントロールパネルを使用するための前提条件を説明します。
+この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
 
 ## [!UICONTROL Control Panel] へのアクセス
 
@@ -49,14 +49,14 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 自分の [!DNL IMS org ID] がわかっている必要があります。次のビデオでは、インスタンスの [!DNL IMS org ID] を参照できる場所を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=jpn)
 
 ### 管理者権限
 
 [!UICONTROL Control Panel] にアクセスするには、管理者権限が必要です。
 次のビデオでは、Campaign インスタンスに管理者を追加する方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=jpn)
 
 ## その他のリソース
 
