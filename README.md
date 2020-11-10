@@ -1,15 +1,15 @@
 ---
 source-git-commit: 9be773c97840bae2a199ccaffdab084311368676
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '90'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
-# campaign-standard-learn.en
+# campaign-standard-learn.ja-JP
 
-| EXL-PR | EXL | プレビュー | 配色設定 | 公開済み | ヘルプ |
+| EXL-PR | EXL | プレビュー | アクティブ化 | 公開済み | ヘルプ |
 |--- |--- |--- |--- |--- |--- |
-| [![ビルドの状態](https://docs.ci.corp.adobe.com/view/exl-pr/job/campaign-standard-learn.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/campaign-standard-learn.en_pr-exl/lastBuild/) | [![ビルドの状態](https://docs.ci.corp.adobe.com/view/exl-pr/job/campaign-standard-learn.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/campaign-standard-learn.en_exl/lastBuild/lastBuild) | [プレビューURL](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [ライブURL](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) | [オーサリングガイド](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
+| [![ビルドステータス](https://docs.ci.corp.adobe.com/view/exl-pr/job/campaign-standard-learn.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/campaign-standard-learn.en_pr-exl/lastBuild/) | [![ビルドステータス](https://docs.ci.corp.adobe.com/view/exl-pr/job/campaign-standard-learn.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/campaign-standard-learn.en_exl/lastBuild/lastBuild) | [プレビュー URL](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [ライブの URL](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) | [オーサリングガイド](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=ja) |
 
-キャンペーン向けの共同チュートリアルと有効化資料
+Campaign 向けの共同チュートリアルとイネーブルメント資料
