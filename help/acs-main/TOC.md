@@ -9,11 +9,11 @@ tutorials-title: チュートリアル
 tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.translate.html
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
-translation-type: ht
-source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
-workflow-type: ht
-source-wordcount: '497'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+workflow-type: tm+mt
+source-wordcount: '495'
+ht-degree: 98%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
    + [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
    + [プロファイルとオーディエンスについて](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [E メールの作成](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.translate.html)
+   + [E メールの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [ワークフローの作成](/help/managing-processes-and-data/create-workflow.md)
    + [レポートの概要](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
