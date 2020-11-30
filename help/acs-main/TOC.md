@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 98%
+source-wordcount: '502'
+ht-degree: 96%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 98%
 + はじめに{#getting-started}
    + [概要](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign Standard の概要](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [UI の概要](/help/getting-started/getting-started-with-the-ui.md)
+   + [UI使用の手引き](/help/getting-started/getting-started-with-the-ui.md)
    + [リストの設定](/help/getting-started/configure-a-list.md)
    + [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
    + [プロファイルとオーディエンスについて](/help/getting-started/understanding-profiles-and-audiences.md)
    + [E メールの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [ワークフローの作成](/help/managing-processes-and-data/create-workflow.md)
+   + [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [レポートの概要](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Adobe Campaign と共に成長](/help/getting-started/growing-with-adobe-campaign.md)
@@ -90,7 +90,7 @@ ht-degree: 98%
       + [Adobe Dreamweaver を使用したコンテンツ作成](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [トランザクション E メールでの製品リストの設定](/help/designing-content/product-listings-in-transactional-email.md)
 + プロセスとデータの管理{#managing-processes-and-data}
-   + [ワークフローの作成](/help/managing-processes-and-data/create-workflow.md)
+   + [ワークフローの作成](/help/managing-processes-and-data/creating-a-workflow.md)
    + 実行アクティビティ{#execution-activities}
       + [外部信号アクティビティ](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + データ管理アクティビティ{#data-management-activities}
