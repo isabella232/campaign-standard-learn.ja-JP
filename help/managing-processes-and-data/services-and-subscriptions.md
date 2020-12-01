@@ -4,21 +4,22 @@ description: Adobe Campaignを使用すると、一連のサービスを通じ�
 feature: Subscriptions and Services
 topics: null
 kt: 1815
+thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 28%
+ht-degree: 32%
 
 ---
 
 
-# Manage services and subscriptions{#managing-services-and-subscriptions}
+# サービスと購読の管理{#managing-services-and-subscriptions}
 
-Adobe Campaignを使用すると、一連のサービスを通じて、ニュースレターやチャネル間の通信を作成および管理できます。 メッセージは、サービスを購読しているプロファイル（オプトイン）にのみ送信できます。 これらのプロファイルは、メッセージを作成する際に、専用のフィルターを使用して特定されます。
+Adobe Campaignを使用すると、一連のサービスを通じて、ニュースレターやチャネル間の通信を作成および管理できます。メッセージは、サービスを購読しているプロファイル（オプトイン）にのみ送信できます。 これらのプロファイルは、メッセージを作成する際に、専用のフィルターを使用して特定されます。
 
 サブスクリプションメカニズムの設定により、顧客がこれらのサービスを（特に E メールとランディングページから）購読できるようにすることができます。
 
