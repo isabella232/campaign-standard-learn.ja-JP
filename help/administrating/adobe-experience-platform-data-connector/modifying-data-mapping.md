@@ -4,14 +4,15 @@ description: ステータスを確認し、データマッピングを変更す�
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2830
+thumbnail: 27266
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 7%
 
 ---
 
