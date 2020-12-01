@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 95%
 
 ---
 
@@ -30,7 +30,7 @@ Adobe Campaign Standard の使い始めに役立つチュートリアルビデ�
 * [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
 * [プロファイルとオーディエンスについて](/help/getting-started/understanding-profiles-and-audiences.md)
-* [E メールの作成](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.translate.html)
+* [E メールの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
 * [ワークフローの作成](/help/managing-processes-and-data/creating-a-workflow.md)
 * [レポートの概要](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
