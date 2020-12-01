@@ -4,14 +4,15 @@ description: このビデオでは、電子メール配信用にあらかじめ�
 feature: Reporting
 topics: Getting Started
 kt: 3906
+thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 16%
+ht-degree: 32%
 
 ---
 
