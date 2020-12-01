@@ -4,14 +4,15 @@ description: Adobe Experience PlatformData Connectorは、XTKデータ(キャン
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
+thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '343'
+ht-degree: 10%
 
 ---
 
@@ -34,7 +35,7 @@ Adobe Experience Platform [!UICONTROL Data Connector][!UICONTROL custom resource
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*このビデオでは、Adobe Experience Platformの概要を説明し[!UICONTROL Data Connector]ます（09:35分）。*
+*このビデオでは、Adobe Experience Platformの概要を説明し [!UICONTROL Data Connector] ます（09:35分）。*
 
 >[!NOTE]
 >
@@ -48,7 +49,7 @@ Adobe Experience Platform [!UICONTROL Data Connector][!UICONTROL custom resource
 
 1. [カスタムリソースのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
 2. [エクスペリエンスイベントのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-3. [シードテーブルデータのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+3. [Mapping Seed Table Data](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [データ・マッピングの変更](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
 5. [データ取得ジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
