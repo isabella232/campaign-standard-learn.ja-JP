@@ -1,22 +1,23 @@
 ---
-title: SMS配信の作成
+title: SMS 配信の作成
 description: このビデオでは、Adobe Campaign Standard(ACS)でSMS配信を作成する方法を説明します。
 feature: SMS
-topics: Mobile
+topics: null
 kt: 1819
+thumbnail: 25265.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
 
-# Create a SMS delivery{#creating-a-sms-delivery}
+# SMS 配信の作成{#creating-a-sms-delivery}
 
 このビデオでは、Adobe Campaign StandardでSMS配信を作成する方法を説明します。 SMS配信アクティビティを使用して、ワークフロー内のSMSの送信を構成することもできます。
 
