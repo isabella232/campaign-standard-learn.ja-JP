@@ -4,12 +4,13 @@ description: プライバシーリクエストに対応するため Adobe Campai
 feature: GDPR, CCPA
 topic: null
 kt: 1243
+thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
@@ -20,7 +21,7 @@ ht-degree: 100%
 
 プライバシーリクエストに対応するため Adobe Campaign Standard を設定する際、プロファイルを削除するときにプロファイルにリンクされているすべてのカスタムデータを削除する必要があります。このビデオでは、この要件を満たすためにカスタムリソースを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
