@@ -1,5 +1,5 @@
 ---
-title: カスタムリソースの作成
+title: カスタムリソースの作成 — はじめに
 description: Adobe Campaign Standardは、リソースを拡張したり、新しいリソースを作成したりする機能を提供しています。 このマルチパートチュートリアルでは、カスタムリソースの作成とリンクに必要な手順について説明します。
 feature: Custom Resources
 topics: null
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 
-# カスタムリソース&#x200B;の作成
+# カスタムリソースの&#x200B;作成 — はじめに
 
 [!DNL Adobe Campaign] には定義済みのデータモデルが付属しており、ここではデータは様々なリソースを介して定義されます。 [!DNL Campaign] リソースを拡張したり、新しいリソースを作成したりする機能を提供します。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## チュートリアルの概要
 
-マーケティングやリマーケティングの目的で利用できるよう、お客様が注文した内容に関する追加情報を利用できるようにしたいと考えています。
+マーケティングやリマーケティングの目的で利用できるように、お客様が注文した内容に関する追加情報を利用できるようにしたいと考えています。
 
 このためには、既製のリソースを拡張し、独自のカスタムテーブルを追加することで、 [!DNL Campaign] データモデルを拡張します。 お客様とご注文表を追加します。
 
