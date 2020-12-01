@@ -4,11 +4,12 @@ description: このビデオでは、「オーディエンスを読み取り」�
 feature: Audience Destinations
 topics: ACOP
 kt: 2760
+thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 7%
@@ -32,7 +33,7 @@ ht-degree: 7%
 
 ## その他のリソース
 
-ドキュメント:
+ドキュメント：
 
 * [キャンペーン内のExperience Platformオーディエンスのアクティブ化 — ドキュメント](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 
