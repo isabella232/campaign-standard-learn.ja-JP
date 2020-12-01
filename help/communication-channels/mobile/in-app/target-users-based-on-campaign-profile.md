@@ -1,22 +1,23 @@
 ---
-title: キャンペーンプロファイルに基づくターゲットユーザー
+title: Campaign プロファイルに基づいたターゲットユーザー
 description: このテンプレートを使用すると、Adobe Campaign Standard(ACS)で利用可能なCRMプロファイル属性でパーソナライズされたメッセージを使用して、既知のモバイルアプリユーザーをターゲットできます。
 feature: In-App
 topics: Channels
 kt: 1796
+thumbnail: 26200.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
 
-# プロファイルに基づくターゲットユーザー [!DNL Campaign]
+# Target users based on their [!DNL Campaign] profile
 
 既知のモバイルアプリユーザー（PIIを使用してアプリにログインしたユーザー）を、Adobe Campaign Standardで利用可能なCRMプロファイル属性を使用してパーソナライズされたメッセージとターゲットできます。 このテンプレートは、クロスチャネルオーケストレーションの使用例をサポートするのに最も役立ちます。クロスチャネルオーケストレーションの使用例では、電子メールやプッシュなどの他のユーザーをターゲットにし、そのの応答に基づいてユーザーをメッセージに関連付けます。 [!UICONTROL In-App]
 
