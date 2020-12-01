@@ -4,19 +4,20 @@ description: GDPRやCCPAが必要とするプライバシー・アクセスお�
 feature: GDPR, CCPA
 topic: null
 kt: 1460
+thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
 
-# プライバシー要求の名前空間の作成
+# プライバシーリクエストの名前空間の作成
 
 GDPRやCCPAが必要とするプライバシー・アクセスおよび削除要求を作成できる前提条件は、Adobe Campaign・データベース内のデータ・サブジェクトの識別に使用される名前空間の定義です。
 
