@@ -4,14 +4,15 @@ description: Adobe Campaignを使用すると、GDPRやCCPAなどのプライバ
 feature: GDPR, CCPA
 topic: null
 kt: 1242
+thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 5%
+ht-degree: 19%
 
 ---
 
@@ -26,5 +27,5 @@ Adobe Campaignを使用すると、GDPRやCCPAなどのプライバシー行為�
 
 ## その他のリソース
 
-* [キャンペーンに関する一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
-* [ACS用CCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Adobe Campaign の一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
+* [ACS用CCPA](https://helpx.adobe.com/jp/campaign/kb/acs-privacy.html#ccpa)
