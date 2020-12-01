@@ -1,14 +1,15 @@
 ---
 title: レポートの概要
 description: このビデオでは、Adobe Campaign Standard のレポート機能の概要を説明します。
-feature: Dynamic Reports
+feature: reporting
 topics: null
 kt: 3974
+thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
