@@ -1,22 +1,23 @@
 ---
-title: 電子メール配信とレポートの確認
+title: E メール配信とレポートの確認
 description: このビデオでは、パーソナライズされた電子メール配信を確認する方法、およびAdobe Campaign Standard(ACS)で利用可能な様々なレポートを調査する方法を説明します。
 feature: Reporting
 topics: null
 kt: 3904
+thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 2%
+ht-degree: 21%
 
 ---
 
 
-# 電子メール配信とレポートの確認
+# E メール配信とレポートの確認
 
 このビデオでは、パーソナライズされた電子メール配信を確認する方法、およびAdobe Campaign Standardで利用可能な様々なレポートを調査する方法を説明します。
 
