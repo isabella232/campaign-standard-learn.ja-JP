@@ -4,14 +4,15 @@ description: 'Adobe Campaign Standard(ACS)イベントでアプリ内メッセ�
 feature: In-App
 topics: Mobile
 kt: 2548
+thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -59,7 +60,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] Adobe Analyticsのライセンスが必要です。 [[!DNL Analytics] 拡張機能を設定し](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 、 [AnalyticsをApp](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)に追加すると、これらのイベントはACSの [!UICONTROL In-App] 設定で使用できるようになります。
+>[!UICONTROL Analytics events] adobe analyticsのライセンスが必要です。 [[!DNL Analytics] 拡張機能を設定し](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 、 [AnalyticsをApp](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)に追加すると、これらのイベントはACSの [!UICONTROL In-App] 設定で使用できるようになります。
 
 ## その他のリソース
 
