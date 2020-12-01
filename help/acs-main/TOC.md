@@ -6,14 +6,14 @@ breadcrumb-title: Campaign Standard チュートリアル
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: チュートリアル
-tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.translate.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: ドキュメント
-getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 96%
+source-wordcount: '497'
+ht-degree: 89%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 96%
       + プッシュ通知 {#push}
          + [プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [多言語プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [チュートリアル：Android 向けプッシュ通知の概要](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.translate.html)
+         + [チュートリアル：Android 向けプッシュ通知の概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
       + アプリ内メッセージ {#in-app}
          + [アプリ内メッセージの概要](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [イベントの設定](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -100,12 +100,10 @@ ht-degree: 96%
    + [動的レポートの作成](/help/reporting/creating-a-dynamic-report.md)
    + [カスタムプロファイル属性に基づくレポートの作成](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [ワークフローセグメントに基づくレポートの作成](/help/reporting/report-on-workflow-segments.md)
-+ 開発{#developing}
-   + カスタムリソース {#custom-resources-develop}
-      + [カスタムリソースの作成](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
-   + [Campaign コントロールパネル](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [Campaign コントロールパネル](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja)
    + Adobe Experience Platform コネクタ {adobe-experience-platform-data-connector}
       + [Adobe Experience Platform コネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [カスタムリソースのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
