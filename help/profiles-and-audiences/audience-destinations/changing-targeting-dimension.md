@@ -4,14 +4,15 @@ description: このビデオでは、Adobe Campaign Standardのプライマリ�
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
+thumbnail: 30151.jpg
 doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 21%
 
 ---
 
@@ -30,7 +31,7 @@ ht-degree: 0%
 
 ## その他のリソース
 
-ドキュメント:
+ドキュメント：
 
 * [Audience Destinations サービスについて](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 * [ターゲットマッピングの作成方法](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html)
