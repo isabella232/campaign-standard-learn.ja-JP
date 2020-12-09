@@ -1,6 +1,7 @@
 ---
 title: E メール配信を作成します。
 description: 'キャンペーン、Adobe Campaign ホームページまたはマーケティングアクティビティリストから電子メールを作成できます。ワークフローから 1 回限りの電子メールや定期的な電子メールを作成することもできます。このビデオでは、ホームページから電子メール配信を作成する方法について説明します。 '
+landing-page-description: This video explains how to create an email delivery from the homepage.
 feature: Email
 topics: null
 kt: 1807
@@ -9,7 +10,7 @@ doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 53%
@@ -19,7 +20,7 @@ ht-degree: 53%
 
 # E メール配信を作成します。{#create-an-email-delivery}
 
-スタンドアロンの電子メール配信は、キャンペーン、Adobe Campaignホームページまたは [!UICONTROL Marketing Activity] リストから作成できます。 ワークフローからの単一送信および定期的な電子メールの作成および送信も可能です。
+スタンドアロンの電子メール配信は、キャンペーン、Adobe Campaignホームページ、または[!UICONTROL Marketing Activity]リストから作成できます。 ワークフローからの単一送信および定期的な電子メールの作成および送信も可能です。
 
 このビデオでは、ホームページからスタンドアロンの電子メール配信を作成する方法を説明します。
 
