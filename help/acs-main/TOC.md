@@ -4,16 +4,16 @@ user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=es&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: チュートリアル
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ja
 getting-started-title: ドキュメント
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
+translation-type: ht
 source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 89%
 + はじめに{#getting-started}
    + [概要](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign Standard の概要](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [UI使用の手引き](/help/getting-started/getting-started-with-the-ui.md)
+   + [UI の基礎知識](/help/getting-started/getting-started-with-the-ui.md)
    + [リストの設定](/help/getting-started/configure-a-list.md)
    + [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
    + [プロファイルとオーディエンスについて](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [E メールの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
+   + [E メールの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=ja)
+   + [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=ja)
    + [レポートの概要](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Adobe Campaign と共に成長](/help/getting-started/growing-with-adobe-campaign.md)
@@ -65,7 +65,7 @@ ht-degree: 89%
       + プッシュ通知 {#push}
          + [プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [多言語プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [チュートリアル：Android 向けプッシュ通知の概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [チュートリアル：Android 向けプッシュ通知の概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja)
       + アプリ内メッセージ {#in-app}
          + [アプリ内メッセージの概要](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [イベントの設定](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -102,7 +102,7 @@ ht-degree: 89%
    + [ワークフローセグメントに基づくレポートの作成](/help/reporting/report-on-workflow-segments.md)
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
-   + [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ja)
    + [Campaign コントロールパネル](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja)
    + Adobe Experience Platform コネクタ {adobe-experience-platform-data-connector}
       + [Adobe Experience Platform コネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
