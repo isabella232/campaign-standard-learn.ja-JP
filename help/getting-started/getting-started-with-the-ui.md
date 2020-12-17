@@ -1,6 +1,6 @@
 ---
-title: 'UIの概要 '
-description: このビデオでは、Adobe Campaign Standard のユーザーインターフェイス、主な機能、およびコア機能の概要を説明します。
+title: 'UI の基礎知識 '
+description: このビデオでは、Adobe Campaign Standard のユーザーインターフェイスとその主な特長およびコア機能の概要を説明します。
 feature: User Interface
 topics: Getting started
 kt: 3882
@@ -8,22 +8,22 @@ thumbnail: acs-ui-get-started.png
 doc-type: feature video
 activity: understand
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 
-# UI使用の手引き
+# UI の基礎知識
 
 このビデオでは、Adobe Campaign Standard のユーザーインターフェイスの概要と、主な機能やコア機能へのアクセス方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12&captions=jpn)
 
 ## その他のリソース
 
-* [インターフェイスについて](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
-* [インターフェイスの説明](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
+* [インターフェイスについて](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html?lang=ja)
+* [インターフェイスの説明](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html?lang=ja)
