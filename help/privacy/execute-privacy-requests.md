@@ -1,6 +1,6 @@
 ---
 title: プライバシーリクエストの実行
-description: Adobe Campaignでは、ワークフローがプライバシーリクエストを実行します。 このビデオでは、リクエストにアクセスしたワークフローと削除したユーザー、およびリクエストが実行された場合の動作を説明します。
+description: Adobe Campaign では、プライバシーリクエストはワークフローで実行されます。 このビデオでは、リクエストにアクセスしリクエストを削除するワークフローとリクエスト実行時の動作について説明します。
 feature: GDPR, CCPA
 topic: null
 kt: 1525
@@ -8,22 +8,22 @@ thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
 
 # プライバシーリクエストの実行
 
-Adobe Campaignでは、ワークフローがプライバシーリクエストを実行します。 このビデオでは、リクエストにアクセスしたワークフローと削除したユーザー、およびリクエストが実行された場合の動作を説明します。
+Adobe Campaign では、プライバシーリクエストはワークフローで実行されます。 このビデオでは、リクエストにアクセスしリクエストを削除するワークフローとリクエスト実行時の動作について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12&captions=jpn)
 
 ## その他のリソース
 
 * [Adobe Campaign の一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
-* [Adobe Campaign Standard用CCPA](https://helpx.adobe.com/jp/campaign/kb/acs-privacy.html#ccpa)
+* [Adobe Campaign Standard の CCPA](https://helpx.adobe.com/jp/campaign/kb/acs-privacy.html#ccpa)
