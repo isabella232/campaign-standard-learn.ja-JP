@@ -1,6 +1,6 @@
 ---
-title: カスタムリソースの作成 — はじめに
-description: Adobe Campaign Standardは、リソースを拡張したり、新しいリソースを作成したりする機能を提供しています。 このマルチパートチュートリアルでは、カスタムリソースの作成とリンクに必要な手順について説明します。
+title: カスタムリソースの作成 - はじめに
+description: Adobe Campaign Standard を使用すると、リソースを拡張したり、新規リソースを作成したりできます。 このマルチパートチュートリアルでは、カスタムリソースの作成とリンクに必要な手順について説明します。
 feature: Custom Resources
 topics: null
 kt: 2999
@@ -8,24 +8,24 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# カスタムリソースの&#x200B;作成 — はじめに
+# カスタムリソースの作成 - はじめに
 
-[!DNL Adobe Campaign] には定義済みのデータモデルが付属しており、ここではデータは様々なリソースを介して定義されます。 [!DNL Campaign] リソースを拡張したり、新しいリソースを作成したりする機能を提供します。
+[!DNL Adobe Campaign] には事前定義済みのデータモデルが付属しています。このモデルでは、様々なリソースを使用してデータが定義されています。[!DNL Campaign] では、リソースを拡張したり、新規リソースを作成したりできます。
 
-このマルチパートチュートリアルでは、カスタムリソースの作成とリンクに必要な手順について説明します。 このチュートリアルの最後に、次の方法を学習します。
+このマルチパートチュートリアルでは、カスタムリソースの作成とリンクに必要な手順について説明します。 このチュートリアルを完了すると、次の方法を習得できます。
 
 * カスタムリソースの作成
-* カスタム追加リソースのフィールド
-* 2つのカスタムリソースのリンク
+* カスタムリソースへのフィールドの追加
+* 2 つのカスタムリソースのリンク
 * 画面定義の設定
 
 ## 前提条件
@@ -34,15 +34,18 @@ ht-degree: 0%
 
 ## チュートリアルの概要
 
-マーケティングやリマーケティングの目的で利用できるよう、お客様が注文した内容に関する追加情報を利用できるようにしたいと考えています。
+マーケティングやリマーケティングに利用できるよう、顧客の注文内容に関する追加情報を活用できるようにしたいと考えています。
 
-このためには、既製のリソースを拡張し、独自のカスタムテーブルを追加することで、 [!DNL Campaign] データモデルを拡張します。 お客様とご注文表を追加します。
+そのためには、標準提供のリソースを拡張し独自のカスタムテーブルを追加して、[!DNL Campaign] データモデルをエンリッチメントします。 顧客と注文テーブルを追加します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=jpn)
 
 このチュートリアルでは、次の手順を順を追って説明します。
 
-手順1 — カスタムリソースの [作成](./creating-a-custom-resource.md)手順2 — 画面定義の [設定](./configuring-a-screen-definition-for-a-custom-resource.md)手順3 — カスタムリソースの [リンク](./linking-custom-resources.md)手順4 — カスタムリソースにデータを [埋め込む](./populate-custom-resources-with-data.md)
+手順 1 - [カスタムリソースの作成](./creating-a-custom-resource.md)
+手順 2 - [画面定義の設定](./configuring-a-screen-definition-for-a-custom-resource.md)
+手順 3 - [カスタムリソースのリンク](./linking-custom-resources.md)
+手順 4 - [カスタムリソースへのデータの入力](./populate-custom-resources-with-data.md)
 
 ## チュートリアルの開始
 
@@ -50,4 +53,4 @@ ht-degree: 0%
 
 ## その他のリソース
 
-[カスタムリソース（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html)
+[カスタムリソース（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html?lang=ja)
