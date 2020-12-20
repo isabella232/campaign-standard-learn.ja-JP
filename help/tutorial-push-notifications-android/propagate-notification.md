@@ -1,5 +1,5 @@
 ---
-title: 手順5 — 通知の伝播
+title: 手順 5 - 通知を反映
 description: この部分では、Android Notification Manager.Firebaseを使用して、Adobe Campaignから受信したメッセージを伝播します。
 feature: Push
 topics: Mobile
@@ -11,21 +11,20 @@ translation-type: tm+mt
 source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 # 追加通知を送信するサービス
 
-この部分では、を使用して、Adobe Campaignから受信したメッセージを伝播し [!DNL Android Notification Manager]ます。 [!DNL Notification manager] は、発生したイベントをユーザーに通知するために使用します。
-次のようにして、バックグラウンドで何かが起きたことをユーザーに伝えます。
+この部分では、[!DNL Android Notification Manager]を使用して、Adobe Campaignから受信したメッセージを伝播します。 [!DNL Notification manager] は、発生したイベントをユーザーに通知するために使用します。次のようにして、バックグラウンドで何かが起きたことをユーザーに伝えます。
 
-* 起動 [!DNL Android Studio]
-* Open *[!DNL ACSPushTutorial]* project
+* 開始 [!DNL Android Studio]
+* *[!DNL ACSPushTutorial]*&#x200B;プロジェクトを開く
 * プロジェクト構造を展開する
-* パッケージフォルダー([!DNL com.example.acspushtutorial])を右クリックし、 [!DNL New ->Java Class]
-* このクラスに名前を付け、拡張し *[!DNL MyService]* ていることを確認します [!DNL FirebaseMessagingService]
-* このクラスで *[!DNL sendNotification]* メソッドを作成します。 このメソッドでは、 [!DNL NotificationCompat.Builder] オブジェクトを使用して通知のコンテンツとチャネルを設定する必要があります。 通知を表示するには、を呼び出し [!DNL NotificationManagerCompat.notify()]、通知との結果の一意のIDを渡し [!DNL NotificationCompat.Builder.build()]ます。
+* パッケージフォルダー([!DNL com.example.acspushtutorial])と[!DNL New ->Java Class]を右クリック
+* このクラスに&#x200B;*[!DNL MyService]*&#x200B;という名前を付け、[!DNL FirebaseMessagingService]を拡張していることを確認します。
+* このクラスに&#x200B;*[!DNL sendNotification]*&#x200B;メソッドを作成します。 このメソッドでは、[!DNL NotificationCompat.Builder]オブジェクトを使用して通知のコンテンツとチャネルを設定する必要があります。 通知を表示するには、[!DNL NotificationManagerCompat.notify()]を呼び出し、通知と[!DNL NotificationCompat.Builder.build()]の結果の一意のIDを渡します。
 
 <!--
 Removed `{.line-numbers}` below
@@ -94,7 +93,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## 修正 [!DNL AndroidManifest.xml]
 
-に追加対して作成されたサービス [!DNL AndroidManifest.xml]。 最終的な結果 [!DNL AndroidManifest.xml] は次のようになります。
+&lt;追加a0/>に対して作成されたサービス。 [!DNL AndroidManifest.xml]最終的な[!DNL AndroidManifest.xml]は次のようになります。
 
 <!--
 Removed `{.line-numbers}` below
@@ -138,4 +137,4 @@ Removed `{.line-numbers}` below
 
 ## アプリの実行
 
-ツールバーまたは **メニューの緑の矢印をクリックして**[!DNL Run] 、アプリを実行します。
+ツールバーまたは[!DNL Run]メニューの&#x200B;**緑色の矢印**&#x200B;をクリックして、アプリを実行します。
