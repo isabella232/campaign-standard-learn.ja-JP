@@ -8,9 +8,9 @@ thumbnail: 29430.jpg
 doc-type: feature video
 activity: understand
 team: PMM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL Adobe Campaign Standard] を紹介し、主な機能に関して大まかな概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
