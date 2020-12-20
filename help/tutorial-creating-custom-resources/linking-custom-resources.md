@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
 workflow-type: tm+mt
 source-wordcount: '27'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27712?quality=9)
 
-**次の手順**
+**次のステップ**
 
 [カスタムリソースへのデータの埋め込み](./populate-custom-resources-with-data.md)
