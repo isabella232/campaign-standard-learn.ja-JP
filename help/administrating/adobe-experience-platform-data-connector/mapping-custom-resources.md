@@ -23,7 +23,7 @@ ht-degree: 10%
 >
 >この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。
 >
->この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
+>この機能を実装する予定の場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
 Adobe Campaign StandardとAdobe Experience Platformの間で異なるデータタイプをマッピングする方法を説明します。
 
