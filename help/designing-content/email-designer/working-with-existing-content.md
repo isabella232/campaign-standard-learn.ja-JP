@@ -25,7 +25,7 @@ ht-degree: 7%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
-## 既存のHTMLコンテンツとの互換性の確保 {#making-existing-html-content-compatible}
+## 既存のHTMLコンテンツとの互換性を確保する{#making-existing-html-content-compatible}
 
 電子メールデザイナーには特定のタグ付けが必要です。このタグ付けは、Adobe Campaignにアップロードされた標準のHTMLコンテンツに対する互換性と編集性を完全に保つために適用する必要があります。
 
