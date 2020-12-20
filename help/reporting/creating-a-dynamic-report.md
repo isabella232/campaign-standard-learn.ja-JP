@@ -16,9 +16,9 @@ ht-degree: 46%
 ---
 
 
-# の作成 [!UICONTROL Dynamic Report]{#creating-a-report}
+# [!UICONTROL Dynamic Report]{#creating-a-report}の作成
 
-Adobe Campaign [!UICONTROL Dynamic Reports] は、データを調査できる柔軟なフリーフォーム環境に設計されています。 ディメンション、指標および時間範囲を任意の組み合わせで組み合わせ、無制限の分類と比較を行うことができます。
+Adobe Campaignの[!UICONTROL Dynamic Reports]は、データを調査できる柔軟なフリーフォーム環境に設計されています。 ディメンション、指標および時間範囲を任意の組み合わせで組み合わせ、無制限の分類と比較を行うことができます。
 
 レポートの作成方法を説明します。
 
