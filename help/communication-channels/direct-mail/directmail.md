@@ -17,17 +17,17 @@ ht-degree: 1%
 ---
 
 
-# Folio Builder [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# [!UICONTROL Direct Mail] {#create-a-direct-mail}を作成
 
-この [!UICONTROL Direct Mail] チャネルでは、セグメント化された受信者のリストを抽出して、エージェンシーに送信したり、SFTPサーバーにアップロードしたりできます。
+[!UICONTROL Direct Mail]チャネルを使用すると、セグメント化された受信者のリストを抽出して、エージェンシーに送信したり、SFTPサーバーにアップロードしたりできます。
 
-このビデオでは、プロファイルを [!UICONTROL Direct Mail] 配信に追加するために必要な [!UICONTROL Direct Mail] 配信の設定方法と設定について説明します。
+このビデオでは、[!UICONTROL Direct Mail]配信を設定する方法と、[!UICONTROL Direct Mail]配信にプロファイルを追加するために必要な設定を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## ワークフロー [!UICONTROL Direct Mail] 内での
+## ワークフロー内に[!UICONTROL Direct Mail]を作成
 
-このチャネルは、ホームページとワークフロー表示から利用でき、まとまったチャネル間のマーケティング戦略を定義できます。 次のワークフローの例には、が含まれてい [!UICONTROL Direct Mail activity]ます。
+このチャネルは、ホームページとワークフロー表示から利用でき、まとまったチャネル間のマーケティング戦略を定義できます。 次のワークフローの例には、[!UICONTROL Direct Mail activity]が含まれています。
 
 ![ワークフローの画像](/help/assets/direct_mail_examplewf.png)
 
