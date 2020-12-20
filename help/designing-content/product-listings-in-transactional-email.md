@@ -17,11 +17,11 @@ ht-degree: 4%
 ---
 
 
-# トランザクション電子メール [!UICONTROL product listings] での設定
+# トランザクション電子メールの[!UICONTROL product listings]の構成
 
 製品のリストがあり、電子メールのデザイン時に不明なリターゲティング用の電子メールを設定できます。 これらの製品は、実行時にペイロードから追加できます。 例えば、ユーザーが買い物かごを放棄する前に買い物かごに入れていたすべての商品をイメージ、価格、各商品へのリンクと共にリストした買い物かご放棄電子メールを自動的に送信できます。
 
-次のビデオでは、での設定に必要な手順を説明 [!UICONTROL product listings] してい [!UICONTROL transactional emails]ます。
+次のビデオでは、[!UICONTROL transactional emails]の[!UICONTROL product listings]を設定するために必要な手順を説明しています。
 
 >[!NOTE]
 >
