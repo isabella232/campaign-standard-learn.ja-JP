@@ -23,13 +23,13 @@ ht-degree: 9%
 >
 >この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、具体的な設定が必要です。
 >
->この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
+>この機能を実装する予定の場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
-Adobe Campaign Standardでは、Adobe Experience Platformを使用して、Adobe Experience Cloud [リアルタイム顧客プロファイル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) (RTC)のデータを使用してオーディエンスを作成でき [!UICONTROL Unified Segment Builder]ます。
+Adobe Campaign Standardでは、Adobe Experience Cloud[リアルタイム顧客プロファイル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)のデータを使用して、Adobe Experience Platform[!UICONTROL Unified Segment Builder]を使用してオーディエンスを作成できます。
 
-モジュールを使ってAdobe Campaign Standard内 [!UICONTROL Unified Segment Builder] で直接アクセスでき [!UICONTROL Audiences ] ます。 これにより、これらのオーディエンスを [!UICONTROL Audiences] リスト表示で直接管理でき、Adobe Campaignインターフェイスから直接新しいAdobe Experience Platformオーディエンスを編集または作成できます
+[!UICONTROL Unified Segment Builder]は、[!UICONTROL Audiences ]モジュールを介してAdobe Campaign Standard内で直接アクセスできます。 これにより、これらのオーディエンスを[!UICONTROL Audiences]リスト表示で直接管理できます。このでは、Adobe Campaignインターフェイスから直接新しいAdobe Experience Platformオーディエンスを編集または作成できます
 
-以下のビデオでは、Adobe Campaign Standard [!UICONTROL Unified Segment Builder] 内で新しいオーディエンスを作成する方法を説明しています。
+以下のビデオでは、Adobe Campaign Standardの[!UICONTROL Unified Segment Builder]を使って新しいオーディエンスを作り出す方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
