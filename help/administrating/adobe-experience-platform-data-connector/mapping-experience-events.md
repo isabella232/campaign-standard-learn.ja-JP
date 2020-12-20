@@ -23,9 +23,9 @@ ht-degree: 13%
 >
 >この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。
 >
->この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
+>この機能を実装する予定の場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
-Adobe Experience Platform(AEP) [!UICONTROL Experience Events] でのマッピング方法を学びます。
+Adobe Experience Platform(AEP)で[!UICONTROL Experience Events]をマッピングする方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
