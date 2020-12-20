@@ -17,15 +17,15 @@ ht-degree: 7%
 ---
 
 
-# マーケティングワークフローのワークフローでのAdobe Experience Platformオーディエンス [!UICONTROL Adobe Experience Platform Audiences] のアクティブ化
+# マーケティングワークフローのワークフロー[!UICONTROL Adobe Experience Platform Audiences]でAdobe Experience Platformオーディエンスをアクティブにする
 
 >[!NOTE]
 >
 >この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、具体的な設定が必要です。
 >
->この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
+>この機能を実装する予定の場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
-このビデオでは、ワークフローを使用してワークフロー [!UICONTROL Data Services Query Audience] 内のをアクティブにする方法を説明し [!UICONTROL Read Audience] ます。
+このビデオでは、[!UICONTROL Read Audience]アクティビティを使用してワークフロー内の[!UICONTROL Data Services Query Audience]をアクティブにする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
