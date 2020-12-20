@@ -19,8 +19,7 @@ ht-degree: 25%
 
 # 作成 [!UICONTROL fatigue rules]
 
-[!UICONTROL Fatigue rules] マーケターは、過剰に要請されたプロファイルをキャンペーンから自動的に除外するグローバルなクロスチャネルビジネスルールを設定できます。
-To create [!UICONTROL fatigue rules], you need to define a maximum number of messages per profile and select a period for which the rule will apply. 配信の準備中に、既に配信が最大数を超えているプロファイルはメッセージから除外されます。
+[!UICONTROL Fatigue rules] マーケターは、過剰に要請されたプロファイルをキャンペーンから自動的に除外するグローバルなクロスチャネルビジネスルールを設定できます。[!UICONTROL fatigue rules]を作成するには、プロファイルあたりの最大メッセージ数を定義し、ルールを適用する期間を選択する必要があります。 配信の準備中に、既に配信が最大数を超えているプロファイルはメッセージから除外されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12)
 
