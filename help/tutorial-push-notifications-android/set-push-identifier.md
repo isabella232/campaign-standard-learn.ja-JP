@@ -10,18 +10,18 @@ team: TM
 translation-type: tm+mt
 source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-# 手順4 — 設定 [!DNL pushidentifier]
+# 手順4 - [!DNL pushidentifier]を設定する
 
-は、通知 **[!DNL pushidentifier]** のデバイストークンを含む文字列 [!DNL Push] です。 これは、によって送信され [!DNL Firebase] 、メソッドを使用してSDKに渡されるのと同じトークンで [!DNL MobileCore.setPushIdentifier] す。
+**[!DNL pushidentifier]**&#x200B;は、[!DNL Push]通知のデバイストークンを格納する文字列です。 これは[!DNL Firebase]から送信されるのと同じトークンで、[!DNL MobileCore.setPushIdentifier]メソッドを使用してSDKに渡されます。
 
-プロジェクトを [!DNL Android ]studioで開きます。 パッケージ文の最初の行を [!DNL MainActivity] 除く、のコード全体を削除します ****。
+[!DNL Android ]studioでプロジェクトを開きます。 [!DNL MainActivity] **のコード全体を削除します。ただし、パッケージ文**&#x200B;の最初の行は除きます。
 
-次のコードをに貼り付けま [!DNL MainActivity]す。
+次のコードを[!DNL MainActivity]に貼り付けます。
 
 <!--
 Removed `{.line-numbers}` below
@@ -90,19 +90,19 @@ MobileCore.lifecyclePause();
 
 これ以上作業を行う前に、アプリをテストするのに適したタイミングです。
 
-* 緑色の矢印をクリックするか、を選択して、アプリを実行し **[!DNL Run->Run'app']**&#x200B;ます。
-* エミュレータ [!DNL Android] ーが開始し、アプリケーションが [!DNL "Hello World" ]テキストで実行されていることが確認できます。
-* ウィンドウを開き [!DNL logcat] ます。 「[!DNL Got]」を検索します。 次に示すように、ログに [!DNL Firebase] 書き込まれた時点から受け取ったトークンが表示されます。 「[!DNL Got token]」の後の長い文字列は、Adobe Campaign [!DNL pushidentifier ]に送信されます。
+* 緑の矢印をクリックしてアプリを実行するか、**[!DNL Run->Run'app']**&#x200B;を選択します。
+* [!DNL Android]エミュレーターが開始し、[!DNL "Hello World" ]テキストを使用して実行しているアプリが表示されます。
+* [!DNL logcat]ウィンドウを開きます。 「[!DNL Got]」を検索します。 [!DNL Firebase]から受け取ったトークンが、次のようにログに書き込まれます。 「[!DNL Got token]」の後の長い文字列は、Adobe Campaignに送信される[!DNL pushidentifier ]です。
 
 ![logcatトークン](assets/logcat-got-token.PNG)
 
 ### モバイルアプリケーション購読者の確認
 
 Adobe Campaign Standardインスタンスにログインします。
-ナビゲ **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**&#x200B;ート 適切なモバイルアプリケーションを開きます。 Tab to the [!UICONTROL Mobile Application Subscribers] tab. リストが表示され [!UICONTROL registration token ]ます。
+**[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**&#x200B;に移動します。 適切なモバイルアプリケーションを開きます。 [!UICONTROL Mobile Application Subscribers]タブにタブ移動します。 [!UICONTROL registration token ]が表示されます。
 
 ![モバイルアプリケーション購読者](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->これ以上操作を行う前に、 [!UICONTROL Mobile Application Subscribers] タブ「ここで停止」に登録トークンが表示されない場合。
+>[!UICONTROL Mobile Application Subscribers]タブに登録トークンが表示されない場合は、これ以上先に進む前にSTOPを押します。
