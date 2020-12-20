@@ -8,9 +8,9 @@ thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 プライバシーリクエストに対応するため Adobe Campaign Standard を設定する際、プロファイルを削除するときにプロファイルにリンクされているすべてのカスタムデータを削除する必要があります。このビデオでは、この要件を満たすためにカスタムリソースを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
