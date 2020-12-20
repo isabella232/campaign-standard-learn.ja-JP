@@ -17,9 +17,9 @@ ht-degree: 15%
 ---
 
 
-# Configure a mobile application using [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+# [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}を使用したモバイルアプリの設定
 
-アプリ内メッセージを送信する場合、またはMobile SDK V5を使用する場合は、モバイルアプリをAdobe Campaignで設定および設定する必要があり [!UICONTROL push notifications][!UICONTROL Adobe Experience Platform Launch] ます。
+Mobile SDK V5を使用してアプリ内メッセージまたは[!UICONTROL push notifications]を送信するには、モバイルアプリを[!UICONTROL Adobe Experience Platform Launch]に設定し、Adobe Campaignで設定する必要があります。
 
 以下のビデオでは、モバイルアプリをExperience Platform Launchで設定するために必要な手順を示します。
 
@@ -27,9 +27,9 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->詳細なドキュメントとビデオで使用されるコードテンプレートについては、「アプリケ [[!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) ーションの設定」を参照してください。
+>詳細なドキュメントとビデオで使用するコードテンプレートについては、[[!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch)でのアプリケーションの設定を参照してください。
 
 ## その他のリソース
 
 * [モバイルプロパティの設定(Adobe起動ドキュメント)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Adobe Experience PlatformSDKを使用したモバイルアプリの設定（ドキュメント）](https://helpx.adobe.com/jp/campaign/kb/configuring-app-sdk.html)
+* [Adobe Experience PlatformSDKを使用したモバイルアプリの設定（ドキュメント）](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
