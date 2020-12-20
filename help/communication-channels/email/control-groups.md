@@ -8,9 +8,9 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 [!UICONTROL delivery] の [!UICONTROL control group] を定義する方法と、[!UICONTROL delivery] の送信後に [!UICONTROL control group] に割り当てられたプロファイルを抽出する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
