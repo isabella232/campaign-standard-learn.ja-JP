@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 7%
+ht-degree: 24%
 
 ---
 
@@ -20,23 +20,23 @@ ht-degree: 7%
 
 Adobe Campaignオファーデータは、GDPR(General Data Protection Regulation)やCCPA(California Consumer Privacy Act)などのプライバシー行為に従って、PIIデータのプライバシーアクセスおよび削除の要求を実行する3つの方法を制御します。
 
-* **プライバシーコアサービスの統合を使用：** からすべてのExperience Cloudソリューション [!UICONTROL Privacy Service] に送信されるプライバシー要求は、専用のワークフローを介してキャンペーンによって自動的に処理されます。 Refer to the [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) to learn how to create privacy requests from the Privacy Core Service
+* **プライバシーコアサービスの統合を使用：すべてのExperience Cloudソリューション** に送信される [!UICONTROL Privacy Service] プライバシー要求は、専用のワークフローを介してキャンペーンによって自動的に処理されます。プライバシーコアサービスからプライバシーリクエストを作成する方法については、[Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)を参照してください
 
-* **APIを使用：** Adobe Campaignは、RESTを使用してプライバシー要求を自動的に処理するAPIを提供します
+* **API経由：** Adobe Campaignは、RESTを使用したプライバシーリクエストの自動処理を可能にするAPIを提供します
 
-* **Adobe Campaignインターフェイスを使用：** 各プライバシーリクエストに対して、データコントローラーはAdobe Campaignに新しいプライバシーリクエストを作成します
+* **Adobe Campaignインターフェイスを介して：各プライバシー要求** に対して、データコントローラーはAdobe Campaignに新しいプライバシー要求を作成します
 
 >[!NOTE]
 >
 > **ACS 19.4での変更：**
 > 
-> [Privacy Service統合は](https://adobe.io/apis/cloudplatform/gdpr.html) 、すべてのアクセスおよび削除リクエストに対して使用する必要がある方法です。 19.4 以降、アクセス要求および削除要求に対する Campaign API およびインターフェイスの使用は廃止されます。廃止および削除された機能のCampaign Standardについて詳しくは、 [このページを参照してください](https://helpx.adobe.com/jp/campaign/kb/acs-deprecated-and-removed-features.html)。
+> [Privacy Service統合](https://adobe.io/apis/cloudplatform/gdpr.html)は、すべてのアクセス要求と削除要求に使用する必要がある方法です。 19.4 以降、アクセス要求および削除要求に対する Campaign API およびインターフェイスの使用は廃止されます。廃止および削除された機能のCampaign Standardについて詳しくは、[このページ](https://helpx.adobe.com/jp/campaign/kb/acs-deprecated-and-removed-features.html)を参照してください。
 >
->**個人情報(CCPA)の販売のオプトアウト**
+>**個人情報の販売のオプトアウト（CCPA）**
 >
->19.4以降、キャンペーンインターフェイスおよびAPIでは、CCPAオプトアウトフィールドがすぐに使用できます。 19.3の場合、この情報を活用するには、Adobe Campaign Standardでこのフィールドを作成する必要があります。 詳しくは、 [詳細なドキュメント](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) を参照してください。
+>19.4 以降、Campaign インターフェイスおよび API で、「CCPA オプトアウト」フィールドが標準で提供されます。19.3の場合、この情報を活用するには、Adobe Campaign Standardでこのフィールドを作成する必要があります。 詳しくは、[詳細なドキュメント](https://helpx.adobe.com/jp/campaign/kb/acs-privacy.html#ccpa)を参照してください。
 >
-> バージョンを確認するには、 アイコンをクリックし、「バージョン情報」を選択します。
+> バージョンを確認するには、インターフェイスの右上にある ? アイコンをクリックし、「バージョン情報」を選択します。
 
 ## ビデオTutorials
 
@@ -52,7 +52,7 @@ Adobe Campaignオファーデータは、GDPR(General Data Protection Regulation
 
 ## その他のリソース
 
-* [キャンペーンに関する一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
-* [ACS用CCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
-* [Adobe Experience Platformプライバシーサービス](https://adobe.io/apis/cloudplatform/gdpr.html)
+* [Adobe Campaign の一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
+* [ACS の CCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
 * [Adobe Campaign StandardREST APIドキュメント](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
