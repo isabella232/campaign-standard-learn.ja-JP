@@ -25,12 +25,12 @@ ht-degree: 10%
 >
 >この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、具体的な設定が必要です。
 >
->この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
+>この機能を実装する予定の場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
 
 このチュートリアルでは、Adobe Campaign Standardのマーケティングキャンペーンに、Adobe Experience Platformのプロファイルデータを一元化し、統合したデータを活用する方法について説明します。
 
-Adobe Campaign Standardの [!UICONTROL Audiences] モジュールを使用すると、リアルタイム顧客プロファイルに存在する [Adobe Experience Platform- Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) のデータを使用してセグメントを作成できます [](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)。
+Adobe Campaign Standard内の[!UICONTROL Audiences]モジュールを使用すると、[リアルタイム顧客プロファイル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)にある[Adobe Experience Platform- Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html)のデータを使用してセグメントを作成できます。
 
 次のビデオチュートリアルに従って、各手順を進めてください。
 
