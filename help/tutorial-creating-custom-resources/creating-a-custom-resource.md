@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
 source-wordcount: '35'
-ht-degree: 0%
+ht-degree: 28%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27716?quality=9)
 
-**次の手順**
+**次のステップ**
 
 [画面定義の設定](./configuring-a-screen-definition-for-a-custom-resource.md)
