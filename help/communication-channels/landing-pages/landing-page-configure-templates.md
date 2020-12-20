@@ -16,8 +16,8 @@ ht-degree: 35%
 
 ---
 
-# Webサイトの [!UICONTROL landing page template]
+# [!UICONTROL landing page template]を構成
 
-このビデオでは、テンプレートの設定方法を説明し [!UICONTROL landing page] ます。
+このビデオでは、[!UICONTROL landing page]テンプレートの設定方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)
