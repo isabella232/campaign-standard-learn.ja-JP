@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# モバイル表示の設定は、 [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# [!UICONTROL Email Designer] {#configure-the-mobile-view}でモバイル表示を設定
 
 このビデオでは、モバイル表示用のすべてのスタイルオプションを個別に編集して、電子メールのレスポンシブデザインを微調整する方法を説明します。
 
