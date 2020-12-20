@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27713?quality=9)
 
-**次の手順**
+**次のステップ**
 
 [カスタムリソースのリンク](./linking-custom-resources.md)
