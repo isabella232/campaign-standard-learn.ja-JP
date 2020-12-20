@@ -8,9 +8,9 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 100%
 
@@ -22,13 +22,13 @@ ht-degree: 100%
 [!UICONTROL Journey AI] を活用して、[!DNL Adobe Campaign] は過去のエンゲージメント指標に基づいて、開封率、最適な送信時間、および予想される解約を分析して予測できます。
 
 >[!CAUTION]
->この機能は、製品の一部としてすぐには利用できません。導入には、アドビコンサルティングの支援が必要です。詳細については、アドビ担当者にお問い合わせください。
+>この機能は、製品の一部としてすぐには利用できません。実装するには、アドビのコンサルティングサービス部門に依頼する必要があります。詳細については、アドビ担当者にお問い合わせください。
 
 [!UICONTROL Predictive engagement scoring] は、受信者がメッセージに関心を寄せる確率と、次の E メール送信から 7 日以内にオプトアウト（購読解除）する確率を予測します。これらの確率は、具体的な離脱のリスクが中程度か低いかに応じて、さらにグループ分けされます。さらに、このモデルは、特定の顧客のランクが他の顧客と関連付けてどの位置に相当するのか把握できるように、リスクパーセンタイルランクも提供します。
 
 個々のプロファイルレベルでのエンゲージメントスコアの表示、エンゲージユーザーをターゲティングするためのスコア利用、疲労ユーザーの抑制、顧客疲労を管理するタイポロジルールの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
 
 ## その他のリソース
 
