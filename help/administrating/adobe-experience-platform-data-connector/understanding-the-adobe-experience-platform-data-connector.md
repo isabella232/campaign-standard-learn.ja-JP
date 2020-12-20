@@ -17,31 +17,31 @@ ht-degree: 10%
 ---
 
 
-# Adobe Experience Platformについて [!UICONTROL Data Connector]
+# Adobe Experience Platformについて[!UICONTROL Data Connector]
 
 >[!NOTE]
 >
 >この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。
 >
->この機能を実装する予定がある [!UICONTROL Adobe Customer Support] 場合は、ご連絡ください。
+>この機能を実装する予定の場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
 ## 概要
 
-Adobe Experience Platform [!UICONTROL Data Connector] は、XTKデータ(Adobe Campaignで取り込まれたデータ)をAdobe Experience Platformの [!DNL Experience Data Model] (XDM)データにマッピングすることで、既存のお客様がAdobe Experience Platformでデータを利用できるように支援します。
+Adobe Experience Platform[!UICONTROL Data Connector]は、XTKデータ(Adobe Campaignで取り込まれたデータ)をAdobe Experience Platformの[!DNL Experience Data Model] (XDM)データにマッピングすることで、既存のお客様がAdobe Experience Platformでデータを入手できるように支援します。
 
 コネクタは単方向であり、データをAdobe Campaign StandardからAdobe Experience Platformに送信します。 データはAdobe Experience PlatformからAdobe Campaign Standardに送られません。
 
-Adobe Experience Platform [!UICONTROL Data Connector][!UICONTROL custom resources] は、Adobe Campaign Standardを理解し、お客様の全体的なデータスキーマがAdobe Experience Platform内でどのように行われるべきかを理解しているデータエンジニアを対象としています。
+Adobe Experience Platform[!UICONTROL Data Connector]は、Adobe Campaign Standard[!UICONTROL custom resources]を理解し、お客様の全体的なデータスキーマがAdobe Experience Platform内でどのように行われるべきかを理解しているデータエンジニアを対象としています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*このビデオでは、Adobe Experience Platformの概要を説明し [!UICONTROL Data Connector] ます（09:35分）。*
+*このビデオでは、Adobe Experience Platformの概要を説明 [!UICONTROL Data Connector] する（09:35分）*
 
 >[!NOTE]
 >
->の既製の転送はサポートされてい [!UICONTROL subscription events] ません。 転送するに [!UICONTROL subscription events]は、対応するXDMとデータセットをAdobe Experience Platform上に作成し、これらのデータに対するカスタムデータマッピングを設定します。
+>[!UICONTROL subscription events]の既製の転送はサポートされていません。 [!UICONTROL subscription events]を転送するには、対応するXDMとデータセットをAdobe Experience Platform上に作成し、これらのデータに対するカスタムデータマッピングを設定します。
 >
->現存するも [!UICONTROL experience events] のはAdobe Experience Platformに取り込むことはできないが、現在の生成物はAdobe Experience Platform [!UICONTROL experience events] に流される。
+>既存の[!UICONTROL experience events]はAdobe Experience Platformに取り込めませんが、継続中の生成[!UICONTROL experience events]はAdobe Experience Platformにストリーミングされます。
 
 ## データマッピングを実行するための主な手順
 
@@ -49,7 +49,7 @@ Adobe Experience Platform [!UICONTROL Data Connector][!UICONTROL custom resource
 
 1. [カスタムリソースのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
 2. [エクスペリエンスイベントのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-3. [Mapping Seed Table Data](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+3. [シードテーブルデータのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [データ・マッピングの変更](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
 5. [データ取得ジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
