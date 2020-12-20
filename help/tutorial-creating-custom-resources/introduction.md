@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 そのためには、標準提供のリソースを拡張し独自のカスタムテーブルを追加して、[!DNL Campaign] データモデルをエンリッチメントします。 顧客と注文テーブルを追加します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 このチュートリアルでは、次の手順を順を追って説明します。
 
