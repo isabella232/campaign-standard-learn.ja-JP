@@ -68,7 +68,7 @@ SFTP サーバーに接続するには、次の環境が必要です。
 * Adobe Campaign に登録する必要がある秘密鍵と公開鍵のペア
 * SFTP サーバーに直接接続する場合は、SFTP クライアントソフトウェアも必要です
 
-### 参考ドキュメント {#helpful-docs}
+### 参考ドキュメント  {#helpful-docs}
 
 * [SFTP サーバーへのログイン](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
