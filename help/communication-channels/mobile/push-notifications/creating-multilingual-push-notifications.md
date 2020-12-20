@@ -19,7 +19,7 @@ ht-degree: 34%
 
 # 多言語プッシュ通知の作成 [!UICONTROL push notification]
 
-Adobe Campaign Standardで多言語を作成する方法を学び [!UICONTROL push notifications] ます。
+Adobe Campaign Standardで多言語[!UICONTROL push notifications]を作成する方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
