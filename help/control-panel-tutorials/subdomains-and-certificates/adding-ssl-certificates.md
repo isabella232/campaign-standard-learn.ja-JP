@@ -13,20 +13,20 @@ translation-type: tm+mt
 source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
 
 # SSL 証明書の追加
 
-[!UICONTROL Adobe Campaign Control Panel] サブドメインを保護するために、SSL証明書を追加できます。
+[!UICONTROL Adobe Campaign Control Panel] では、SSL 証明書を追加してサブドメインを保護できます。
 
 ## [!UICONTROL Control Panel] のサブドメイン管理へのアクセス
 
 [!UICONTROL Control Panel] のサブドメイン管理にアクセスするには、次のいずれかの手順に従います。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] / **[!UICONTROL Control Panel]** カード/ [!UICONTROL **サブドメインと証明書**] カード
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／[!UICONTROL Solution picker]：[!DNL Campaign]／**[!UICONTROL Control Panel]** カード／[!UICONTROL **サブドメイン＆証明書**]&#x200B;カード
 
    または
 * URL（[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)）で直接移動
@@ -35,25 +35,25 @@ ht-degree: 42%
 
 SSL 証明書の追加には、次の 3 つの手順が必要です。
 
-### 手順1:生成 [!UICONTROL Certificate Signing Requests]
+### 手順 1：[!UICONTROL Certificate Signing Requests] を生成
 
-The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. 保護するインスタンスとサブドメインに対して生成する必要があります。
+SSL 証明書を購入するには、[!UICONTROL Certificate Signing Request]（CSR）が必要です。保護しようとしているインスタンスとサブドメインごとに生成する必要があります。
 
-次のビデオでは、でのを生成する方法について説明 [!UICONTROL Certificate Signing Request] し [!UICONTROL Control Panel]ます。
+次のビデオでは、[!UICONTROL Control Panel] で [!UICONTROL Certificate Signing Request] を生成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 
 *証明書署名要求の生成（2 分 36 秒）*
 
-### 手順2:SSL証明書の購入
+### 手順 2：SSL 証明書を購入
 
-CSRを取得したら、組織の承認を受けた証明機関からSSL証明書を購入します。
+CSR を取得したら、組織の承認を得た認証局から SSL 証明書を購入します。
 
-### 手順3:SSL証明書のインストール
+### 手順 3：SSL 証明書をインストール
 
-SSL証明書を取得したら、保護するサブドメイン用にSSL証明書をインストールする必要があります。
+SSL 証明書を取得したら、保護するサブドメイン用に SSL 証明書をインストールする必要があります。
 
-The video below explains how to install SSL certificates in [!UICONTROL Control Panel].
+次のビデオでは、[!UICONTROL Control Panel] で SSL 証明書をインストールする方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
@@ -61,5 +61,5 @@ The video below explains how to install SSL certificates in [!UICONTROL Control 
 
 ## その他のリソース
 
-* [完全なサブドメインの委任（ビデオ）](./subdomain-delegation.md)
+* [完全なサブドメインデリゲーション（ビデオ）](./subdomain-delegation.md)
 * [サブドメインおよび証明書 - ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
