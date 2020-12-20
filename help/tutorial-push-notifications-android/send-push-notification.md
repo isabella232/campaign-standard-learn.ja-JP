@@ -16,17 +16,17 @@ ht-degree: 2%
 ---
 
 
-# パート6 — 作業 [!UICONTROL Push Notification] をテストするために送信
+# パート6 - [!UICONTROL Push Notification]を送って作業結果をテストする
 
-次に、Adobe Campaignを使用して、を作成し、送信する必要があ [!UICONTROL Push Notification] ります。 . テスト用に単純なプッシュ通知を作成するには、次の手順に従います。
+次に、Adobe Campaignを使用して[!UICONTROL Push Notification]を作成し、送信する必要があります。. テスト用に単純なプッシュ通知を作成するには、次の手順に従います。
 
 * Adobe Campaign Standardインスタンスにログインします
-* Click **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
-* Select **[!UICONTROL Send push to app subscribers(mobileApp)]** and click Next
-* ドロップダウンリストから適切なモバイルアプリを選択し、 **[!UICONTROL Associate a Mobile App to a delivery]** 「 **[!UICONTROL Next]**
+* **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**&#x200B;をクリックします
+* **[!UICONTROL Send push to app subscribers(mobileApp)]**&#x200B;を選択し、「次へ」をクリックします
+* **[!UICONTROL Associate a Mobile App to a delivery]**&#x200B;ドロップダウンリストから適切なモバイルアプリを選択し、**[!UICONTROL Next]**&#x200B;をクリックします
 * カウントラベルをクリックすると、0より大きい値が返されます。 クリック **[!UICONTROL Next]**
-* 意味のある値を指定し、をクリックし [!UICONTROL Message title] ま [!UICONTROL Message body]**[!UICONTROL Create]**&#x200B;す。
-* 「**[!UICONTROL Prepare]**」をクリックします。準備が完了したら、クリックしてメッセージ **[!UICONTROL Confirm]** を送信します。
+* 意味のある[!UICONTROL Message title]と[!UICONTROL Message body]を指定し、**[!UICONTROL Create]**&#x200B;をクリックします。
+* 「**[!UICONTROL Prepare]**」をクリックします。準備が完了したら、**[!UICONTROL Confirm]**&#x200B;をクリックしてメッセージを送信します。
 
 問題が解決しない場合は、エミュレーターで実行されているAndroidアプリで通知が表示されます
 
