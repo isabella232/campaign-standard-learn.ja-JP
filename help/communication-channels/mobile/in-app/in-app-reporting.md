@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# [!UICONTROL In-App]配信{#in-app-message-reporting}のレポート
 
-特定の指標を追加することで、 [!UICONTROL In-App] 配信関連のデータを配信サマリで確認でき [!UICONTROL In-App] ます。 または、デフォルトのアプリ [内レポートを使用できます](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)。
+[!UICONTROL In-App]配信関連のデータは、配信サマリで[!UICONTROL In-App]個別の指標を追加することで確認できます。 または、デフォルトの[アプリ内レポート](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)を使用することもできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
