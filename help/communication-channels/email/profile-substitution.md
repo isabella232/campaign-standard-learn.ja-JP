@@ -4,7 +4,7 @@ description: このビデオでは、プロファイル置換機能を使用し�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 ## その他のリソース
 
-* [ターゲットプロファイルを使用したメッセージのテスト（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.translate.html)
+* [ターゲットプロファイルを使用したメッセージのテスト（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [A/B テスト用 E メールのデザイン](/help/communication-channels/email/a-b-testing.md)
 * [テストの送信、E メールの準備および送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
