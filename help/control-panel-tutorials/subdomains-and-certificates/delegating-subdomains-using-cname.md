@@ -1,5 +1,5 @@
 ---
-title: CNAMEを使用したサブドメインの委任
+title: CNAME を使用したサブドメインのデリゲート
 description: サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。
 feature: Subdomain Delegation
 topics: Control Panel
@@ -12,24 +12,24 @@ translation-type: tm+mt
 source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 
-# サブドメインのデリゲート CNAME（ベータ版）の使用
+# CNAME を使用したサブドメインのデリゲート（ベータ版）
 
 >[!IMPORTANT]
 >
-> サブドメインの委任でのCNAMEの使用はベータ段階であり、通知なく頻繁に更新や変更が行われる場合があります。
+> サブドメインデリゲーションでの CNAME の使用はベータ段階であり、通知なく頻繁に更新や変更がおこなわれる場合があります。
 
-電子メールの送信やAdobe Campaignとの発行ランディングページを開始できるようにするには、新しいサブドメインを設定する必要があります。
+Adobe Campaign で E メールの送信やランディングページの公開をおこなえるようになるには、新しいサブドメインを設定する必要があります。
 
-Campaign コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法について説明します。
+Campaign コントロールパネルで CNAME を使用してサブドメインを設定し、送信する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
 ## その他のリソース
 
-* [完全なサブドメインの委任（ビデオ）](./subdomain-delegation.md)
+* [完全なサブドメインデリゲーション（ビデオ）](./subdomain-delegation.md)
 * [新しいサブドメインの設定（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
