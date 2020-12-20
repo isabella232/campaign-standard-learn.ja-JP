@@ -17,29 +17,29 @@ ht-degree: 19%
 ---
 
 
-# [!UICONTROL External Signal activity ]— パラメーターを使用してワークフローを呼び出す
+# [!UICONTROL External Signal activity ] — パラメーターを使用してワークフローを呼び出す
 
-The [!UICONTROL External Signal activity] is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. このアクティビティでは、あるワークフローを別のワークフローから起動できるので、さらに複雑なカスタマージャーニーをサポートできる一方、問題が発生した場合の監視と対応を改善することができます。
+[!UICONTROL External Signal activity]は、同じ顧客の遍歴の一部である異なるプロセスを別々のワークフローに編成および調整するために使用します。 このアクティビティでは、あるワークフローを別のワークフローから起動できるので、さらに複雑なカスタマージャーニーをサポートできる一方、問題が発生した場合の監視と対応を改善することができます。
 
-ACS 19.2では、ワークフローを呼び出すだけでなく、オーディエンスにパラメータ(ターゲットに対するワークフロー名、インポートするファイル名、メッセージコンテンツの一部など)を渡すこともできます。 [!UICONTROL External Signal activity] を別のワークフローまたはREST API呼び出しから取得して、外部システムと統合できます。
+ACS 19.2では、[!UICONTROL External Signal activity]はワークフローを呼び出すだけでなく、オーディエンスにパラメータ(ターゲットに対するワークフロー名、インポートするファイル名、メッセージコンテンツの一部など)を渡すこともできます。 を別のワークフローまたはREST API呼び出しから取得して、外部システムと統合できます。
 
-また、この機能に対してテストを実行できる新しい **Test** アクティビティも追加されました。
+また、この機能に対してテストを実行できる新しい&#x200B;**テスト**&#x200B;アクティビティも追加されました。
 
 次のビデオでは、次の操作に必要な設定手順を説明します。
 
-1. **コンテンツ管理システム** (CRM)など、外部システムから外部パラメーターを受け取ります。
+1. **コンテンツ管理システム(CRM)などの外部システムから外部** パラメータを受け取ります。
 
    * 外部シグナルアクティビティでパラメータを宣言する
-   * API呼び出しを設定して、パラメーターを定義し、ワークフローの外部シグナルアクティビティをトリガーします。 API呼び出しの設定方法について詳しくは、「シグナルアクティビティの [トリガー](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)」を参照してください。
+   * API呼び出しを設定して、パラメーターを定義し、ワークフローの外部シグナルアクティビティをトリガーします。 API呼び出しの設定方法について詳しくは、[シグナルアクティビティをトリガーする](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)を参照してください。
 
 1. **外部パラメーターを使用したワークフローのカスタマイズ** (イベント変数):
 
-   ワークフローがトリガーされると、パラメーターはワークフローのイベント変数に取り込まれ、ワークフロー内で使用できます。 イベント変数を使用してカスタマイズ可能なすべてのアクティビティについては、 [ドキュメント](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) を参照してください。
+   ワークフローがトリガーされると、パラメーターはワークフローのイベント変数に取り込まれ、ワークフロー内で使用できます。 イベント変数を使用してカスタマイズできるすべてのアクティビティについては、[ドキュメント](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html)を参照してください。
 
    * テストアクティビティの設定（19.2で導入された新機能）
    * 読み取りオーディエンスと電子メール配信アクティビティの設定
 
-1. **外部パラメーターを使用してワークフローを呼び出す** 、エンドアクティビティの設定
+1. **外部パラメーターを使用してワークフローを呼び出すようにエンド** アクティビティを設定
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
 
