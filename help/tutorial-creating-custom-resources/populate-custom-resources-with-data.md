@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # カスタムリソースへのデータの埋め込み
 
-ワークフローを使用して、 [!DNL CSV] ファイルのデータをカスタムリソースに埋め込む方法を説明します。
+ワークフローを使用して[!DNL CSV]ファイルのデータをカスタムリソースに埋め込む方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
-を使用してカスタムリソースを入力する方法について詳し [!DNL API]くは、次のドキュメントを参照してください。 [カスタムリソースの操作](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)
+[!DNL API]を通じてカスタムリソースを入力する方法について詳しくは、次のドキュメントを参照してください。[カスタムリソースの操作](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)
