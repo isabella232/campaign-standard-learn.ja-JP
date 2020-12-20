@@ -37,5 +37,5 @@ Adobe Dreamweaver と Adobe Campaign Standard の統合により、Dreamweaver �
 ## その他のリソース
 
 * [Adobe Campaign の Dreamweaver インストールのトラブルシューティング](https://helpx.adobe.com/jp/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Adobe Dreamweaver ドキュメント](https://helpx.adobe.com/jp/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Adobe Dreamweaver ドキュメント](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [アドビアプリ用アドオンと拡張機能のインストール](https://helpx.adobe.com/jp/creative-cloud/kb/installingextensionsandaddons.html)
