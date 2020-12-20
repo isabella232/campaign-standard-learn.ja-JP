@@ -21,7 +21,7 @@ ht-degree: 10%
 
 ファイルからデータを収集して処理したり、Adobe Campaignデータベースにインポートしたりできます。
 
-このビデオでは、ワークフローで [!UICONTROL Data Management] アクティビティを使用してプロファイルデータを読み込む方法を説明します。
+このビデオでは、プロファイルデータを読み込むためのワークフローで[!UICONTROL Data Management]アクティビティを使用する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
