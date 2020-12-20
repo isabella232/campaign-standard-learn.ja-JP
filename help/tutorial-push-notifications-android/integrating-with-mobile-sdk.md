@@ -1,5 +1,5 @@
 ---
-title: 手順2 — モバイルSDKの統合
+title: 手順 2 - モバイル SDK を統合
 description: この部分では、AndroidアプリをモバイルSDKと統合します。 モバイルSDKとAndroidアプリを統合するには
 feature: Push
 topics: Mobile
@@ -10,22 +10,22 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 3%
 
 ---
 
-# 手順2 - Androidアプリ [!UICONTROL Mobile SDK] との統合
+# 手順2 - [!UICONTROL Mobile SDK]をAndroidアプリと統合する
 
-この部分では、 [!DNL Android] アプリをと統合し [!UICONTROL Mobile SDK]ます。 アプリ [!UICONTROL mobile SDK] と統合するに [!DNL Android] は、次の手順に従います。
+この部分では、[!DNL Android]アプリを[!UICONTROL Mobile SDK]と統合します。 [!UICONTROL mobile SDK]を[!DNL Android]アプリと統合するには、次の手順に従ってください。
 
-* 次の場所で *ACSPushTutorial* プロジェクトを開きます。 [!DNL Android Studio]
-* 拡張するMainAppという新しいJavaクラス *を作成します* 。 [!DNL android.app.Application]
+* [!DNL Android Studio]の&#x200B;*ACSPushTutorial*&#x200B;プロジェクトを開きます
+* *MainApp*&#x200B;という名前の新しいJavaクラスを作成し、[!DNL android.app.Application]を拡張します。
 * この時点でのプロジェクト構造は次のようになります
 
 ![メインアプリ](assets/android-main-app.PNG)
 
-* フォルダを展開し [!DNL Gradle Scripts] ます。 重複がモジュール [!DNL build.gradle] のをクリックします。 次の依存関係を、フ [!DNL build.gradle] ァイルの依存関係セクションに貼り付けます。 これで、 [!DNL build.gradle] ファイルは次のようになります
+* [!DNL Gradle Scripts]フォルダーを展開します。 重複はモジュールの[!DNL build.gradle]をクリックします。 次の依存関係を[!DNL build.gradle]ファイルの依存関係セクションに貼り付けます。 [!DNL build.gradle]ファイルは次のようになります
 
 <!--
 Removed `{.line-numbers}` below
@@ -39,11 +39,11 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 ![モジュール・グレーダル](assets/module-build-gradle.PNG)
 
-* 「今すぐ同期」ボタンをクリックしてプロジェクトを同期し、 [!DNL Android] プロジェクトを同期します
+* 「今すぐ同期」ボタンをクリックして[!DNL Android]プロジェクトを同期し、プロジェクトを同期します
 
 ## 修正 [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
-AndroidManifest.xml *を開き* 、manifest要素の後、およびapplication要素の前に、以下の2行を貼り付けます。 これにより、アプリケーションが外部の世界と通信できるようになります
+*AndroidManifest.xml*&#x200B;を開き、manifest要素の後、アプリケーション要素の前に、次の2行を貼り付けます。 これにより、アプリケーションが外部の世界と通信できるようになります
 
 <!--
 Removed `{.line-numbers}` below
@@ -54,7 +54,10 @@ Removed `{.line-numbers}` below
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
-アプリケーション要素に次の行をコピーし[!DNL android:name=".MainApp"]ます。 [!DNL AndroidManifest.xml]「保存」は、次のよう [!DNL AndroidManifest.xml] に表示されます。
+アプリケーション要素内の次の行をコピーします。
+[!DNL android:name=".MainApp"]
+[!DNL AndroidManifest.xml]を保存
+[!DNL AndroidManifest.xml]は次のようになります
 
 <!--
 Removed `{.line-numbers}` below
