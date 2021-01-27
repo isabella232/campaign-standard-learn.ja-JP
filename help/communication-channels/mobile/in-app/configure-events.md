@@ -1,6 +1,6 @@
 ---
 title: イベントの設定
-description: 'Adobe Campaign Standard(ACS)イベントでアプリ内メッセージを設定する場合、どのユーザが開始したアクションによって表示するメッセージがトリガされるかを定義します。 '
+description: 'Adobe Campaign Standard(ACS)イベントでアプリ内メッセージを設定する場合、表示するメッセージをトリガーするユーザー開始アクションを定義します。 '
 feature: In-App
 topics: Mobile
 kt: 2548
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 # 設定 [!UICONTROL Events] {#configuring-events}
 
-[!UICONTROL In-App]メッセージを設定する場合、表示するメッセージをトリガーするユーザー開始アクションを定義する必要があります。 これらのアクションは[!UICONTROL events]と呼ばれます。 [!UICONTROL events]の3つのカテゴリを利用できます。[!UICONTROL Mobile Application events]、[!UICONTROL Life Cycle events]、および[!UICONTROL Analytics events]。
+[!UICONTROL In-App]メッセージを設定する場合は、メッセージを表示するユーザー開始アクショントリガーを定義する必要があります。 これらのアクションは[!UICONTROL events]と呼ばれます。 [!UICONTROL events]の3つのカテゴリを利用できます。[!UICONTROL Mobile Application events]、[!UICONTROL Life Cycle events]、および[!UICONTROL Analytics events]。
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
