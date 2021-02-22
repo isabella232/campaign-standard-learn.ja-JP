@@ -1,7 +1,7 @@
 ---
 title: 外部シグナルアクティビティ — パラメータを使用してワークフローを呼び出します。
 description: 外部信号アクティビティは、同じ顧客ジャーニーの一部である異なるプロセスを異なるワークフローに編成および調整するために使用します。 このアクティビティでは、あるワークフローを別のワークフローから起動できるので、さらに複雑なカスタマージャーニーをサポートできる一方、問題が発生した場合の監視と対応を改善することができます。
-feature: External Signal Activity
+feature: 外部信号アクティビティ
 topics: Workflows
 kt: 2750
 thumbnail: 27249
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 19%
+source-wordcount: '333'
+ht-degree: 17%
 
 ---
 
@@ -45,4 +45,4 @@ ACS 19.2では、[!UICONTROL External Signal activity]はワークフローを�
 
 ## その他のリソース
 
-* [外部シグナル（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.translate.html)
+* [外部シグナル（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)
