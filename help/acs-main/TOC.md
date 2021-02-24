@@ -10,10 +10,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/offer-decisioning-learn/t
 getting-started-title: ドキュメント
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
 translation-type: tm+mt
-source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
+source-git-commit: 46b8e3391e78ac333bad28b5cacceea3969cbb28
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 100%
+source-wordcount: '507'
+ht-degree: 98%
 
 ---
 
@@ -56,6 +56,7 @@ ht-degree: 100%
       + [既存の E メール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [E メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [ワークフローを介した E メールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
       + AI を活用した E メール {#journey-ai}
          + [予測送信時間の最適化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [予測エンゲージメントスコアリング](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
