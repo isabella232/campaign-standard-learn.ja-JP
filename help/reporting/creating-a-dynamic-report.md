@@ -1,7 +1,7 @@
 ---
 title: 動的レポートの作成
 description: レポートの作成方法を説明します。
-feature: Dynamic Reporting
+feature: 動的レポート
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 46%
+source-wordcount: '67'
+ht-degree: 44%
 
 ---
 
