@@ -1,8 +1,8 @@
 ---
 title: E メール配信を作成します。
 description: 'キャンペーン、Adobe Campaign ホームページまたはマーケティングアクティビティリストから電子メールを作成できます。ワークフローから 1 回限りの電子メールや定期的な電子メールを作成することもできます。このビデオでは、ホームページから電子メール配信を作成する方法について説明します。 '
-landing-page-description: This video explains how to create an email delivery from the homepage.
-feature: Email
+landing-page-description: このビデオでは、ホームページから電子メール配信を作成する方法について説明します。
+feature: 電子メール
 topics: null
 kt: 1807
 thumbnail: 23721.jpg
@@ -12,8 +12,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 53%
+source-wordcount: '147'
+ht-degree: 57%
 
 ---
 
