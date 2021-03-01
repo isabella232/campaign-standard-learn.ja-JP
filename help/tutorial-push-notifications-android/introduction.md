@@ -1,7 +1,7 @@
 ---
 title: Androidアプリでプッシュ通知を使用する前に
 description: このチュートリアルでは、Adobe Campaign からプッシュ通知を送信し、Android アプリでこれらの通知を受信する手順について説明します。
-feature: Push
+feature: プッシュ
 topics: Mobile
 kt: 3846
 doc-type: tutorial
@@ -10,8 +10,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 41%
+source-wordcount: '200'
+ht-degree: 42%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign では、iOS および Android モバイルデバイスにパー�
 ## 前提条件
 
 * Adobe Campaign Standard拡張機能を使用して起動プロパティを設定する必要があります。 以下のオンラインヘルプに従ってください。
-   * [ビデオチュートリアル](https://video.tv.adobe.com/v/26224?quality=12&captions=jpn)
+   * [ビデオチュートリアル](https://video.tv.adobe.com/v/26224?quality=12)
    * [ドキュメント](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
 * 対応するプロパティのAdobe Campaign Standardでのステータスが設定済みになっていることを確認します。
