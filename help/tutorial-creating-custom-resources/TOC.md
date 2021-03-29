@@ -2,9 +2,9 @@
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard - カスタムリソースの作成（チュートリアル）
 user-guide-description: 'このマルチパートチュートリアルでは、カスタムリソースの作成とリンクに必要な手順について説明します。 '
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c12f58e0d63d267cfb955cc477e6ba193a8ad0da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
