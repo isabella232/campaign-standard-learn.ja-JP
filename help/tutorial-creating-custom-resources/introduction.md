@@ -1,17 +1,17 @@
 ---
 title: カスタムリソースの作成 - はじめに
 description: Adobe Campaign Standard を使用すると、リソースを拡張したり、新規リソースを作成したりできます。 このマルチパートチュートリアルでは、カスタムリソースの作成とリンクに必要な手順について説明します。
-feature: Custom Resources
+feature: カスタムリソース
 topics: null
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
-source-wordcount: '233'
+workflow-type: ht
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
