@@ -1,17 +1,17 @@
 ---
 title: 'UI の基礎知識 '
-description: このビデオでは、Adobe Campaign Standard のユーザーインターフェイスとその主な特長およびコア機能の概要を説明します。
-feature: User Interface
+description: このビデオでは、Adobe Campaign Standard のユーザーインターフェイス、主な機能、およびコア機能の概要を説明します。
+feature: ユーザーインターフェイス
 topics: Getting started
 kt: 3882
 thumbnail: acs-ui-get-started.png
 doc-type: feature video
 activity: understand
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '77'
+workflow-type: ht
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
