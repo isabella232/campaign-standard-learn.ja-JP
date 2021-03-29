@@ -1,10 +1,10 @@
 ---
 title: Adobe Campaign Standard チュートリアル - 概要
-description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
+description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
 ht-degree: 100%
 
@@ -60,7 +60,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
       <img alt="チュートリアル：Android 向けプッシュ通知の概要" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.translate.html">
     <strong>チュートリアル：Android 向けプッシュ通知の概要</strong>
     </a>
     </div>
