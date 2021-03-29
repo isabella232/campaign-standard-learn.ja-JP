@@ -6,14 +6,14 @@ breadcrumb-title: Campaign Standard チュートリアル
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=es&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: チュートリアル
-tutorials-url: https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ja
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja
 getting-started-title: ドキュメント
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46b8e3391e78ac333bad28b5cacceea3969cbb28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '507'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 98%
       + [既存の E メール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [E メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [ワークフローを介した E メールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+      + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
       + AI を活用した E メール {#journey-ai}
          + [予測送信時間の最適化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [予測エンゲージメントスコアリング](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
