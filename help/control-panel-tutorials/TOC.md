@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign コントロールパネルのチュートリアル
-user-guide-description: Adobe Campaignインスタンスの主要なアセットを監視し、Campaign コントロールパネルで管理タスクを実行する方法を説明します。
+user-guide-description: コントロールパネルで Adobe Campaign インスタンスの主要なアセットを監視したり、管理タスクを実行したりする方法を説明します。
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=es&tag=Campaign+Standard#recommended/solutions/campaign
@@ -10,11 +10,11 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 88%
 + [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign コントロールパネル使用の手引き](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理 {#sftp-management}
-   + [サーバー容量の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [サーバー処理能力の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [許可リストへの IP 範囲の追加](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
