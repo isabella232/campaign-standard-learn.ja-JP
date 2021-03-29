@@ -2,9 +2,9 @@
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard - Android 向けプッシュ通知の概要
 user-guide-description: このチュートリアルでは、Adobe Campaign からプッシュ通知を送信し、Android アプリでこれらの通知を受信する手順について説明します。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 
