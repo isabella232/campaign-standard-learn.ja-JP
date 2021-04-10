@@ -9,10 +9,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: ドキュメント
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
 translation-type: tm+mt
-source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 98%
+source-wordcount: '546'
+ht-degree: 93%
 
 ---
 
@@ -100,8 +100,13 @@ ht-degree: 98%
    + [動的レポートの作成](/help/reporting/creating-a-dynamic-report.md)
    + [カスタムプロファイル属性に基づくレポートの作成](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [ワークフローセグメントに基づくレポートの作成](/help/reporting/report-on-workflow-segments.md)
-+ 統合{#integrations}
++ 他のソリューションとの統合 {#integrations}
    + [Adobe Analyticsでの配信の成功を追跡する](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + トランザクションメッセージに対するトリガーの使用{#triggers}
+      + [概要](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [Experience Cloudでのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [Campaign Standardでのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
+      + [リアルタイムイベントデータを使用したトランザクションメッセージの設定](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
    + [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ja)
