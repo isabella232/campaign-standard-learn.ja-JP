@@ -9,10 +9,10 @@ role: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f1805428e57e778853ded71ba286ce2aefb9ec8c
+source-git-commit: f8fceeaaf26439b8fc11fe5039ce6bb3474f43dc
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -23,8 +23,9 @@ ht-degree: 2%
 
 トランザクションメッセージでトリガーを使用する前に、次の操作を行う必要があります。
 
-1. [Experience Cloudでのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
-2. [Campaign Standardでのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
+1. トリガーの起動の設定
+2. [Experience Cloudでのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
+3. [Campaign Standardでのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
 
 トリガーの設定が完了すると、リアルタイムイベントデータ](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)を使用して[トランザクションメッセージを設定できます。
 
