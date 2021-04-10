@@ -9,7 +9,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: ドキュメント
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
 translation-type: tm+mt
-source-git-commit: c285a5493dad114c817d78692400f4056c707db4
+source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 98%
@@ -100,7 +100,7 @@ ht-degree: 98%
    + [動的レポートの作成](/help/reporting/creating-a-dynamic-report.md)
    + [カスタムプロファイル属性に基づくレポートの作成](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [ワークフローセグメントに基づくレポートの作成](/help/reporting/report-on-workflow-segments.md)
-+ 統合
++ 統合{#integrations}
    + [Adobe Analyticsでの配信の成功を追跡する](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
