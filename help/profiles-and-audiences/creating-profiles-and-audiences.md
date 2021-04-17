@@ -1,6 +1,6 @@
 ---
 title: プロファイルとオーディエンスの作成 - 概要
-description: 既存のプロファイルへの移動方法、および Adobe Campaign Standard でプロファイルとオーディエンスを作成する方法について説明します。
+description: 既存のプロファイルに移動する方法、およびプロファイルとオーディエンスを作成する方法について説明します。
 feature: プロファイル、オーディエンス
 topics: null
 kt: 3899
@@ -8,14 +8,16 @@ thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 35%
+source-wordcount: '85'
+ht-degree: 16%
 
 ---
-
 
 # プロファイルとオーディエンスの作成 - 概要
 
