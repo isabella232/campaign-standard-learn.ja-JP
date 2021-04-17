@@ -1,21 +1,23 @@
 ---
 title: オーディエンス先 — 概要
-description: Adobe Campaign Standard(ACS)のAdobe Experience Platform(AEP)オーディエンスを活用
-feature: Audience Destinations
+description: Adobe Campaign Standard(ACS)でAdobe Experience Platform(AEP)オーディエンスを活用する方法を学ぶ
+feature: Peopleコアサービス統合
 topics: ACOP
 kt: 2755
 thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
+exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 10%
+source-wordcount: '181'
+ht-degree: 9%
 
 ---
-
 
 # [!UICONTROL Audience Destinations] （ベータ版） — 概要
 
@@ -41,4 +43,3 @@ Adobe Campaign Standard内の[!UICONTROL Audiences]モジュールを使用す�
 ## その他のリソース
 
 *[Adobe Experience Platform コネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-
