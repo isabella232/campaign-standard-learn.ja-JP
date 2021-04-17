@@ -1,21 +1,23 @@
 ---
 title: トランザクション E メールでの製品リストの設定
-description: このビデオでは、Adobe Campaign Standard(ACS)のトランザクション電子メールでの製品リストの設定に必要な手順を説明しています。
-feature: Transactional Emails
+description: トランザクション電子メールで製品リストを設定するために必要な手順を説明します。
+feature: トランザクションメッセージ、電子メール
 topics: Content Creation
 kt: 1728
 thumbnail: 25915
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '170'
 ht-degree: 4%
 
 ---
-
 
 # トランザクション電子メールの[!UICONTROL product listings]の構成
 
