@@ -1,21 +1,23 @@
 ---
 title: Adobe Experience Platform SDK を使用したモバイルアプリの設定
-description: アプリ内メッセージまたはプッシュ通知をExperience CloudSDKアプリで送信するには、モバイルアプリをAdobe Experience Platform Launchで設定し、Adobe Campaignで設定する必要があります
-feature: mobile SDK
+description: Adobe Experience Platform Launchでモバイルアプリを設定する方法とAdobe Campaignでモバイルアプリを設定する方法について説明します。
+feature: アプリ内、プッシュ、チャネル設定、モバイルSDK統合
 topics: null
 kt: 2501
 thumbnail: 26224.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
+role: Administrator
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 15%
 
 ---
-
 
 # [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}を使用したモバイルアプリの設定
 
