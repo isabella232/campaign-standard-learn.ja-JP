@@ -1,21 +1,23 @@
 ---
 title: ランディングページの作成と編集
-description: Adobe Campaignには、オーディエンスの情報を取得し、サービスへのオファー購読、データの表示、データベースの拡張に使用できるオンラインフォームのランディングページが付属しています。 ランディングページは、既存のプロファイルの取得や更新にも使用できます。 次のビデオでは、Adobe Campaign Standardでランディングページを作成、編集、テストする方法を説明しています。
-feature: Landing Pages
+description: 「Adobe Campaign Standardでランディングページを作成、編集、およびテストする方法を学びます。」
+feature: ランディングページ
 topics: null
 kt: 1808
 thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 10%
+source-wordcount: '89'
+ht-degree: 17%
 
 ---
-
 
 # ランディングページの作成と編集 {#create-and-edit-a-landing-page}
 
