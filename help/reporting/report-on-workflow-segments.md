@@ -1,21 +1,23 @@
 ---
 title: ワークフローセグメントに基づくレポートの作成
 description: ワークフローセグメントに対するレポートにより、ワークフローセグメントコードを動的なレポートで追加できます。
-feature: Reporting on Workflow Segments
+feature: レポート
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 15%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
-
 
 # ワークフローセグメントに基づくレポートの作成
 
