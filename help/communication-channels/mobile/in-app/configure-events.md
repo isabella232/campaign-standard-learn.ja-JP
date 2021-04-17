@@ -1,21 +1,23 @@
 ---
 title: イベントの設定
-description: 'Adobe Campaign Standard(ACS)イベントでアプリ内メッセージを設定する場合、表示するメッセージをトリガーするユーザー開始アクションを定義します。 '
-feature: In-App
+description: 「イベントがユーザーが開始したアクションを定義し、アプリ内メッセージを表示するトリガーを定義する方法を理解します。 」
+feature: アプリ内
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '215'
 ht-degree: 3%
 
 ---
-
 
 # 設定 [!UICONTROL Events] {#configuring-events}
 
@@ -60,7 +62,7 @@ Adobe Campaignで[!UICONTROL events]を設定する必要があります。 次�
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] adobe analyticsのライセンスが必要です。[[!DNL Analytics] 拡張子を](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch)設定し、[AnalyticsをApp](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)に追加すると、これらのイベントはACSの[!UICONTROL In-App]設定で使用できるようになります。
+>[!UICONTROL Analytics events] Adobe Analyticsのライセンスが必要です。[[!DNL Analytics] 拡張子を](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch)設定し、[AnalyticsをApp](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)に追加すると、これらのイベントはACSの[!UICONTROL In-App]設定で使用できるようになります。
 
 ## その他のリソース
 
