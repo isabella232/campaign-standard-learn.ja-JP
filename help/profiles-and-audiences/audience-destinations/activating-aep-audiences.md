@@ -1,21 +1,23 @@
 ---
 title: ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション
 description: このビデオでは、「オーディエンスを読み取り」アクティビティを使用して、ワークフロー内のData Servicesクエリオーディエンスをアクティブにする方法を説明します。
-feature: Audience Destinations
+feature: Peopleコアサービス統合
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: 955d063f-4709-4f56-8f39-f1b838354300
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '151'
 ht-degree: 7%
 
 ---
-
 
 # マーケティングワークフローのワークフロー[!UICONTROL Adobe Experience Platform Audiences]でAdobe Experience Platformオーディエンスをアクティブにする
 
@@ -41,4 +43,3 @@ ht-degree: 7%
 
 * [統合セグメントビルダーを使用したAdobe Campaign Standardでの新しいオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [プラットフォームオーディエンスの配信のターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
