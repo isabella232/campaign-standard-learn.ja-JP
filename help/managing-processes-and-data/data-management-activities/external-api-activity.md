@@ -1,21 +1,23 @@
 ---
 title: 外部 API アクティビティを使用したワークフローの設定と実行
-description: 外部 API アクティビティは、データ管理アクティビティの 1 つです。外部の REST API エンドポイントを呼び出すことができます。このアクティビティの目的は、パーソナライゼーションデータをサードパーティシステムから Campaign に取り込むことです。
-feature: External API activity
+description: 外部REST APIエンドポイントを呼び出して、パーソナライゼーションデータをサードパーティのシステムからキャンペーンに取り込む方法を説明します。
+feature: データ管理アクティビティ
 topics: null
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 87%
 
 ---
-
 
 # [!UICONTROL External API activity] を使用したワークフローの設定と実行
 
@@ -41,4 +43,3 @@ ht-degree: 100%
 ## その他のリソース
 
 * [外部 API（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.translate.html)
-
