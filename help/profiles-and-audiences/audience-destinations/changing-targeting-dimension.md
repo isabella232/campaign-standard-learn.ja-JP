@@ -1,21 +1,23 @@
 ---
 title: ターゲティングディメンションの変更
 description: このビデオでは、Adobe Campaign Standardのプライマリプロファイル表の外で、プラットフォームオーディエンスの配信のターゲティングディメンションを変更する方法を説明します。
-feature: Audience Destinations
+feature: Peopleコアサービス統合
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 21%
+source-wordcount: '169'
+ht-degree: 20%
 
 ---
-
 
 # ターゲティングディメンションの変更 [!UICONTROL Platform Audience]
 
