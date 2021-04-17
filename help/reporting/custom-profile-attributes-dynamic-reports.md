@@ -1,20 +1,22 @@
 ---
 title: レポートベースのカスタムプロファイル属性の作成
-description: Adobe Campaignの動的レポートは、柔軟なフリーフォーム環境で、カスタムプロファイル属性を含めることでデータを調査できるように設計されています。 ディメンション、指標および時間範囲を任意の組み合わせで組み合わせ、無制限の分類と比較を行うことができます。 このビデオでは、カスタムプロファイル属性に基づくレポートの作成方法を説明します。
-feature: Dynamic Reporting
+description: カスタムプロファイル属性に基づくレポートを作成する方法を説明します。
+feature: レポート
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 16%
+source-wordcount: '92'
+ht-degree: 25%
 
 ---
-
 
 # カスタムプロファイル属性に基づくレポートの作成
 
