@@ -1,23 +1,23 @@
 ---
 title: ワークフローを介した E メールの作成と送信
-description: 'キャンペーン、Adobe Campaign ホームページまたはマーケティングアクティビティリストから電子メールを作成できます。ワークフローから 1 回限りの電子メールや定期的な電子メールを作成することもできます。このビデオでは、ホームページから電子メール配信を作成する方法について説明します。 '
+description: 'ホームページから1回限りの電子メール配信を作成する方法を説明します。 '
 feature: E メール
 topics: null
 kt: 4319
 thumbnail: 31465.jpg
-role: business-practitioner
-level: beginner
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 translation-type: tm+mt
-source-git-commit: 1889079e0c8c87a445354c0ac0ea6481ec8799ae
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 80%
+source-wordcount: '102'
+ht-degree: 62%
 
 ---
-
 
 # ワークフローを介した E メールの作成と送信
 
