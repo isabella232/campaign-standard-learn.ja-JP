@@ -1,21 +1,23 @@
 ---
 title: 予測エンゲージメントスコアリング
 description: 個々のプロファイルレベルでのエンゲージメントスコアの表示、エンゲージユーザーをターゲティングするためのスコア利用、疲労ユーザーの抑制、顧客疲労を管理するタイポロジルールの作成方法を説明します。
-feature: predictive engagement scoring
+feature: 予測エンゲージメントスコアリング
 topics: null
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
+exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
+role: Business Practitoner, Developer, Administrator
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 100%
+source-wordcount: '218'
+ht-degree: 98%
 
 ---
-
 
 # 予測エンゲージメントスコアリング
 
