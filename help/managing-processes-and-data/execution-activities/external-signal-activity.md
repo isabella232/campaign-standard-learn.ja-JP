@@ -1,21 +1,23 @@
 ---
 title: 外部シグナルアクティビティ — パラメータを使用してワークフローを呼び出します。
-description: 外部信号アクティビティは、同じ顧客ジャーニーの一部である異なるプロセスを異なるワークフローに編成および調整するために使用します。 このアクティビティでは、あるワークフローを別のワークフローから起動できるので、さらに複雑なカスタマージャーニーをサポートできる一方、問題が発生した場合の監視と対応を改善することができます。
-feature: 外部信号アクティビティ
+description: 「複数のワークフローを別のワークフローから開始して、より複雑な顧客ジャーニーをサポートし、問題の監視と対応を改善する方法を学びます。」
+feature: 実行アクティビティ
 topics: Workflows
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
+exl-id: d3996185-681c-4906-85f0-0543ab767519
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 17%
+source-wordcount: '306'
+ht-degree: 9%
 
 ---
-
 
 # [!UICONTROL External Signal activity ] — パラメーターを使用してワークフローを呼び出す
 
