@@ -1,19 +1,12 @@
 ---
-product: adobe campaign standard
 user-guide-title: Adobe Campaign コントロールパネルのチュートリアル
 user-guide-description: コントロールパネルで Adobe Campaign インスタンスの主要なアセットを監視したり、管理タスクを実行したりする方法を説明します。
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=es&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: チュートリアル
-tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.translate.html
-getting-started-title: ドキュメント
-getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: ht
-source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: ht
-source-wordcount: '142'
+translation-type: tm+mt
+source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
