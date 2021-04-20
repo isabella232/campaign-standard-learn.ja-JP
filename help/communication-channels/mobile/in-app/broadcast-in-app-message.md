@@ -1,7 +1,7 @@
 ---
 title: '"アプリ内メッセージのブロードキャスト "'
 description: ブロードキャストテンプレートを使用して、モバイルアプリのすべてのユーザーをターゲットする方法について説明します。
-feature: アプリ内
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

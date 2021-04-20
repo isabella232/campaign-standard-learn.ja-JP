@@ -1,7 +1,7 @@
 ---
 title: Adobe Dreamweaver を使用したコンテンツ作成
 description: Dreamweaver統合を有効にするために必要なものと、Dreamweaverを使用してAdobe Campaign Standard向けのコンテンツを作成および編集する方法を理解します。
-feature: 電子メールデザイン
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video

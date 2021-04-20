@@ -1,7 +1,7 @@
 ---
 title: トランザクションメッセージのトリガーの使用 — 概要
 description: トランザクションメッセージング用のトリガーを設定し、使用する方法について説明します。
-feature: トリガー
+feature: Triggers
 topics: Integrations
 kt: 6525
 doc-type: article

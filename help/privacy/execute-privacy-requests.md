@@ -1,7 +1,7 @@
 ---
 title: プライバシーリクエストの実行
 description: Adobe Campaign では、プライバシーリクエストはワークフローで実行されます。 このビデオでは、リクエストにアクセスしリクエストを削除するワークフローとリクエスト実行時の動作について説明します。
-feature: GDPR、CCPA
+feature: GDPR, CCPA
 kt: 1525
 thumbnail: 22770.jpg
 doc-type: feature video

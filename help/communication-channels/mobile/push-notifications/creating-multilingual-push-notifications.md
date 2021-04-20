@@ -1,7 +1,7 @@
 ---
 title: 多言語プッシュ通知の作成
 description: '多言語プッシュ通知を作成する方法を説明します。 '
-feature: プッシュ
+feature: Push
 topics: Mobile
 kt: 1375
 thumbnail: 23304.jpg

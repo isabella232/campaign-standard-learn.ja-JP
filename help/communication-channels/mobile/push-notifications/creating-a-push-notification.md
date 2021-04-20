@@ -1,7 +1,7 @@
 ---
 title: プッシュ通知の作成
 description: 'プッシュ通知を作成する方法を説明します。 '
-feature: プッシュ
+feature: Push
 topics: Mobile
 kt: 1401
 thumbnail: 31499.jpg

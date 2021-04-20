@@ -1,7 +1,7 @@
 ---
 title: E メールおよびスパム対策分析のプレビュー
 description: 「Eメールとスパム対策分析のプレビュー方法を学びます。」
-feature: 電子メールデザイン
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

@@ -1,7 +1,7 @@
 ---
 title: Campaign プロファイルに基づいたターゲットユーザー
 description: 既知のモバイルアプリユーザーを、CRMプロファイル属性でパーソナライズされたメッセージでターゲットする方法を説明します。
-feature: アプリ内
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

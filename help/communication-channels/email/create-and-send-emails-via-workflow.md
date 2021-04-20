@@ -1,7 +1,7 @@
 ---
 title: ワークフローを介した E メールの作成と送信
 description: 'ホームページから1回限りの電子メール配信を作成する方法を説明します。 '
-feature: E メール
+feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg

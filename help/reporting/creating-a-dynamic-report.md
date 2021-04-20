@@ -1,7 +1,7 @@
 ---
 title: 動的レポートの作成
 description: レポートの作成方法を説明します。
-feature: レポート
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video

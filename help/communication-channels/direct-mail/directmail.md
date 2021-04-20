@@ -1,7 +1,7 @@
 ---
 title: ダイレクトメールの作成
 description: ダイレクトメールの作成方法を説明します。
-feature: ダイレクトメール
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg

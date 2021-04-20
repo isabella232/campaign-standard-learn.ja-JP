@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Platform SDK を使用したモバイルアプリの設定
 description: Adobe Experience Platform Launchでモバイルアプリを設定する方法とAdobe Campaignでモバイルアプリを設定する方法について説明します。
-feature: アプリ内、プッシュ、チャネル設定、モバイルSDK統合
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 topics: null
 kt: 2501
 thumbnail: 26224.jpg

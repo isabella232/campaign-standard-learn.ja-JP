@@ -1,7 +1,7 @@
 ---
 title: Campaign コントロールパネル使用の手引き
 description: この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
-feature: Campaign コントロールパネル
+feature: Control Panel
 topics: Control Panel
 audience: administrator
 kt: 6385

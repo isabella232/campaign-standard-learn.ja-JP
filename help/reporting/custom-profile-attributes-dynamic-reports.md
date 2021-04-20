@@ -1,7 +1,7 @@
 ---
 title: レポートベースのカスタムプロファイル属性の作成
 description: カスタムプロファイル属性に基づくレポートを作成する方法を説明します。
-feature: レポート
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

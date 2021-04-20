@@ -1,7 +1,7 @@
 ---
 title: サービスと購読の管理
 description: サービスを作成し、購読を管理する方法を説明します。
-feature: 購読
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

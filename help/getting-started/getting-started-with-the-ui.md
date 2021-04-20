@@ -1,7 +1,7 @@
 ---
 title: 'UI の概要 '
 description: このビデオでは、Adobe Campaign Standard のユーザーインターフェイス、主な機能、およびコア機能の概要を説明します。
-feature: 概要
+feature: Overview
 topics: Getting started
 kt: 3882
 thumbnail: acs-ui-get-started.png

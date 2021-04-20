@@ -1,7 +1,7 @@
 ---
 title: 外部 API アクティビティを使用したワークフローの設定と実行
 description: 外部REST APIエンドポイントを呼び出して、パーソナライゼーションデータをサードパーティのシステムからキャンペーンに取り込む方法を説明します。
-feature: データ管理アクティビティ
+feature: Data Management Activity
 topics: null
 kt: 2764
 thumbnail: 28200.jpg

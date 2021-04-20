@@ -1,7 +1,7 @@
 ---
 title: 配信へのコントロール母集団の追加
 description: 配信のコントロール母集団を定義する方法、および配信の送信後にコントロール母集団に割り当てられたプロファイルを抽出する方法について説明します。
-feature: コントロール母集団
+feature: Control Groups
 topics: null
 kt: 5060
 thumbnail: 40684.jpg

@@ -1,7 +1,7 @@
 ---
 title: レポートの概要
 description: Adobe Campaign Standardのレポート能力を理解する
-feature: レポート
+feature: Reporting
 topics: null
 kt: 3974
 thumbnail: 29461.jpg

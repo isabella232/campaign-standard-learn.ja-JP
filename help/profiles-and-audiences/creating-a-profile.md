@@ -1,7 +1,7 @@
 ---
 title: 'プロファイルの作成 '
 description: プロファイルを作成する方法とオーディエンスに追加する方法を説明します。
-feature: プロファイル、オーディエンス
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

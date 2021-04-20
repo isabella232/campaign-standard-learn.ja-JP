@@ -1,7 +1,7 @@
 ---
 title: プロファイルとオーディエンスの作成 - 概要
 description: 既存のプロファイルに移動する方法、およびプロファイルとオーディエンスを作成する方法について説明します。
-feature: プロファイル、オーディエンス
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

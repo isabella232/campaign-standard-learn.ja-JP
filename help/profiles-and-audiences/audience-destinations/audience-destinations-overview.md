@@ -1,7 +1,7 @@
 ---
 title: オーディエンス先 — 概要
 description: Adobe Campaign Standard(ACS)でAdobe Experience Platform(AEP)オーディエンスを活用する方法を学ぶ
-feature: Peopleコアサービス統合
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: null

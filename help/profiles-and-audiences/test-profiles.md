@@ -1,7 +1,7 @@
 ---
 title: テストプロファイルの作成
 description: 定義されたターゲット条件に一致しない受信者をターゲットして、受信者データベースの不正使用を検出したり、電子メールがinboxに届くようにする方法を説明します。
-feature: テストプロファイル
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video

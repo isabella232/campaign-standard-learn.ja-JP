@@ -1,7 +1,7 @@
 ---
 title: レポートの詳細
 description: 電子メール配信用にあらかじめ用意されている様々なレポートを理解します。
-feature: レポート
+feature: Reporting
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg

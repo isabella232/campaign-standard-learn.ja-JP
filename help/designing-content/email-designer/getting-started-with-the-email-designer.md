@@ -1,7 +1,7 @@
 ---
 title: Email Designer の概要
 description: 電子メールデザイナーの一般的な機能、および電子メールを一からデザインする方法を理解します。
-feature: 電子メールデザイン
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg

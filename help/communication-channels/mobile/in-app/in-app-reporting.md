@@ -1,7 +1,7 @@
 ---
 title: アプリ内配信のレポート
 description: 「モバイルアプリ内での顧客のリアルタイム動作に応じて、文脈で関連するアプリ内メッセージをユーザーに提示する方法を学びます。」
-feature: アプリ内
+feature: In App
 topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg

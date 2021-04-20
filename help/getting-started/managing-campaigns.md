@@ -1,7 +1,7 @@
 ---
 title: キャンペーンの管理
 description: キャンペーンを作成および管理する方法について説明します。
-feature: 'キャンペーン '
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg

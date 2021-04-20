@@ -1,7 +1,7 @@
 ---
 title: データベースの監視
 description: インスタンスのデータベース使用状況を監視する方法を説明します。
-feature: データベース監視
+feature: Database Monitoring
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg

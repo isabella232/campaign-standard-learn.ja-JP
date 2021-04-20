@@ -1,7 +1,7 @@
 ---
 title: 予測エンゲージメントスコアリング
 description: 個々のプロファイルレベルでのエンゲージメントスコアの表示、エンゲージユーザーをターゲティングするためのスコア利用、疲労ユーザーの抑制、顧客疲労を管理するタイポロジルールの作成方法を説明します。
-feature: 予測エンゲージメントスコアリング
+feature: Predictive Engagement Scoring
 topics: null
 kt: 6275
 thumbnail: 40470.jpg

@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign を使用したモバイルマーケティング
 description: モバイルマーケティング戦略をサポートできるAdobe Campaign Standardの機能を理解します。
-feature: SMS、プッシュ、アプリ内
+feature: SMS, Push, In-App
 topics: null
 kt: 3976
 thumbnail: 29468.jpg

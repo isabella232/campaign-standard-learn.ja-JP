@@ -1,7 +1,7 @@
 ---
 title: リアルタイムイベントデータを使用したトランザクションメッセージの設定
 description: 'トリガーからのリアルタイムイベントデータを使用してトランザクションメッセージを設定する方法を説明します。 '
-feature: トリガー
+feature: Triggers
 topics: Integrations
 kt: 7471
 thumbnail: 332602.jpg

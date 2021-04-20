@@ -1,7 +1,7 @@
 ---
 title: ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション
 description: このビデオでは、「オーディエンスを読み取り」アクティビティを使用して、ワークフロー内のData Servicesクエリオーディエンスをアクティブにする方法を説明します。
-feature: Peopleコアサービス統合
+feature: People Core Service Integration
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg

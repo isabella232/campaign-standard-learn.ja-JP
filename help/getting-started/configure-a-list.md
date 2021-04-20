@@ -1,7 +1,7 @@
 ---
 title: リストの設定
 description: 「Adobe Campaign Standardでリスト表示の表示列、並べ替え順、並べ替え順を変更する方法を学びます。  」
-feature: 概要
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

@@ -1,7 +1,7 @@
 ---
 title: E メール配信とレポートの確認
 description: パーソナライズされた電子メール配信を確認し、Adobe Campaign Standardで利用可能な様々なレポートを調査する方法を説明します。
-feature: レポート
+feature: Reporting
 topics: null
 kt: 3904
 thumbnail: 21389.jpg

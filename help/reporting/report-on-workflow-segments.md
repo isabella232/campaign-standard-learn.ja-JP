@@ -1,7 +1,7 @@
 ---
 title: ワークフローセグメントに基づくレポートの作成
 description: ワークフローセグメントに対するレポートにより、ワークフローセグメントコードを動的なレポートで追加できます。
-feature: レポート
+feature: Reporting
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg

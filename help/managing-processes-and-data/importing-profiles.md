@@ -1,7 +1,7 @@
 ---
 title: ワークフローでのプロファイルの読み込み
 description: ワークフローを使用してプロファイルデータを読み込む方法を説明します。
-feature: データ管理
+feature: Data Management
 topics: null
 kt: 1818
 thumbnail: 24993.jpg

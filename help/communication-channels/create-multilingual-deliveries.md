@@ -1,7 +1,7 @@
 ---
 title: 多言語電子メールまたはSMS配信の作成
 description: '多言語キャンペーンを送信する際の運用上の複雑さを簡単にする方法を説明します。 '
-feature: 電子メール、SMS
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

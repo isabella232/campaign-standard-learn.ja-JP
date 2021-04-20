@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standardのプロファイルとオーディエンスを理解する
 description: プロファイルとオーディエンスの概念を理解し、プロファイルとオーディエンスの作成方法を学びます。
-feature: プロファイル、オーディエンス
+feature: Profiles, Audiences
 topics: null
 kt: 3893
 thumbnail: 18464.jpg

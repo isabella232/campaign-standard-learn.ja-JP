@@ -1,7 +1,7 @@
 ---
 title: 既存コンテンツの使用
 description: このビデオでは、クリエイティブなコンテンツをWebサイトからすばやく取得し、電子メールデザイナーに読み込む方法を説明します。
-feature: 電子メールデザイン
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

@@ -2,7 +2,7 @@
 title: Adobe Analyticsでの配信の成功を追跡する
 description: Campaign StandardとAnalyticsの統合を設定する方法について説明します。 Campaign Standardから受信したデータと使用可能なKPIを使用して、Analyticsでレポートを作成する方法を説明します。
 product: adobe analytics, campaign
-feature: アプリケーション設定
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

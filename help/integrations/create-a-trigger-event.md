@@ -1,7 +1,7 @@
 ---
 title: Campaign Standardでのトリガーの作成
 description: Campaign Standardでトリガーイベントを作成する方法を説明します。
-feature: トリガー
+feature: Triggers
 topics: Integrations
 kt: 7470
 thumbnail: 332625.jpg

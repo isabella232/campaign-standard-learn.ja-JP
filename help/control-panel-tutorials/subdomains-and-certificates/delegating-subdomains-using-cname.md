@@ -1,7 +1,7 @@
 ---
 title: CNAME を使用したサブドメインのデリゲート
 description: サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。
-feature: サブドメインデリゲーション
+feature: Subdomain Delegation
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg

@@ -1,7 +1,7 @@
 ---
 title: 階層とマーケティングアクティビティの詳細
 description: 「プログラムとキャンペーンの階層、マーケティングプログラムの作成方法、プログラム内でマーケティングキャンペーンを作成する方法を理解します。」
-feature: キャンペーン、プログラム
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

@@ -2,7 +2,7 @@
 title: E メール配信の作成
 description: 'ホームページから電子メール配信を作成する方法を説明します。 '
 landing-page-description: このビデオでは、ホームページから電子メール配信を作成する方法について説明します。
-feature: E メール
+feature: Email
 topics: null
 kt: 1807
 thumbnail: 23721.jpg

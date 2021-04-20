@@ -1,7 +1,7 @@
 ---
 title: アプリ内メッセージの概要
 description: 「モバイルアプリ内での顧客のリアルタイム動作に応じて、文脈で関連性のあるアプリ内メッセージをユーザーに提示する方法を学びます。」
-feature: アプリ内
+feature: In App
 topics: Mobile
 kt: 1911
 doc-type: feature video

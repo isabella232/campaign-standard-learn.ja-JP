@@ -1,7 +1,7 @@
 ---
 title: ランディングページの作成と編集
 description: 「Adobe Campaign Standardでランディングページを作成、編集、およびテストする方法を学びます。」
-feature: ランディングページ
+feature: Landing Pages
 topics: null
 kt: 1808
 thumbnail: 24093.jpg

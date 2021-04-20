@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standard（ACS）におけるプライバシーリクエストの名前空間の作成
 description: GDPR や CCPA の要件に従ってプライバシーのアクセスリクエストや削除リクエストを作成できるための前提条件は、Adobe Campaign データベース内のデータ主体の識別に使用される名前空間の定義です。 このビデオでは、プライバシーリクエストの名前空間を作成する方法を説明します。
-feature: GDPR、CCPA
+feature: GDPR, CCPA
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video

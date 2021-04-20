@@ -1,7 +1,7 @@
 ---
 title: E メールコンテンツテンプレートの概要
 description: 電子メールコンテンツテンプレートの作成方法を説明します。
-feature: 電子メールデザイン
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

@@ -1,7 +1,7 @@
 ---
 title: Android アプリでプッシュ通知を使用する前に
 description: このチュートリアルでは、Adobe Campaign からプッシュ通知を送信し、Android アプリでこれらの通知を受信する手順について説明します。
-feature: プッシュ
+feature: Push
 topics: Mobile
 kt: 3846
 doc-type: tutorial

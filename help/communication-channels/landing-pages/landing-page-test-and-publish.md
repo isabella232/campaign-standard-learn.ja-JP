@@ -1,7 +1,7 @@
 ---
 title: ランディングページのテストと公開
 description: Adobe Campaign Standardで構築されたランディングページをテストする方法とそれを公開する方法を説明します。
-feature: ランディングページ
+feature: Landing Pages
 topics: null
 kt: 1813
 thumbnail: 24992.jpg

@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standard の概要
 description: このビデオでは、Adobe Campaign Standard の大まかな概要を紹介します。
-feature: 概要
+feature: Overview
 topics: null
 kt: 3971
 thumbnail: 29430.jpg

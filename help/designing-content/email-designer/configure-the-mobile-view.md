@@ -1,7 +1,7 @@
 ---
 title: 電子メールデザイナでのモバイル表示の設定
 description: 「モバイルディスプレイ用のすべてのスタイルオプションを個別に編集して、電子メールのレスポンシブデザインを微調整する方法を説明します。」
-feature: 電子メールデザイン
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

@@ -1,7 +1,7 @@
 ---
 title: イベントの設定
 description: 「イベントがユーザーが開始したアクションを定義し、アプリ内メッセージを表示するトリガーを定義する方法を理解します。 」
-feature: アプリ内
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

@@ -1,7 +1,7 @@
 ---
 title: ターゲティングディメンションの変更
 description: このビデオでは、Adobe Campaign Standardのプライマリプロファイル表の外で、プラットフォームオーディエンスの配信のターゲティングディメンションを変更する方法を説明します。
-feature: Peopleコアサービス統合
+feature: People Core Service Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg

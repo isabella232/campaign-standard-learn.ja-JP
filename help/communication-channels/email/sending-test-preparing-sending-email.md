@@ -1,7 +1,7 @@
 ---
 title: テストの送信、E メールの準備および送信
 description: 「テスト用の電子メールを送信し、電子メール配信を準備して送信する方法を説明します。 」
-feature: 'E メール  '
+feature: Email  
 topics: null
 kt: 1812
 thumbnail: 24013.jpg

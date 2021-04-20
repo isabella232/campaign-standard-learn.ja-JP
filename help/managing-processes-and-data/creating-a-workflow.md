@@ -1,7 +1,7 @@
 ---
 title: ワークフローの作成
 description: ワークフローを作成および編集する方法について説明します。
-feature: ワークフロー
+feature: Workflows
 topics: null
 kt: 1809
 thumbnail: 23937.jpg

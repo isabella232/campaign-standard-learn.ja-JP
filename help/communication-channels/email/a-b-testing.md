@@ -1,7 +1,7 @@
 ---
 title: A/B テスト
 description: 「A/Bテストを設定し、送信して、件名行をテストする方法を学びます。 」
-feature: 'A/B テスト  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

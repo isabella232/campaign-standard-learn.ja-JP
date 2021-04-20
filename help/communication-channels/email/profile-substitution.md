@@ -1,7 +1,7 @@
 ---
 title: プロファイルの置き換え - ターゲットプロファイルを使用した E メールメッセージのテスト
 description: プロファイルの置き換え機能を使用して電子メールメッセージをテストする方法を説明します。
-feature: 'E メール  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

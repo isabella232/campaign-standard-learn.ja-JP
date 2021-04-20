@@ -3,7 +3,7 @@ title: Adobe Campaign Standard チュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Standard の多くの機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: 概要
+feature: Overview
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 translation-type: tm+mt

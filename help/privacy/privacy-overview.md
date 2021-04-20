@@ -1,8 +1,8 @@
 ---
 title: Adobe Campaign Standard（ACS）でのプライバシーリクエスト ー 概要
 description: チュートリアルでは、Adobe Campaign Standard（ACS）インターフェイスでプライバシリクエストを作成する方法について説明します。
-feature: GDPR、CCAP
-topic: プライバシー
+feature: GDPR, CCAP
+topic: Privacy
 kt: 1480
 doc-type: feature video
 activity: use

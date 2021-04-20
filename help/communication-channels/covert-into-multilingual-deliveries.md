@@ -1,7 +1,7 @@
 ---
 title: 既存の E メール、SMS 配信またはテンプレートの多言語変換
 description: '"既存の電子メール、SMS配信、または配信テンプレートを多言語に変換する方法を説明します。"'
-feature: 電子メール、SMS
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg

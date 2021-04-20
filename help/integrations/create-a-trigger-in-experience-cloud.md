@@ -1,7 +1,7 @@
 ---
 title: Experience Cloudでのトリガーの作成
 description: Experience Cloudでトリガーを設定する方法を説明します。
-feature: トリガー
+feature: Triggers
 topics: Integrations
 kt: 6524
 thumbnail: 332624.jpg

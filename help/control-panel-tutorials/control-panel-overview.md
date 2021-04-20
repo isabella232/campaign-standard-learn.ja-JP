@@ -2,7 +2,7 @@
 title: コントロールパネル- 概要
 description: Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
 landing-page-description: コントロールパネルを使用すると、Campaign 管理者は、SFTP ストレージ、GPG キー、サブドメインと証明書の管理などの管理タスクを実行できます。
-feature: Campaign コントロールパネル
+feature: Control Panel
 topics: Control Panel
 audience: administrator
 kt: 4696

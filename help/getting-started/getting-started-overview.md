@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standard の概要
 description: このビデオでは、Adobe Campaign Standard のユーザーインターフェイス、主な機能、およびコア機能の概要を説明します。
-feature: 概要
+feature: Overview
 topics: null
 kt: null
 doc-type: null

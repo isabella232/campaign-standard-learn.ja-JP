@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign の利用によるビジネスの成長
 description: 真のクロスチャネルオーケストレーションへの次のステップを理解します。
-feature: クロスチャネルオーケストレーション
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

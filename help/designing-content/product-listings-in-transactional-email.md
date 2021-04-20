@@ -1,7 +1,7 @@
 ---
 title: トランザクション E メールでの製品リストの設定
 description: トランザクション電子メールで製品リストを設定するために必要な手順を説明します。
-feature: トランザクションメッセージ、電子メール
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

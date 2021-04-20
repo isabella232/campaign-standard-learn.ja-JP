@@ -1,6 +1,6 @@
 ---
 title: 統合セグメントビルダーを使用した新規オーディエンスの作成
-feature: Peopleコアサービス統合
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

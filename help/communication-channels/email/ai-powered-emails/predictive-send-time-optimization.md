@@ -1,7 +1,7 @@
 ---
 title: 予測送信時間の最適化
 description: Adobe Campaign とジャーニー AI モデルの間でデータを同期するために必要なワークフローを理解します。個々のプロファイルレベルで送信時間スコアを表示する方法、および送信時間の数式を使用して E メール配信を実行する方法について説明します。
-feature: 送信時間の最適化
+feature: Send Time Optimization
 topics: null
 kt: 6274
 thumbnail: 40469.jpg
