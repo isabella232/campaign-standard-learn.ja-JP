@@ -1,17 +1,17 @@
 ---
 title: 手順 2 - モバイル SDK を統合
 description: この部分では、AndroidアプリをモバイルSDKと統合します。 モバイルSDKとAndroidアプリを統合するには
-feature: Push
-topics: Mobile
+feature: プッシュ
 kt: 4826
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 3%
+source-wordcount: '159'
+ht-degree: 4%
 
 ---
 
@@ -41,7 +41,7 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 * 「今すぐ同期」ボタンをクリックして[!DNL Android]プロジェクトを同期し、プロジェクトを同期します
 
-## 修正 [!DNL AndroidManifest.xml]{#modify-android-manifest}
+## 変更 [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
 *AndroidManifest.xml*&#x200B;を開き、manifest要素の後、アプリケーション要素の前に、次の2行を貼り付けます。 これにより、アプリケーションが外部の世界と通信できるようになります
 
