@@ -2,20 +2,19 @@
 title: Adobe Experience Platform コネクタについて
 description: Adobe Experience PlatformData Connectorは、XTKデータ(キャンペーンで取り込まれたデータ)をAdobe Experience Platformのエクスペリエンスデータモデル(XDM)データにマッピングすることで、既存のお客様がAdobe Experience Platformでデータを利用できるようにします。
 feature: Adobe Experience Platform Data Connector
-topics: ACoP
 kt: 2826
 thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
+exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 10%
+source-wordcount: '348'
+ht-degree: 11%
 
 ---
-
 
 # Adobe Experience Platformについて[!UICONTROL Data Connector]
 
