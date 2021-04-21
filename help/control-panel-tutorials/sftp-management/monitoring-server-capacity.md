@@ -1,22 +1,21 @@
 ---
 title: サーバー容量の監視
 description: SFTP サーバーのストレージ容量を監視する方法を説明します。
-feature: SFTP Management
-topics: Control Panel
+feature: Campaign コントロールパネル
 audience: administrator
 kt: 6239
 thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 432a1af6-22de-41ff-b733-e086ee14ab7a
 translation-type: tm+mt
-source-git-commit: 1a108846158bfaf8f9efd1b7a78f652c0d3f3211
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
-
 
 # サーバー容量の監視
 
