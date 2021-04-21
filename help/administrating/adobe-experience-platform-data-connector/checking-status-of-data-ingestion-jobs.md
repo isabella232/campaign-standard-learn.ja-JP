@@ -1,22 +1,21 @@
 ---
-title: 'データ取り込みジョブのステータスの確認 '
+title: データ取り込みジョブのステータスの確認
 description: ステータスを確認し、データマッピングを変更する方法について説明します。
 feature: Adobe Experience Platform Data Connector
-topics: null
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
-
 
 # データ取り込みジョブのステータスの確認
 
