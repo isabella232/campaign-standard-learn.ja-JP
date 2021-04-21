@@ -1,18 +1,17 @@
 ---
 title: GPG キー管理 - 概要
 description: 次のビデオでは、アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の Campaign インスタンスに生成しインストールする方法と、インバウンドデータを復号化するために公開鍵を Campaign インスタンスにインポートしインストールする方法を説明します。
-feature: Control Panel
-topics: GPG key Management
+feature: コントロールパネル
 audience: administrator
 team: TM
+exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '166'
 ht-degree: 100%
 
 ---
-
 
 # GPG キー管理 - 概要
 
