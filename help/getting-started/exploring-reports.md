@@ -1,8 +1,7 @@
 ---
 title: レポートの詳細
 description: 電子メール配信用にあらかじめ用意されている様々なレポートを理解します。
-feature: Reporting
-topics: Getting Started
+feature: レポート
 kt: 3906
 thumbnail: 23021.jpg
 doc-type: tutorial
@@ -12,7 +11,7 @@ exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 72%
