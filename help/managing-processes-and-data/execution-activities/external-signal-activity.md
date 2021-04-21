@@ -1,8 +1,7 @@
 ---
 title: 外部シグナルアクティビティ — パラメータを使用してワークフローを呼び出します。
-description: 「複数のワークフローを別のワークフローから開始して、より複雑な顧客ジャーニーをサポートし、問題の監視と対応を改善する方法を学びます。」
-feature: Execution Activity
-topics: Workflows
+description: 複雑な顧客ジャーニーをサポートしながら、問題の監視と対応を改善するために、別のワークフローから開始する方法を説明します。
+feature: 実行アクティビティ
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: Business Practitioner, Developer
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 9%
