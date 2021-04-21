@@ -1,16 +1,16 @@
 ---
 title: 手順 5 - 通知を反映
 description: この部分では、Android Notification Manager.Firebaseを使用して、Adobe Campaignから受信したメッセージを伝播します。
-feature: Push
-topics: Mobile
+feature: プッシュ
 kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 3%
 
 ---
@@ -91,7 +91,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 }
 ```
 
-## 修正 [!DNL AndroidManifest.xml]
+## 変更 [!DNL AndroidManifest.xml]
 
 &lt;追加a0/>に対して作成されたサービス。 [!DNL AndroidManifest.xml]最終的な[!DNL AndroidManifest.xml]は次のようになります。
 
