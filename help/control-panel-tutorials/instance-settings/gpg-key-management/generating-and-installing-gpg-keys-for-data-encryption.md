@@ -1,22 +1,21 @@
 ---
 title: データ暗号化用の GPG キーの生成とインストール
 description: コントロールパネルでは、Adobe Campaign インスタンスから送信されるデータを暗号化できます。アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の Campaign インスタンスに生成しインストールする方法を説明します。
-feature: Control Panel
-topics: null
+feature: コントロールパネル
 audience: administrator
 kt: 5188
 thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: ff5a2d83-d38c-47d2-a3ae-e07d8cab13eb
 translation-type: tm+mt
-source-git-commit: 08fc21ce3bdf8b520d13cab3ba09ba9447bb885c
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
-
 
 # データ暗号化用の GPG キーの生成とインストール
 
