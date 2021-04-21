@@ -1,16 +1,17 @@
 ---
 title: 手順4 - pushidentifierの設定
 description: '**pushIdentifier**は、プッシュ通知用のデバイストークンを格納する文字列です。 これは、Firebaseから送信され、MobileCore.setPushIdentifierメソッドを使用してSDKに渡されるのと同じトークンです。'
-feature: Push
-topics: MOBILE
+feature: プッシュ
+topic: MOBILE
 kt: 4828
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
 translation-type: tm+mt
-source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
+source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -92,7 +93,7 @@ MobileCore.lifecyclePause();
 
 * 緑の矢印をクリックしてアプリを実行するか、**[!DNL Run->Run'app']**&#x200B;を選択します。
 * [!DNL Android]エミュレーターが開始し、[!DNL "Hello World" ]テキストを使用して実行しているアプリが表示されます。
-* [!DNL logcat]ウィンドウを開きます。 「[!DNL Got]」を検索します。 [!DNL Firebase]から受け取ったトークンが、次のようにログに書き込まれます。 「[!DNL Got token]」の後の長い文字列は、Adobe Campaignに送信される[!DNL pushidentifier ]です。
+* [!DNL logcat]ウィンドウを開きます。 「[!DNL Got]」を検索します。 [!DNL Firebase]から受け取ったトークンが、次のようにログに書き込まれています。 「[!DNL Got token]」の後の長い文字列は、Adobe Campaignに送信される[!DNL pushidentifier ]です。
 
 ![logcatトークン](assets/logcat-got-token.PNG)
 
