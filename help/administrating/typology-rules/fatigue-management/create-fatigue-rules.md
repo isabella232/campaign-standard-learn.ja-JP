@@ -1,21 +1,20 @@
 ---
 title: 疲労ルールの作成
 description: このビデオでは、タイポロジルールの設定方法を紹介します。
-feature: Fatigue Management
-topics: null
+feature: 疲労管理
 kt: 3446
 thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
 translation-type: tm+mt
-source-git-commit: cce6520619b68bde6a00531ac1931dca90a6b3dc
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 26%
+source-wordcount: '94'
+ht-degree: 27%
 
 ---
-
 
 # 作成 [!UICONTROL fatigue rules]
 
