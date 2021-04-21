@@ -1,8 +1,7 @@
 ---
 title: 既存の E メール、SMS 配信またはテンプレートの多言語変換
 description: '"既存の電子メール、SMS配信、または配信テンプレートを多言語に変換する方法を説明します。"'
-feature: Email, SMS
-topics: Mobile
+feature: 電子メール、SMS
 kt: 1703
 thumbnail: 23251.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 role: Business Practitioner
 level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 31%
