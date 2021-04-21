@@ -1,8 +1,7 @@
 ---
 title: アプリ内メッセージの概要
-description: 「モバイルアプリ内での顧客のリアルタイム動作に応じて、文脈で関連性のあるアプリ内メッセージをユーザーに提示する方法を学びます。」
-feature: In App
-topics: Mobile
+description: モバイルアプリ内での顧客のリアルタイム動作に応じて、文脈で関連性のあるアプリ内メッセージをユーザーに提示する方法を説明します。
+feature: アプリ内
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,7 +10,7 @@ exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 12%
