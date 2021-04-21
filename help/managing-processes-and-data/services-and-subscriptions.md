@@ -1,8 +1,7 @@
 ---
 title: サービスと購読の管理
 description: サービスを作成し、購読を管理する方法を説明します。
-feature: Subscriptions
-topics: null
+feature: 購読
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 38%
