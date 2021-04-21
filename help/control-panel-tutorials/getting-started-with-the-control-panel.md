@@ -1,22 +1,21 @@
 ---
 title: Campaign コントロールパネル使用の手引き
 description: この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
-feature: Control Panel
-topics: Control Panel
+feature: Campaign コントロールパネル
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
-workflow-type: ht
+exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL Control Panel] 使用の手引き{#control-panel}
 
@@ -61,4 +60,3 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 ## その他のリソース
 
 * [Campaign コントロールパネルヘルプセンター](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
-
