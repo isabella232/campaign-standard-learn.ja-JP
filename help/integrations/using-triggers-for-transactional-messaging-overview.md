@@ -10,7 +10,7 @@ level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 translation-type: tm+mt
-source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
+source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 1%
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 トランザクションメッセージでトリガーを使用する前に、次の操作を行う必要があります。
 
-1. トリガーの起動の設定
+1. [トリガーの起動の設定](/help/integrations/configure-launch-for-triggers.md)
 2. [Experience Cloudでのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
 3. [Campaign Standardでのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
 
