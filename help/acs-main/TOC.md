@@ -8,11 +8,10 @@ tutorials-title: チュートリアル
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja
 getting-started-title: ドキュメント
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
-translation-type: tm+mt
 source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '549'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +21,7 @@ ht-degree: 93%
 + [概要](/help/overview.md)
 + はじめに{#getting-started}
    + [Adobe Campaign Standard の概要](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [UI の基礎知識](/help/getting-started/getting-started-with-the-ui.md)
+   + [UI の概要](/help/getting-started/getting-started-with-the-ui.md)
    + [リストの設定](/help/getting-started/configure-a-list.md)
    + [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
@@ -31,13 +30,13 @@ ht-degree: 93%
    + [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=ja)
    + [レポートの概要](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
-   + [Adobe Campaign と共に成長](/help/getting-started/growing-with-adobe-campaign.md)
+   + [Adobe Campaign の利用による成長](/help/getting-started/growing-with-adobe-campaign.md)
 + プロファイルとオーディエンス{#profiles-and-audiences}
    + [プロファイルとオーディエンスの作成 - 概要](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [プロファイルの作成](/help/profiles-and-audiences/creating-a-profile.md)
    + [テストプロファイルの作成](/help/profiles-and-audiences/test-profiles.md)
    + [ワークフローでのプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
-   + [サービスと購読の管理](/help/managing-processes-and-data/services-and-subscriptions.md)
+   + [サービスとサブスクリプションの管理](/help/managing-processes-and-data/services-and-subscriptions.md)
    + オーディエンスの宛先（ベータ版）{#audience-destinations}
       + [概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [統合セグメントビルダーを使用した新規オーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
@@ -45,23 +44,23 @@ ht-degree: 93%
       + [ターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通信チャネル{#communication-channels}
    + E メール {#email}
-      + [E メールの作成](/help/communication-channels/email/create-email-from-homepage.md)
-      + [テストの送信、E メールの準備および送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [メールの作成](/help/communication-channels/email/create-email-from-homepage.md)
+      + [テストの送信、メールの準備および送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B テスト](/help/communication-channels/email/a-b-testing.md)
-      + [ターゲットプロファイルを使用した E メールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)
-      + [配信へのコントロール母集団の追加](/help/communication-channels/email/control-groups.md)
-      + [多言語の E メールまたは SMS 配信の作成](/help/communication-channels/create-multilingual-deliveries.md)
-      + [既存の E メール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
-      + [E メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
-      + [ワークフローを介した E メールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + [ターゲットプロファイルを使用したメールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)
+      + [配信にコントロール母集団を追加する](/help/communication-channels/email/control-groups.md)
+      + [多言語のメールまたは SMS 配信の作成](/help/communication-channels/create-multilingual-deliveries.md)
+      + [既存のメール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
+      + [ワークフローを介したメールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
-      + AI を活用した E メール {#journey-ai}
+      + AI を活用したメール{#journey-ai}
          + [予測送信時間の最適化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [予測エンゲージメントスコアリング](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + モバイル {#mobile}
       + SMS{#sms}
          + [SMS 配信の作成](/help/communication-channels/mobile/sms/sms-delivery.md)
-      + プッシュ通知 {#push}
+      + プッシュ通知{#push}
          + [プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [多言語プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [チュートリアル：Android 向けプッシュ通知の概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja)
@@ -72,7 +71,7 @@ ht-degree: 93%
          + [Campaign プロファイルに基づいたターゲットユーザー](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [ワークフロー内でのアプリ内配信の作成](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [アプリ内配信のレポート](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Adobe Experience Platform SDK を使用したモバイルアプリの設定](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+      + [Adobe Experience Platform SDK を使用したモバイルアプリケーションの設定](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [ダイレクトメール](/help/communication-channels/direct-mail/directmail.md)
    + ランディングページ{#landing-pages}
       + [ランディングページの作成と編集](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
@@ -82,12 +81,12 @@ ht-degree: 93%
    + Email Designer {#email-designer}
       + [概要](/help/designing-content/email-designer/email-designer-overview.md)
       + [Email Designer の概要](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
-      + [E メールコンテンツテンプレートの概要](/help/designing-content/email-designer/email-content-templates.md)
+      + [メールコンテンツテンプレートの概要](/help/designing-content/email-designer/email-content-templates.md)
       + [モバイル表示の設定](/help/designing-content/email-designer/configure-the-mobile-view.md)
-      + [E メールおよびスパム対策分析のプレビュー](/help/designing-content/email-designer/preview-your-email.md)
-      + [既存コンテンツの使用](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [メールおよびスパム対策分析のプレビュー](/help/designing-content/email-designer/preview-your-email.md)
+      + [既存コンテンツの操作](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Adobe Dreamweaver を使用したコンテンツ作成](/help/designing-content/email-designer/dreamweaver-integration.md)
-   + [トランザクション E メールでの製品リストの設定](/help/designing-content/product-listings-in-transactional-email.md)
+   + [トランザクションメールの製品リストの設定](/help/designing-content/product-listings-in-transactional-email.md)
 + プロセスとデータの管理{#managing-processes-and-data}
    + [ワークフローの作成](/help/managing-processes-and-data/creating-a-workflow.md)
    + 実行アクティビティ{#execution-activities}
@@ -99,13 +98,13 @@ ht-degree: 93%
    + [動的レポートの作成](/help/reporting/creating-a-dynamic-report.md)
    + [カスタムプロファイル属性に基づくレポートの作成](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [ワークフローセグメントに基づくレポートの作成](/help/reporting/report-on-workflow-segments.md)
-+ 他のソリューションとの統合 {#integrations}
-   + [Adobe Analyticsでの配信の成功を追跡する](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
++ 他のソリューションとの統合{#integrations}
+   + [Adobe Analytics での配信の成功を追跡する](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + トランザクションメッセージに対するトリガーの使用{#triggers}
       + [概要](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
-      + [トリガーの起動の設定](/help/integrations/configure-launch-for-triggers.md)
-      + [Experience Cloudでのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
-      + [Campaign Standardでのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
+      + [Launch でのトリガーの設定](/help/integrations/configure-launch-for-triggers.md)
+      + [Experience Cloud でのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [Campaign Standard でのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
       + [リアルタイムイベントデータを使用したトランザクションメッセージの設定](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
@@ -121,9 +120,9 @@ ht-degree: 93%
    + タイポロジルール{#typology-rules}
       + 疲労管理{#fatigue-management}
          + [疲労ルールの作成](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
-+ プライバシー {#privacy}
++ プライバシー{#privacy}
    + [概要](/help/privacy/privacy-overview.md)
    + [プライバシーリクエストの名前空間の作成](/help/privacy/namespaces-for-privacy-requests.md)
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
-   + [プライバシーリクエストの手動作成と追跡](/help/privacy/create-and-track-privacy-requests.md)
+   + [プライバシーリクエストの手動による作成および追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
