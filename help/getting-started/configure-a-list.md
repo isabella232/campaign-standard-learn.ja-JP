@@ -1,7 +1,7 @@
 ---
 title: リストの設定
-description: Adobe Campaign Standardでリスト表示の表示列、並べ替え順、並べ替え順を変更する方法を説明します。
-feature: オーディエンス
+description: このビデオでは、Adobe Campaign Standard のリストビューで表示列、順序および並べ替え順を変更する方法について説明します。
+feature: Audiences
 kt: 1821
 thumbnail: 25288.jpg
 doc-type: feature video
@@ -10,11 +10,10 @@ team: DOC
 exl-id: c5490a49-f4e4-4fe0-8132-1893252a9a4d
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
