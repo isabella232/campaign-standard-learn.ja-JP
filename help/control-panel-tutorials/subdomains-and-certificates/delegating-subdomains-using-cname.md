@@ -8,9 +8,8 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -30,5 +29,5 @@ Campaign コントロールパネルで CNAME を使用してサブドメイン�
 
 ## その他のリソース
 
-* [完全なサブドメインデリゲーション（ビデオ）](./subdomain-delegation.md)
+* [完全なサブドメインのデリゲーション（ビデオ）](./subdomain-delegation.md)
 * [新しいサブドメインの設定（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
