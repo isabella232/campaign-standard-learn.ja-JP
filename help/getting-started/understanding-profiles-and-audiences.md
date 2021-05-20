@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Standardのプロファイルとオーディエンスを理解する
-description: プロファイルとオーディエンスの概念を理解し、プロファイルとオーディエンスの作成方法を学びます。
+title: Adobe Campaign Standard のプロファイルとオーディエンスについて
+description: プロファイルとオーディエンスの概念と作成方法について説明します。
 feature: プロファイル、オーディエンス
 kt: 3893
 thumbnail: 18464.jpg
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: Business Practitioner, Developer, Administrator
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
