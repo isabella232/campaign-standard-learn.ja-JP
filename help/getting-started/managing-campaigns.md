@@ -1,6 +1,6 @@
 ---
 title: キャンペーンの管理
-description: キャンペーンを作成および管理する方法について説明します。
+description: キャンペーンの作成および管理方法について説明します。
 feature: キャンペーン
 kt: 1816
 thumbnail: 24672.jpg
@@ -10,11 +10,10 @@ team: DOC
 exl-id: 61b64e5d-2751-47f9-a2b7-08835a28f763
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
