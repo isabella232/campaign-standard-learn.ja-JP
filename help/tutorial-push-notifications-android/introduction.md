@@ -7,9 +7,8 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -33,9 +32,9 @@ Adobe Campaign では、iOS および Android モバイルデバイスにパー�
 
 ## チュートリアルの手順
 
-* [手順 1 - Android アプリを作成](/help/tutorial-push-notifications-android/create-android-app.md)
-* [手順 2 - モバイル SDK を統合](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
+* [手順 1 - Android アプリの作成](/help/tutorial-push-notifications-android/create-android-app.md)
+* [手順 2 - Mobile SDK の統合](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
 * [手順 3 - モバイルアプリに拡張機能を登録](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
-* [手順 4 - プッシュ識別子を設定](/help/tutorial-push-notifications-android/set-push-identifier.md)
-* [手順 5 - 通知を反映](/help/tutorial-push-notifications-android/propagate-notification.md)
+* [手順 4 - プッシュ識別情報の設定](/help/tutorial-push-notifications-android/set-push-identifier.md)
+* [手順 5 - 通知の伝達](/help/tutorial-push-notifications-android/propagate-notification.md)
 * [手順 6 - プッシュ通知を送信](/help/tutorial-push-notifications-android/send-push-notification.md)
