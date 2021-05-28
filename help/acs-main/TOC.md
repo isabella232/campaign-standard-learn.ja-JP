@@ -8,10 +8,10 @@ tutorials-title: チュートリアル
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja
 getting-started-title: ドキュメント
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
-source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: ht
-source-wordcount: '549'
-ht-degree: 100%
+source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+workflow-type: tm+mt
+source-wordcount: '558'
+ht-degree: 98%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 100%
       + [Experience Cloud でのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard でのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
       + [リアルタイムイベントデータを使用したトランザクションメッセージの設定](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+   + [Campaign Standardとの統合のためのMicrosoft® Dynamics 365の設定](/help/integrations/configure-dynamics-365.md)
 + 管理{#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
    + [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ja)
