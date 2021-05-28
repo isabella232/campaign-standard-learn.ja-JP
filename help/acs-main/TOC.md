@@ -8,10 +8,10 @@ tutorials-title: チュートリアル
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja
 getting-started-title: ドキュメント
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
-source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
 workflow-type: tm+mt
 source-wordcount: '558'
-ht-degree: 98%
+ht-degree: 95%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 # Adobe Campaign Standard チュートリアル {#tutorials}
 
 + [概要](/help/overview.md)
-+ はじめに{#getting-started}
++ はじめに {#getting-started}
    + [Adobe Campaign Standard の概要](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [UI の概要](/help/getting-started/getting-started-with-the-ui.md)
    + [リストの設定](/help/getting-started/configure-a-list.md)
@@ -77,7 +77,7 @@ ht-degree: 98%
       + [ランディングページの作成と編集](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [ランディングページのテストと公開](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [ランディングページテンプレートの設定](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ コンテンツのデザインとパーソナライズ {#designing-content}
++ コンテンツの設計とパーソナライズ{#designing-content}
    + Email Designer {#email-designer}
       + [概要](/help/designing-content/email-designer/email-designer-overview.md)
       + [Email Designer の概要](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -87,27 +87,27 @@ ht-degree: 98%
       + [既存コンテンツの操作](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Adobe Dreamweaver を使用したコンテンツ作成](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [トランザクションメールの製品リストの設定](/help/designing-content/product-listings-in-transactional-email.md)
-+ プロセスとデータの管理{#managing-processes-and-data}
++ プロセスとデータ管理{#managing-processes-and-data}
    + [ワークフローの作成](/help/managing-processes-and-data/creating-a-workflow.md)
    + 実行アクティビティ{#execution-activities}
       + [外部信号アクティビティ](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + データ管理アクティビティ{#data-management-activities}
       + [外部 API アクティビティ](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ レポート{#reporting}
++ レポート {#reporting}
    + [レポートの詳細](/help/getting-started/exploring-reports.md)
    + [動的レポートの作成](/help/reporting/creating-a-dynamic-report.md)
    + [カスタムプロファイル属性に基づくレポートの作成](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [ワークフローセグメントに基づくレポートの作成](/help/reporting/report-on-workflow-segments.md)
 + 他のソリューションとの統合{#integrations}
    + [Adobe Analytics での配信の成功を追跡する](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + トランザクションメッセージに対するトリガーの使用{#triggers}
+   + トランザクショントリガーに{#triggers}を使用する
       + [概要](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Launch でのトリガーの設定](/help/integrations/configure-launch-for-triggers.md)
       + [Experience Cloud でのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard でのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
       + [リアルタイムイベントデータを使用したトランザクションメッセージの設定](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Campaign Standardとの統合のためのMicrosoft® Dynamics 365の設定](/help/integrations/configure-dynamics-365.md)
-+ 管理{#administrating}
++ {#administrating}の管理
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
    + [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ja)
    + [Campaign コントロールパネル](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja)
