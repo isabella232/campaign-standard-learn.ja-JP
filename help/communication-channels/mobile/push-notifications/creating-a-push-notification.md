@@ -1,6 +1,6 @@
 ---
 title: プッシュ通知の作成
-description: 'プッシュ通知を作成する方法を説明します。 '
+description: 'プッシュ通知の作成方法を説明します。 '
 feature: プッシュ
 kt: 1401
 thumbnail: 31499.jpg
@@ -8,27 +8,26 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 12%
 
 ---
 
-# [!UICONTROL push notification]を作成
+# [!UICONTROL push notification]を作成します。
 
-Adobe Campaign Standard(ACS)で[!UICONTROL push notification]を作成する方法を学びます。
+Adobe Campaign Standard(ACS)で[!UICONTROL push notification]を作成する方法を説明します。
 
-Adobe Campaignを使用すると、パーソナライズおよびセグメント化された[!UICONTROL push notifications]をiOSおよびAndroid携帯端末に送信できます。 次の2つの方法があります。
+Adobe Campaignでは、パーソナライズおよびセグメント化された[!UICONTROL push notifications]をiOSおよびAndroidモバイルデバイスに送信できます。 次の2つのオプションがあります。
 
-* **[!UICONTROL Send push notification to Campaign profiles]**:モバイルアプリケーションを購読し、受信を選択したAdobe CampaignCRMプロファイルをターゲットでき [!UICONTROL push notifications]ます。[!UICONTROL push notification]には、受信者の名などのパーソナライゼーションフィールドを挿入できます。
+* **[!UICONTROL Send push notification to Campaign profiles]**:モバイルアプリケーションを購読し、受信をオプトインしたAdobe Campaign CRMプロファイルをターゲットにできま [!UICONTROL push notifications]す。[!UICONTROL push notification]には、受信者の名などのパーソナライゼーションフィールドを挿入できます。
 
-* **[!UICONTROL Send push notification to app subscribers]**:アプリケーションからの通知の受信 [!UICONTROL push notification] を選択している、既知で匿名のモバイルアプリケーションユーザー全員にを送信できます。モバイルアプリケーションから収集したデータを使用して、これらのメッセージをパーソナライズできます。
+* **[!UICONTROL Send push notification to app subscribers]**:アプリケーションからの通知の受信をオ [!UICONTROL push notification] プトインした、既知の匿名のモバイルアプリケーションユーザー全員にを送信できます。モバイルアプリケーションから収集したデータを使用して、これらのメッセージをパーソナライズできます。
 
-このビデオでは、[!DNL push notification to app subscribers]を送信する方法を説明しています。
+このビデオでは、[!DNL push notification to app subscribers]を送信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
 
