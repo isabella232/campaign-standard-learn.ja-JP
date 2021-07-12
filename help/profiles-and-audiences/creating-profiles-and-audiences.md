@@ -1,6 +1,6 @@
 ---
 title: プロファイルとオーディエンスの作成 - 概要
-description: 既存のプロファイルに移動する方法、およびプロファイルとオーディエンスを作成する方法について説明します。
+description: 既存のプロファイルへ移動する方法、およびプロファイルとオーディエンスを作成する方法について説明します。
 feature: プロファイル、オーディエンス
 kt: 3899
 thumbnail: 18463.jpg
@@ -8,26 +8,25 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 16%
+ht-degree: 35%
 
 ---
 
 # プロファイルとオーディエンスの作成 - 概要
 
-Adobe Campaignには2つのタイプ(プロファイル)があります。
+Adobe Campaignには次の2つのタイプのプロファイルがあります。
 
 * 識別されたプロファイル
 * テストプロファイル
 
-1つまたは複数の共通の条件に従ってグループ化されたプロファイルを&#x200B;**オーディエンス**&#x200B;と呼びます。
+1つまたは複数の共通条件に従ってグループ化されたプロファイルは、**audiences**&#x200B;と呼ばれます。
 
-このビデオでは、既存のプロファイルに移動する方法と、Adobe Campaign Standardでプロファイルやオーディエンスを作成する方法を説明します。
+このビデオでは、既存のプロファイルに移動する方法と、Adobe Campaign Standardでプロファイルとオーディエンスを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
@@ -35,4 +34,4 @@ Adobe Campaignには2つのタイプ(プロファイル)があります。
 
 * [プロファイルの作成](/help/profiles-and-audiences/creating-a-profile.md)
 * [テストプロファイルの作成](/help/profiles-and-audiences/test-profiles.md)
-* [ワークフローでのプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
+* [ワークフローでのプロファイルのインポート](/help/managing-processes-and-data/importing-profiles.md)
