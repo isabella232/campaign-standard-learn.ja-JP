@@ -8,13 +8,12 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec1917e613aeb220bd83a053bfc71b37ea2b4a6c
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 10%
+ht-degree: 34%
 
 ---
 
@@ -22,15 +21,15 @@ ht-degree: 10%
 
 ワークフローは、次のように異なるコンテキストで使用できます。
 
-* オーディエンスの管理またはメッセージの送信のターゲット設定
-* データ管理(ETL)によるデータ操作
-* キャンペーンデータベースへのデータのインポート
-* データベースのクリーンアップ、追跡情報の回復などの技術的なプロセス
+* オーディエンスの管理やメッセージの送信のターゲティング
+* データ管理(ETL)によるデータの操作
+* Campaignデータベースへのデータのインポート
+* データベースのクリーンアップ、トラッキング情報の復元などの技術的プロセス。
 
-このビデオでは、Adobe Campaign Standardでワークフローを作成および編集する方法を説明します。
+このビデオでは、Adobe Campaign Standardでのワークフローの作成および編集方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
 ## その他のリソース
 
-* [ワークフローの構築（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+* [ワークフローの作成（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
