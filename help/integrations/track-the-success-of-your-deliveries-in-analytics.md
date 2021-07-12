@@ -4,15 +4,15 @@ description: Campaign Standard と Analytics の統合を設定する方法に�
 product: adobe analytics, campaign
 feature: アプリケーション設定
 topic: 統合
-role: Administrator
+role: Admin
 level: Intermediate
 kt: 6526
 thumbnail: 332576.jpg
 doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
-source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
-workflow-type: ht
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
