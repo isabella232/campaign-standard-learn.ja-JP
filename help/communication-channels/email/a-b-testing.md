@@ -1,6 +1,6 @@
 ---
 title: A/B テスト
-description: 「A/Bテストを設定し、送信して、件名行をテストする方法を学びます。 」
+description: 「件名行をテストするA/Bテストを設定して送信する方法を説明します。 」
 feature: 'A/B テスト  '
 kt: 3907
 thumbnail: 18480.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 50%
@@ -20,7 +19,7 @@ ht-degree: 50%
 
 # A/B テスト
 
-Adobe Campaignの[!UICONTROL A/B Test]機能を使用すると、2 ～ 3つの電子メールのバリアントを定義できます。 どのバリエーションがどのターゲットで最良の結果を得られるか確認するために、各バリエーションが母集団のサンプルに送られます。結果が明確になったら、勝者バリアントが残りの母集団に送信されます。E メールの内容、件名、送信者を変更できます。
+Adobe Campaignの[!UICONTROL A/B Test]機能を使用すると、2～3種類のEメールのバリエーションを定義できます。 どのバリエーションがどのターゲットで最良の結果を得られるか確認するために、各バリエーションが母集団のサンプルに送られます。結果が明確になったら、勝者バリアントが残りの母集団に送信されます。E メールの内容、件名、送信者を変更できます。
 
 このビデオでは、A/Bテストを設定して送信し、件名行をテストする方法を説明します。
 
