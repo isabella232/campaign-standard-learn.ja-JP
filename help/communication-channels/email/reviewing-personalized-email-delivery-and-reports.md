@@ -1,6 +1,6 @@
 ---
-title: E メール配信とレポートの確認
-description: パーソナライズされた電子メール配信を確認し、Adobe Campaign Standardで利用可能な様々なレポートを調査する方法を説明します。
+title: メール配信とレポートの確認
+description: パーソナライズされたEメール配信を確認し、Adobe Campaign Standardで使用可能な様々なレポートを調べる方法を説明します。
 feature: レポート
 kt: 3904
 thumbnail: 21389.jpg
@@ -8,25 +8,24 @@ doc-type: tutorial
 activity: understand
 team: WWFRE
 exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 23%
 
 ---
 
-# E メール配信とレポートの確認
+# メール配信とレポートの確認
 
-このビデオでは、パーソナライズされた電子メール配信を確認する方法、およびAdobe Campaign Standardで利用可能な様々なレポートを調査する方法を説明します。
+このビデオでは、パーソナライズされたEメール配信を確認する方法と、Adobe Campaign Standardで使用可能な様々なレポートを調べる方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 
 ## その他のリソース
 
-* [ホームページから電子メールを作成する](/help/communication-channels/email/create-email-from-homepage.md)
-* [テストの送信、電子メールの準備と送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [ホームページからのEメールの作成](/help/communication-channels/email/create-email-from-homepage.md)
+* [テストの送信、Eメールの準備と送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
 * [動的レポートの作成](/help/reporting/creating-a-dynamic-report.md)
 * [カスタムプロファイル属性を使用した動的レポートの作成](/help/reporting/custom-profile-attributes-dynamic-reports.md)
