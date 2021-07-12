@@ -8,18 +8,17 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 717e9c30-939e-4560-b358-96f144009105
-description: ランディングページテンプレートの設定方法を学びます。
-role: Administrator, Business Practitioner
+description: ランディングページテンプレートの設定方法を説明します
+role: Admin, User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 29%
 
 ---
 
-# [!UICONTROL landing page template]を構成
+# [!UICONTROL landing page template]の設定
 
 このビデオでは、[!UICONTROL landing page]テンプレートの設定方法を説明します。
 
