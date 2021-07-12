@@ -1,6 +1,6 @@
 ---
 title: 多言語プッシュ通知の作成
-description: '多言語プッシュ通知を作成する方法を説明します。 '
+description: '多言語プッシュ通知の作成方法を説明します。 '
 feature: プッシュ
 kt: 1375
 thumbnail: 23304.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: d2d50689-9153-4074-a046-0701bb6017cf
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 37%
@@ -20,7 +19,7 @@ ht-degree: 37%
 
 # 多言語プッシュ通知の作成 [!UICONTROL push notification]
 
-Adobe Campaign Standardで多言語[!UICONTROL push notifications]を作成する方法を学びます。
+Adobe Campaign Standardで多言語の[!UICONTROL push notifications]を作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
