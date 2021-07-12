@@ -1,6 +1,6 @@
 ---
 title: '"アプリ内メッセージのブロードキャスト "'
-description: ブロードキャストテンプレートを使用して、モバイルアプリのすべてのユーザーをターゲットする方法について説明します。
+description: ブロードキャストテンプレートを使用して、モバイルアプリのすべてのユーザーをターゲットに設定する方法を説明します。
 feature: アプリ内
 kt: 2497
 thumbnail: 26199.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 7%
@@ -20,16 +19,16 @@ ht-degree: 7%
 
 # アプリ内メッセージのブロードキャスト
 
-アプリ内メッセージをブロードキャストし、Adobe Campaignがプロファイル情報を持っているかどうかに関係なく、モバイルアプリのすべてのユーザーをターゲットに設定できます。 メッセージをブロードキャストするには、アプリ内メッセージの設定時に&#x200B;**[!UICONTROL Target all users of a mobile app template]**&#x200B;を使用する必要があります。
+アプリ内メッセージをブロードキャストし、Adobe Campaignにプロファイル情報があるかどうかに関わらず、モバイルアプリのすべてのユーザーをターゲットに設定できます。 メッセージをブロードキャストするには、アプリ内メッセージの設定時に&#x200B;**[!UICONTROL Target all users of a mobile app template]**&#x200B;を使用する必要があります。
 
-本カテゴリの関連用途の一部を以下に示します。
+このカテゴリの関連ユースケースの一部を次に示します。
 
-* アプリの初回起動時にモバイルアプリのチュートリアルを送信するか、
-* 新機能のリリースに関するお知らせ
+* モバイルアプリチュートリアルを初めてのアプリランチャーに送信する、または
+* 新機能リリースのお知らせ
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*アプリ内ブロードキャストメッセージの作成[!UICONTROL SDKV5 Mobile property]*
+*を使用したブロードキャストのアプリ内メッセージの作成[!UICONTROL SDKV5 Mobile property]*
 
 ## その他のリソース
 
