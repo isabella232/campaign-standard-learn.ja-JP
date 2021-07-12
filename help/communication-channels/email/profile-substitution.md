@@ -1,17 +1,16 @@
 ---
 title: プロファイルの置き換え - ターゲットプロファイルを使用した E メールメッセージのテスト
-description: プロファイルの置き換え機能を使用して電子メールメッセージをテストする方法を説明します。
-feature: 'E メール  '
+description: プロファイル置き換え機能を使用して電子メールメッセージをテストする方法を説明します。
+feature: 'メール  '
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 92%
@@ -36,4 +35,4 @@ ht-degree: 92%
 
 * [ターゲットプロファイルを使用したメッセージのテスト（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [A/B テスト用 E メールのデザイン](/help/communication-channels/email/a-b-testing.md)
-* [テストの送信、E メールの準備および送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [テストの送信、メールの準備および送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
