@@ -1,42 +1,41 @@
 ---
 title: ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション
-description: このビデオでは、「オーディエンスを読み取り」アクティビティを使用して、ワークフロー内のData Servicesクエリオーディエンスをアクティブにする方法を説明します。
-feature: Peopleコアサービス統合
+description: このビデオでは、「オーディエンスの閲覧」アクティビティを使用して、ワークフロー内でデータサービスクエリオーディエンスを有効化する方法を説明します。
+feature: Peopleコアサービスの統合
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 7%
 
 ---
 
-# マーケティングワークフローのワークフロー[!UICONTROL Adobe Experience Platform Audiences]でAdobe Experience Platformオーディエンスをアクティブにする
+# マーケティングワークフローのワークフロー[!UICONTROL Adobe Experience Platform Audiences]でのAdobe Experience Platformオーディエンスのアクティブ化
 
 >[!NOTE]
 >
->この機能は現在ベータ版であり、予告なく頻繁に更新や変更が行われる場合があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、具体的な設定が必要です。
+>この機能は現在ベータ版で、予告なく頻繁に更新および変更される可能性があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
 >
->この機能を実装する予定の場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
+>この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
-このビデオでは、[!UICONTROL Read Audience]アクティビティを使用してワークフロー内の[!UICONTROL Data Services Query Audience]をアクティブにする方法を説明します。
+このビデオでは、[!UICONTROL Read Audience]アクティビティを使用してワークフロー内で[!UICONTROL Data Services Query Audience]をアクティブにする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
-*ワークフローでAdobe Experience Platformオーディエンスをアクティブにする（02:37分）*
+*ワークフローでのAdobe Experience Platformオーディエンスのアクティブ化（2分37秒）*
 
 ## その他のリソース
 
 ドキュメント：
 
-* [キャンペーン内のExperience Platformオーディエンスのアクティブ化 — ドキュメント](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Campaign内でのExperience Platformオーディエンスのアクティブ化 — ドキュメント](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 
 ビデオリソース：
 
