@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Platform SDK を使用したモバイルアプリの設定
-description: Adobe Experience Platform Launchでモバイルアプリを設定する方法とAdobe Campaignでモバイルアプリを設定する方法について説明します。
+title: Adobe Experience Platform SDK を使用したモバイルアプリケーションの設定
+description: Adobe Experience Platform Launchでモバイルアプリを設定する方法と、Adobe Campaignでモバイルアプリを設定する方法について説明します。
 feature: アプリ内、プッシュ、チャネル設定、モバイルSDK統合
 kt: 2501
 thumbnail: 26224.jpg
@@ -8,17 +8,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
-role: Administrator
+role: Admin
 level: Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 15%
 
 ---
 
-# [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}を使用したモバイルアプリの設定
+# [!UICONTROL Adobe Experience Platform SDK]を使用したモバイルアプリの設定 {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
 Mobile SDK V5を使用してアプリ内メッセージまたは[!UICONTROL push notifications]を送信するには、モバイルアプリを[!UICONTROL Adobe Experience Platform Launch]に設定し、Adobe Campaignで設定する必要があります。
 
@@ -28,9 +27,9 @@ Mobile SDK V5を使用してアプリ内メッセージまたは[!UICONTROL push
 
 >[!NOTE]
 >
->詳細なドキュメントとビデオで使用するコードテンプレートについては、[[!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch)でのアプリケーションの設定を参照してください。
+>詳細なドキュメントとビデオで使用されるコードテンプレートについては、 [[!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch)でのアプリケーションの設定を参照してください。
 
 ## その他のリソース
 
-* [モバイルプロパティの設定(Adobe起動ドキュメント)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Adobe Experience PlatformSDKを使用したモバイルアプリの設定（ドキュメント）](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [モバイルプロパティの設定(AdobeLaunchのドキュメント)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
+* [Adobe Experience Platform SDKを使用したモバイルアプリケーションの設定（ドキュメント）](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
