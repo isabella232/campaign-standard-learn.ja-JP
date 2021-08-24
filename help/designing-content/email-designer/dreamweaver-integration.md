@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 86%
+source-wordcount: '175'
+ht-degree: 76%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Dreamweaver と Adobe Campaign Standard の統合により、Dreamweaver �
 
 >[!NOTE]
 >
->この機能を使用するには、Dreamweaver の **[!UICONTROL Adobe Campaign Integration]** という拡張機能が必要です。この拡張機能は、[Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) からダウンロードできます。インストールについて詳しくは、[Dreamweaver 用 Campaign 拡張機能](https://helpx.adobe.com/jp/dreamweaver/using/working-with-dreamweaver-and-campaign.html)を参照してください。
+>この機能を使用するには、Dreamweaver の **[!UICONTROL Adobe Campaign Integration]** という拡張機能が必要です。この拡張機能は、[Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) からダウンロードできます。インストールについて詳しくは、[DreamweaverのCampaign拡張機能](https://helpx.adobe.com/jp/dreamweaver/using/working-with-dreamweaver-and-campaign.html)を参照してください。
 
 このビデオでは、Dreamweaver の統合を有効にするために必要な機能と、Dreamweaver を使用して Adobe Campaign Standard 用のコンテンツを作成および編集する方法について説明します。
 
