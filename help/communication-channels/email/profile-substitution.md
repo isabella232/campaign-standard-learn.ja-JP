@@ -1,5 +1,5 @@
 ---
-title: プロファイルの置き換え - ターゲットプロファイルを使用した E メールメッセージのテスト
+title: プロファイルの置き換え — ターゲットプロファイルを使用したEメールメッセージのテスト
 description: プロファイル置き換え機能を使用して電子メールメッセージをテストする方法を説明します。
 feature: 'メール  '
 kt: 4667
@@ -10,14 +10,14 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Substitution] - ターゲットプロファイルを使用した E メールメッセージのテスト
+# [!UICONTROL Profile Substitution] - ターゲットプロファイルを使用したメールメッセージのテスト
 
 このビデオでは、[!UICONTROL Profile Substitution] を使用して E メールメッセージをテストする方法を説明します。次の使用例について説明します。
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-詳しくは、[製品ドキュメント](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.translate.html)の詳細を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)の詳細を参照してください。
 
 >[!IMPORTANT]
 >
@@ -33,6 +33,6 @@ ht-degree: 92%
 
 ## その他のリソース
 
-* [ターゲットプロファイルを使用したメッセージのテスト（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [ターゲットプロファイルを使用したメッセージのテスト（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [A/B テスト用 E メールのデザイン](/help/communication-channels/email/a-b-testing.md)
-* [テストの送信、メールの準備および送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [テストの送信、Eメールの準備、送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
