@@ -9,10 +9,9 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -27,4 +26,4 @@ Campaign コントロールパネルを使用すると、Adobe Campaign イン�
 ## その他のリソース
 
 * [GPG キー管理（ビデオ）](./gpg-key-management-overview.md)
-* [GPG キー管理（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG キー管理（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ja)
