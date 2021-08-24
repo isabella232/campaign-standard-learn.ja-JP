@@ -8,10 +8,10 @@ tutorials-title: チュートリアル
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja
 getting-started-title: ドキュメント
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
-source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 100%
       + [テストの送信、メールの準備および送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B テスト](/help/communication-channels/email/a-b-testing.md)
       + [ターゲットプロファイルを使用したメールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)
-      + [配信にコントロール母集団を追加する](/help/communication-channels/email/control-groups.md)
+      + [配信へのコントロール母集団の追加](/help/communication-channels/email/control-groups.md)
       + [多言語のメールまたは SMS 配信の作成](/help/communication-channels/create-multilingual-deliveries.md)
       + [既存のメール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -80,12 +80,12 @@ ht-degree: 100%
 + コンテンツの設計とパーソナライズ{#designing-content}
    + 電子メールデザイナー{#email-designer}
       + [概要](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Email Designer の概要](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [E メールデザイナーの基本を学ぶ](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [メールコンテンツテンプレートの概要](/help/designing-content/email-designer/email-content-templates.md)
       + [モバイル表示の設定](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [メールおよびスパム対策分析のプレビュー](/help/designing-content/email-designer/preview-your-email.md)
-      + [既存コンテンツの操作](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [Adobe Dreamweaver を使用したコンテンツ作成](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [既存のコンテンツの使用](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [Adobe Dreamweaverを使用したコンテンツの作成](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [トランザクションメールの製品リストの設定](/help/designing-content/product-listings-in-transactional-email.md)
 + プロセスとデータ管理{#managing-processes-and-data}
    + [ワークフローの作成](/help/managing-processes-and-data/creating-a-workflow.md)
@@ -115,7 +115,7 @@ ht-degree: 100%
       + [Adobe Experience Platform コネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [カスタムリソースのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [エクスペリエンスイベントのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [シードテーブルデータのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [シードテーブルデータのマップ](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [データマッピングの変更](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [データ取得ジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + タイポロジルール{#typology-rules}
