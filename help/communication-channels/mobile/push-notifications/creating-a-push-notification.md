@@ -10,9 +10,9 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '154'
 ht-degree: 12%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 12%
 
 Adobe Campaign Standard(ACS)で[!UICONTROL push notification]を作成する方法を説明します。
 
-Adobe Campaignでは、パーソナライズおよびセグメント化された[!UICONTROL push notifications]をiOSおよびAndroidモバイルデバイスに送信できます。 次の2つのオプションがあります。
+Adobe Campaignでは、パーソナライズおよびセグメント化された[!UICONTROL push notifications]をiOSおよびAndroid™モバイルデバイスに送信できます。 次の2つのオプションがあります。
 
 * **[!UICONTROL Send push notification to Campaign profiles]**:モバイルアプリケーションを購読し、受信をオプトインしたAdobe Campaign CRMプロファイルをターゲットにできま [!UICONTROL push notifications]す。[!UICONTROL push notification]には、受信者の名などのパーソナライゼーションフィールドを挿入できます。
 
@@ -35,8 +35,8 @@ Adobe Campaignでは、パーソナライズおよびセグメント化された
 
 ドキュメント：
 
-* [プッシュ通知について](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [プッシュ通知の準備と送信](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
+* [プッシュ通知について](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [プッシュ通知の準備と送信](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
 チュートリアル：
 
