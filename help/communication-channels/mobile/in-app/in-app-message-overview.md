@@ -9,7 +9,7 @@ team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: User
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
 workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 12%
@@ -25,24 +25,25 @@ ht-degree: 12%
 ## 前提条件 {#prerequisites}
 
 1. **[!UICONTROL In-App]**&#x200B;チャネルにアクセスできることを確認します。 これらのチャネルにアクセスできない場合は、アカウントチームにお問い合わせください。
-2. **ユーザー**&#x200B;がAdobe Campaign Standardおよび[!UICONTROL Launch]で必要な&#x200B;**権限**&#x200B;を持っていることを確認します。
+1. **ユーザー**&#x200B;がAdobe Campaign Standardおよび[!UICONTROL Launch]で必要な&#x200B;**権限**&#x200B;を持っていることを確認します。
 
-   1. Adobe Campaign Standardで、IMSユーザーが[!UICONTROL Standard User]および[!UICONTROL Administrator]グループに属していることを確認します。\
+   1. Adobe Campaign Standardで、IMSユーザーが[!UICONTROL Standard User]および[!UICONTROL Administrator]グループに属していることを確認します。
+
       この手順を使用すると、ユーザーはAdobe Campaign Standardにログインし、Experience PlatformSDKモバイルアプリページに移動して、[!UICONTROL Launch]で作成したモバイルアプリのプロパティを表示できます。
-   2. [!UICONTROL Launch]で、IMSユーザーが[!UICONTROL Launch]製品プロファイルに含まれていることを確認します。 この手順では、ユーザーが[!UICONTROL Launch]にログインして、プロパティを作成および表示できます。 製品プロファイルには、会社やプロパティに権限が設定されていないが、ユーザーは引き続きログインできる。
 
-3. Adobe Experience Platform Launch:
+   1. [!UICONTROL Launch]で、IMSユーザーが[!UICONTROL Launch]製品プロファイルに含まれていることを確認します。 この手順では、ユーザーが[!UICONTROL Launch]にログインして、プロパティを作成および表示できます。 製品プロファイルには、会社やプロパティに権限が設定されていないが、ユーザーは引き続きログインできる。
+
+1. Adobe Experience Platform Launch:
 
    1. モバイルプロパティを作成し、モバイルアプリにExperience PlatformSDKを実装して、モバイルアプリを作成します。
-   2. モバイルアプリケーション用の&#x200B;**Adobe Campaign Standard**&#x200B;拡張機能をインストールします。
+   1. モバイルアプリケーション用の&#x200B;**Adobe Campaign Standard**&#x200B;拡張機能をインストールします。
 
 拡張機能について詳しくは、ドキュメントの[AdobeLaunchのCampaign Standard拡張機能の設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard)を参照してください。
 
 ## [!UICONTROL In-App]メッセージの設定手順 {#steps-to-set-up}
 
 1. [Adobe Experience Platform SDK を使用したモバイルアプリの設定](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
-
-2. [イベントの設定](/help/communication-channels/mobile/in-app/configure-events.md)を参照してください。
+1. [イベントの設定](/help/communication-channels/mobile/in-app/configure-events.md)を参照してください。
 
 ## [!UICONTROL In-App]配信の作成、管理および公開 {#create-manage-publish}
 
@@ -54,11 +55,11 @@ ht-degree: 12%
 
    このメッセージタイプでは、Adobe Campaignにプロファイルが存在しない場合でも、モバイルアプリケーションのすべてのユーザー（現在のユーザーも将来のユーザーも含む）にメッセージを送信できます。 したがって、ユーザープロファイルがAdobe Campaignに存在するとは限らないので、メッセージをカスタマイズする場合はパーソナライゼーションはできません。
 
-2. モバイルアプリプロファイルに基づいてすべてのユーザーをターゲット設定する。
+1. モバイルアプリプロファイルに基づいてすべてのユーザーをターゲット設定する。
 
-このメッセージタイプでは、Adobe Campaignにモバイルプロファイルを持つモバイルアプリの既知のユーザーや匿名ユーザーをすべてターゲットにすることができます。 このメッセージタイプは、個人情報も機密性も含まない属性のみを使用してパーソナライズできるので、Mobile SDK と Adobe Campaign のアプリ内メッセージングサービスの間にセキュリティで保護されたハンドシェイクは必要ありません。したがって、パーソナライゼーション戦略は、ユーザーがデバイスとやり取りして得た情報に基づいています。 例えば、先週5回以上アプリを起動したすべてのユーザーをターゲットにします。
+   このメッセージタイプでは、Adobe Campaignにモバイルプロファイルを持つモバイルアプリの既知のユーザーや匿名ユーザーをすべてターゲットにすることができます。 このメッセージタイプは、個人情報も機密性も含まない属性のみを使用してパーソナライズできるので、Mobile SDK と Adobe Campaign のアプリ内メッセージングサービスの間にセキュリティで保護されたハンドシェイクは必要ありません。したがって、パーソナライゼーション戦略は、ユーザーがデバイスとやり取りして得た情報に基づいています。 例えば、先週5回以上アプリを起動したすべてのユーザーをターゲットにします。
 
-3. [**Campaign プロファイルに基づいたターゲットユーザー**](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md).
+1. [**Campaign プロファイルに基づいたターゲットユーザー**](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md).
 
    このメッセージタイプでは、モバイルアプリケーションを購読しているAdobe Campaignプロファイル（CRMプロファイル）をターゲットにできます。 Adobe Campaignで使用可能なすべてのプロファイル属性を使用して、メッセージをパーソナライズできます。 個人情報と機密情報を含むメッセージが権限のあるユーザーのみによって確実に使用されるようにするには、Mobile SDKとCampaignのアプリ内メッセージサービスの間で安全なハンドシェイクが必要です。
 
