@@ -3,10 +3,10 @@ user-guide-title: Adobe Campaign コントロールパネルのチュートリ�
 user-guide-description: コントロールパネルで Adobe Campaign インスタンスの主要なアセットを監視したり、管理タスクを実行したりする方法を説明します。
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 index: true
-source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Adobe Campaign コントロールパネルのチュートリアル {#control-panel}
 
 + [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
-+ [コントロールパネルの概要](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Campaign コントロールパネル](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理{#sftp-management}
    + [サーバー容量の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [許可リストへの IP 範囲の追加](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
@@ -28,9 +28,9 @@ ht-degree: 100%
 + インスタンス設定{#instance-settings}
    + GPG キー管理{#gpg-key-management}
       + [GPG キー管理 - 概要](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [データ暗号化用の GPG キーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [データ暗号化用のGPGキーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [GPG キーを使用したデータの暗号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [データの復号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [データを復号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + パフォーマンス監視{#performance-monitoring}
    + [データベースの監視](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [コントロールパネルのトラブルシューティング](/help/control-panel-tutorials/trouble-shooting.md)
