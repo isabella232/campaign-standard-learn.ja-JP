@@ -1,7 +1,7 @@
 ---
 title: SSL 証明書の追加
-description: Adobe Campaign コントロールパネルでは、SSL 証明書を追加してサブドメインを保護できます。
-feature: Campaign コントロールパネル
+description: サブドメインを保護するために SSL 証明書を追加する方法を学びます。
+feature: コントロールパネル
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
@@ -9,19 +9,18 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '191'
+ht-degree: 72%
 
 ---
 
-# SSL 証明書の追加
+# SSL証明書の追加
 
-[!UICONTROL Adobe Campaign Control Panel] では、SSL 証明書を追加してサブドメインを保護できます。
+サブドメインを保護するために SSL 証明書を追加する方法を学びます。
 
-## [!UICONTROL Control Panel] のサブドメイン管理へのアクセス
+## [!UICONTROL Control Panel]サブドメイン管理へのアクセス
 
 [!UICONTROL Control Panel] のサブドメイン管理にアクセスするには、次のいずれかの手順に従います。
 
@@ -36,7 +35,7 @@ SSL 証明書の追加には、次の 3 つの手順が必要です。
 
 ### 手順 1：[!UICONTROL Certificate Signing Requests] を生成
 
-SSL 証明書を購入するには、[!UICONTROL Certificate Signing Request]（CSR）が必要です。保護しようとしているインスタンスとサブドメインごとに生成する必要があります。
+SSL証明書を購入するには、[!UICONTROL Certificate Signing Request](CSR)が必要です。 セキュリティで保護するインスタンスとサブドメイン用に生成する必要があります。
 
 次のビデオでは、[!UICONTROL Control Panel] で [!UICONTROL Certificate Signing Request] を生成する方法について説明します。
 
@@ -50,7 +49,7 @@ CSR を取得したら、組織の承認を得た認証局から SSL 証明書�
 
 ### 手順 3：SSL 証明書をインストール
 
-SSL 証明書を取得したら、保護するサブドメイン用に SSL 証明書をインストールする必要があります。
+SSL証明書を取得したら、保護するサブドメイン用にSSL証明書をインストールする必要があります。
 
 次のビデオでは、[!UICONTROL Control Panel] で SSL 証明書をインストールする方法を説明しています。
 
@@ -60,5 +59,5 @@ SSL 証明書を取得したら、保護するサブドメイン用に SSL 証�
 
 ## その他のリソース
 
-* [完全なサブドメインデリゲーション（ビデオ）](./subdomain-delegation.md)
-* [サブドメインおよび証明書 - ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [完全なサブドメインのデリゲーション（ビデオ）](./subdomain-delegation.md)
+* [サブドメインおよび証明書 - ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ja?lang=en)
