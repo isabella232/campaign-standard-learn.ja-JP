@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -36,11 +36,11 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Adobe Campaign へのサブドメインのデリゲート（ビデオ）" src="./assets/31390.jpg"/>
+      <img alt="Adobe Campaignへのサブドメインのデリゲート（ビデオ）" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Adobe Campaign へのサブドメインのデリゲート（ビデオ）</strong>
+    <strong>Adobe Campaignへのサブドメインのデリゲート（ビデオ）</strong>
     </a>
     </div>
     <p>
@@ -66,8 +66,8 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>SFTP サーバーへの接続</strong>
-    </a>
+    <strong>SFTP サーバーへの接続</strong>
+    </a>
     </div>
     <p>
     <em>Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。</em>
@@ -78,4 +78,4 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
 
 ## その他のリソース
 
-* [Campaign コントロールパネルヘルプセンター](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
+* [Campaign コントロールパネルヘルプセンター](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
