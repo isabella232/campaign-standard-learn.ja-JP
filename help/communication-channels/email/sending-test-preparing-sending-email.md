@@ -1,6 +1,6 @@
 ---
-title: テストの送信、メールの準備および送信
-description: 「テスト用Eメールを送信し、Eメール配信を準備して送信する方法を説明します。 」
+title: テストの送信、Eメールの準備、送信
+description: 「テスト用のEメールを送信し、準備してからEメール配信を送信する方法を説明します。 」
 feature: 'メール  '
 kt: 1812
 thumbnail: 24013.jpg
@@ -10,10 +10,10 @@ team: DOC
 exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 20%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,5 +25,5 @@ ht-degree: 20%
 
 ## その他のリソース
 
-* [テストプロファイルの管理と配達確認の送信](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
+* [テストと送信の概要](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/get-started-sending-messages.html)
 * [テストプロファイルの作成](/help/profiles-and-audiences/creating-a-profile.md)
