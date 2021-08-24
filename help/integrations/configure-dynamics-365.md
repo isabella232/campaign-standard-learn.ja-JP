@@ -1,14 +1,14 @@
 ---
 title: Campaign Standard との統合のための Microsoft® Dynamics 365 の設定
 description: Dynamics と Campaign Standard の統合で使用する Microsoft® Dynamics 365 の設定方法について説明します。
-feature: Microsoft Dynamics 365 コネクタ
+feature: Microsoft CRM 統合
 kt: 2927
 doc-type: feature video
 role: Admin
 level: Experienced
 activity: setup
 team: PM
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
