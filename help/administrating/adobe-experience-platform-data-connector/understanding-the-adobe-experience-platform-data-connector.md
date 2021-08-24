@@ -1,15 +1,16 @@
 ---
 title: Adobe Experience Platform コネクタについて
 description: Adobe Experience Platform Data Connectorを使用すると、XTKデータ（Campaignで取り込んだデータ）をAdobe Experience PlatformのExperience Data Model(XDM)データにマッピングすることで、既存のお客様がAdobe Experience Platformでデータを利用できるようになります。
+feature: Peopleコアサービスの統合
 kt: 2826
 thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '344'
 ht-degree: 10%
 
 ---
@@ -54,6 +55,6 @@ Adobe Experience Platform [!UICONTROL Data Connector]は、Adobe Campaign Standa
 
 * [Adobe Experience Platform Data Connector について](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
 * [エクスペリエンスデータモデルの概要](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
-* [マッピング定義](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [マッピングのアクティベーション](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-* [API によるデータ取得トリガー](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
+* [マッピング定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+* [マッピングのアクティベーション](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+* [API によるデータ取得トリガー](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)
