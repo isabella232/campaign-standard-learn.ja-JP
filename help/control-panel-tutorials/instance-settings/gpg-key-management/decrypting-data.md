@@ -1,6 +1,6 @@
 ---
-title: データの復号化
-description: 以下のビデオでは、公開鍵を作成して、データの復号化のために Campaign インスタンスにインポートしインストールする方法を説明します。
+title: データを復号化
+description: 公開鍵を作成し、Campaignインスタンスにインポートしてインストールし、データを復号化する方法を説明します。
 feature: コントロールパネル
 audience: administrator
 kt: 5545
@@ -9,14 +9,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '86'
+ht-degree: 70%
 
 ---
 
-# データの復号化
+# データを復号化
 
 Campaign コントロールパネルを使用すると、Adobe Campaign インスタンスに入ってくる外部データを、公開鍵と秘密鍵のペアを使用して復号化できます。
 公開鍵を作成し、Campaign インスタンスに読み込んでインストールし、受信データを復号化する方法を説明します。
