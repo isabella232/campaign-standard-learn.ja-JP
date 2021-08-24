@@ -1,17 +1,17 @@
 ---
 title: プライバシーリクエストの実行
 description: Adobe Campaign では、プライバシーリクエストはワークフローで実行されます。 このビデオでは、リクエストにアクセスしリクエストを削除するワークフローとリクエスト実行時の動作について説明します。
-feature: GDPR、CCPA
+feature: プライバシーツール
 kt: 1525
 thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: da796c3f-ba35-4901-8021-3f497c64ba3a
-source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 73%
 
 ---
 
@@ -23,5 +23,5 @@ Adobe Campaign では、プライバシーリクエストはワークフロー�
 
 ## その他のリソース
 
-* [Adobe Campaign の一般的なプライバシーガイドライン](https://helpx.adobe.com/jp/campaign/kb/campaign-privacy-overview.html)
-* [Adobe Campaign Standard の CCPA](https://helpx.adobe.com/jp/campaign/kb/acs-privacy.html#ccpa)
+* [Adobe Campaign の一般的なプライバシーガイドライン](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=en#getting-started)
+* [Adobe Campaign Standard の CCPA](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=en#privacy-requests)
