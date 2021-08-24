@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Platform コネクタについて
+title: Adobe Experience Platform Data Connectorについて
 description: Adobe Experience Platform Data Connectorを使用すると、XTKデータ（Campaignで取り込んだデータ）をAdobe Experience PlatformのExperience Data Model(XDM)データにマッピングすることで、既存のお客様がAdobe Experience Platformでデータを利用できるようになります。
 feature: Peopleコアサービスの統合
 kt: 2826
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 8%
+source-wordcount: '289'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->この機能は現在ベータ版で、予告なく頻繁に更新および変更される可能性があります。
+>この機能はベータ版で、予告なく頻繁に更新および変更される可能性があります。
 >
 >この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
@@ -39,7 +39,7 @@ Adobe Experience Platform [!UICONTROL Data Connector]は、Adobe Campaign Standa
 >
 >[!UICONTROL subscription events]の標準転送はサポートされていません。 [!UICONTROL subscription events]を転送するには、対応するXDMとデータセットをAdobe Experience Platform上に作成し、これらのデータのカスタムデータマッピングを設定します。
 >
->既存の[!UICONTROL experience events]はAdobe Experience Platformに取り込めませんが、継続的に生成された[!UICONTROL experience events]はAdobe Experience Platformにストリーミングされます。
+>既存の[!UICONTROL experience events]はAdobe Experience Platformに取り込むことはできませんが、継続的に生成された[!UICONTROL experience events]はAdobe Experience Platformにストリーミングされます。
 
 ## データマッピングを実行するための主な手順
 
@@ -49,12 +49,9 @@ Adobe Experience Platform [!UICONTROL Data Connector]は、Adobe Campaign Standa
 2. [エクスペリエンスイベントのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [シードテーブルデータのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [データマッピングの変更](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [データ取得ジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [データ取り込みジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## その他のリソース
 
-* [Adobe Experience Platform Data Connector について](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
-* [エクスペリエンスデータモデルの概要](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
-* [マッピング定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [マッピングのアクティベーション](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-* [API によるデータ取得トリガー](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)
+* [Adobe Experience Platform Data Connector について](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-about-data-connector.html)
+
