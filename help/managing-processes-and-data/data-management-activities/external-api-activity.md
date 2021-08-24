@@ -1,6 +1,6 @@
 ---
 title: 外部 API アクティビティを使用したワークフローの設定と実行
-description: 外部のREST APIエンドポイントを呼び出して、パーソナライゼーションデータをサードパーティシステムからキャンペーンに取り込む方法を説明します。
+description: 外部のREST APIエンドポイントを呼び出して、パーソナライゼーションデータをサードパーティシステムからCampaignに取り込む方法を説明します。
 feature: データ管理アクティビティ
 kt: 2764
 thumbnail: 28200.jpg
@@ -10,16 +10,16 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 87%
+source-wordcount: '177'
+ht-degree: 46%
 
 ---
 
 # [!UICONTROL External API activity] を使用したワークフローの設定と実行
 
-[!UICONTROL External API activity] は [!UICONTROL Data Management activity] の 1 つです。外部の REST API エンドポイントを呼び出すことができます。このアクティビティの目的は、パーソナライゼーションデータをサードパーティシステムから Campaign に取り込むことです。
+[!UICONTROL External API activity] は [!UICONTROL Data Management activity] の 1 つです。外部の REST API エンドポイントを呼び出すことができます。このアクティビティの目的は、パーソナライゼーションデータをサードパーティシステムからキャンペーンに取り込むことです。
 
 使用例を次に示します。
 
@@ -36,8 +36,8 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->このアクティビティの目的は、キャンペーン全体のデータ（最新のオファーセット、最新のスコアなど）を取得することで、大量のデータが転送される可能性がある各プロファイルの特定の情報の取得ではありません。使用例でそれが必要な場合は、ファイル転送アクティビティを使用することをお勧めします。
+>「 」アクティビティは、キャンペーン全体のデータを取得するためのもので、各プロファイルの特定の情報を取得するためのものではなく、大量のデータが転送される可能性があります。 ユースケースでプロファイル固有の情報が必要な場合は、「ファイル転送」アクティビティを使用することをお勧めします。
 
 ## その他のリソース
 
-* [外部 API（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.translate.html)
+* [外部 API（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)
