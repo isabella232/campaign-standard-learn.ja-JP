@@ -1,15 +1,14 @@
 ---
 title: カスタムリソースの作成
-description: 「customers」と呼ばれるカスタムリソースを作成する方法について説明します。
-feature: カスタムリソース
+description: customersと呼ばれるカスタムリソースを作成する方法を説明します。
+feature: データモデル
 kt: 3000
 thumbnail: 27716.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 33a68e3b-2e28-48c5-840b-05fc49825fff
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 32%
@@ -18,7 +17,7 @@ ht-degree: 32%
 
 # カスタムリソースの作成
 
-このビデオでは、「customers」と呼ばれる最初のカスタムリソースを作成します。
+このビデオでは、「 customers 」という最初のカスタムリソースを作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27716?quality=9)
 
