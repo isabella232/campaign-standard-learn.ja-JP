@@ -10,9 +10,9 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Eメールのデザイン時に不明な製品のリストを含むリターゲ�
 
 >[!NOTE]
 >
->この機能は、現在、ビデオ内ではLoopと呼ばれています。
+>この機能は、ビデオでは「ループ」と呼ばれます。
 
 ## 手順1 — イベントを作成して公開する
 
@@ -41,5 +41,5 @@ Eメールのデザイン時に不明な製品のリストを含むリターゲ�
 
 ## その他のリソース
 
-* [トランザクションメッセージでの製品リストの使用（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
-* [データコレクションの定義（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)
+* [トランザクションメッセージでの製品リストの使用（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/transactional-message-edition/editing-transactional-message.html?lang=en)
+* [データコレクションの定義（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/event-configuration/configuring-transactional-event.html?lang=en)
