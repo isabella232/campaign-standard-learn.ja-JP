@@ -1,6 +1,6 @@
 ---
 title: 既存コンテンツの操作
-description: このビデオでは、クリエイティブコンテンツをWebサイトからすばやく取得し、Eメールデザイナーに読み込む方法を説明します。
+description: クリエイティブコンテンツをWebサイトから取得し、Eメールデザイナーに読み込む方法を説明します。
 feature: Eメールデザイン
 kt: 6295
 thumbnail: 25926.jpg
@@ -10,9 +10,9 @@ team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '105'
 ht-degree: 7%
 
 ---
@@ -21,14 +21,14 @@ ht-degree: 7%
 
 ## URLからのコンテンツの読み込み
 
-このビデオでは、クリエイティブコンテンツをWebサイトからすばやく取得し、Eメールデザイナーに読み込む方法を説明します。
+クリエイティブコンテンツをWebサイトから取得し、Eメールデザイナーに読み込む方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
 ## 既存のHTMLコンテンツとの互換性の確保 {#making-existing-html-content-compatible}
 
-Eメールデザイナーには特定のタグ付けが必要です。Adobe Campaignにアップロードされる標準のHTMLコンテンツを完全に互換性と編集可能にするには、このタグを適用する必要があります。
+Eメールデザイナーには特定のタグ付けが必要です。このタグ付けは、Adobe Campaignにアップロードされる標準のHTMLコンテンツに対して、完全な互換性と編集可能性を持たせるために適用する必要があります。
 
-詳細なドキュメントは次のリンクにあります。
+詳細なドキュメントは、次のリンクから確認できます。
 
-[HTMLコンテンツのEメールデザイナーテンプレートへの変換](https://docs.adobe.com/content/help/en/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)
+[HTMLコンテンツのEメールデザイナーテンプレートへの変換](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
