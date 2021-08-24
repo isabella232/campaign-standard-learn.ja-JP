@@ -10,16 +10,16 @@ team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 6%
 
 ---
 
 # [!DNL Campaign]プロファイルに基づいてユーザーをターゲット設定する
 
-既知のモバイルアプリユーザー（PIIを使用してアプリにログインしたユーザー）を、Adobe Campaign Standardで使用できるCRMプロファイル属性でパーソナライズされたメッセージのターゲットに設定できます。 このテンプレートは、電子メールやプッシュなどの他のチャネルで既にユーザーをターゲット設定していて、応答に基づいて[!UICONTROL In-App]メッセージを送信する場合に、クロスチャネルオーケストレーションの使用例をサポートするのに最も役立ちます。
+Adobe Campaign Standardで使用可能なCRMプロファイル属性を使用して、PII（既知のモバイルアプリユーザー）を使用してアプリにログインしたユーザーをパーソナライズされたメッセージでターゲットに設定できます。 このテンプレートは、クロスチャネルオーケストレーションの使用例をサポートします。この使用例では、顧客の応答に基づいて、電子メールやプッシュなどの他のチャネルの顧客を既にターゲットにしており、アプリ内メッセージを使用して再び関与させます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
@@ -27,5 +27,5 @@ ht-degree: 6%
 
 ## その他のリソース
 
-* [アプリ内メッセージの準備と送信（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
-* [アプリ内メッセージのカスタマイズ（ドキュメント）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
+* [アプリ内メッセージの準備と送信（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
+* [アプリ内メッセージのカスタマイズ（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
