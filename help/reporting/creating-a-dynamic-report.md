@@ -10,16 +10,16 @@ team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 46%
+source-wordcount: '63'
+ht-degree: 33%
 
 ---
 
-# [!UICONTROL Dynamic Report]の作成{#creating-a-report}
+# [!UICONTROL Dynamic Report]を作成します。{#creating-a-report}
 
-Adobe Campaignの[!UICONTROL Dynamic Reports]は、データを調査できる柔軟なフリーフォーム環境になるように設計されています。 ディメンション、指標、時間範囲を任意の組み合わせで組み合わせ、無制限の分類や比較が可能です。
+Adobe Campaignの[!UICONTROL Dynamic Reports]は、データを調査できる柔軟なフリーフォーム環境です。 ディメンション、指標、時間範囲を任意の組み合わせで組み合わせ、無制限の分類や比較が可能です。
 
 レポートの作成方法を説明します。
 
@@ -27,4 +27,4 @@ Adobe Campaignの[!UICONTROL Dynamic Reports]は、データを調査できる�
 
 ## その他のリソース
 
-* [レポートについて](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [レポートについて](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
