@@ -1,5 +1,5 @@
 ---
-title: データ取得ジョブのステータスの確認
+title: データ取り込みジョブのステータスの確認
 description: ステータスを確認し、データマッピングを変更する方法を説明します。
 feature: Peopleコアサービスの統合
 audience: administrator
@@ -9,14 +9,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 9%
 
 ---
 
-# データ取得ジョブのステータスの確認
+# データ取り込みジョブのステータスの確認
 
 >[!NOTE]
 >
