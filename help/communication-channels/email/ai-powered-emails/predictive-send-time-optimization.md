@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 98%
+source-wordcount: '204'
+ht-degree: 88%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 98%
 [!UICONTROL Journey AI] を活用して、[!DNL Adobe Campaign] は過去のエンゲージメント指標に基づいて、開封率、最適な送信時間、および予想される解約を分析して予測できます。
 
 >[!CAUTION]
->この機能は、製品の一部としてすぐには利用できません。実装するには、アドビのコンサルティングサービス部門に依頼する必要があります。詳細については、アドビ担当者にお問い合わせください。
+>この機能は、製品の一部としてすぐには利用できません。実装するには、アドビのコンサルティングサービス部門に依頼する必要があります。詳しくは、Adobe担当者にお問い合わせください。
 
 [!UICONTROL Predictive send time optimization] は、各受信者プロファイルにとって E メールを開封／クリックする最適な送信時間を予測します。各受信者プロファイルのスコアは、曜日ごとに最適な送信時間を示し、最良の結果を得るにはどの曜日に送信するのが最も適しているかを示します。
 
@@ -38,4 +38,4 @@ Adobe Campaign とジャーニー AI モデルの間でデータを同期する�
 
 ドキュメント：
 
-* [AI を利用した E メールのデザインと配信の最適化](https://docs.adobe.com/help/ja-JP/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.translate.html)
+* [AI を利用した E メールのデザインと配信の最適化](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
