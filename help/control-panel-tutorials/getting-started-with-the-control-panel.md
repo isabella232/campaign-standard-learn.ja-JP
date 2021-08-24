@@ -1,7 +1,7 @@
 ---
-title: Campaign コントロールパネル使用の手引き
-description: この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
-feature: Campaign コントロールパネル
+title: Campaign コントロールパネル
+description: コントロールパネルにアクセスする方法と、コントロールパネルを操作できるようになるための前提条件を説明します。
+feature: コントロールパネル
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
@@ -9,26 +9,26 @@ doc-type: feature video
 activity: setup
 team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '217'
-ht-degree: 100%
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
+source-wordcount: '208'
+ht-degree: 73%
 
 ---
 
-# [!UICONTROL Control Panel] 使用の手引き{#control-panel}
+# [!UICONTROL Control Panel]の基本を学ぶ {#control-panel}
 
 >[!NOTE]
 >
->Adobe Campaign ドキュメントでは、「[!UICONTROL whitelist]」および「[!UICONTROL blacklist]」という用語は「[!UICONTROL allowlist]」および「[!UICONTROL denylist]」に置き換えられました。これらの用語が製品の UI、オプション名、内部コード、チュートリアルビデオに残っている場合がありますが、今後の Campaign コントロールパネルリリースで置き換えられる予定です。
+>Adobe Campaign ドキュメントでは、「[!UICONTROL whitelist]」および「[!UICONTROL blacklist]」という用語は「[!UICONTROL allowlist]」および「[!UICONTROL denylist]」に置き換えられました。これらの用語が製品のUI、オプション名、内部コード、チュートリアルビデオに残っている場合があります。 今後の Campaign コントロールパネルリリースで置き換えられる予定です。
 
 [!UICONTROL Control Panel] を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは [!UICONTROL subdomains] と [!UICONTROL certificates] の管理などの管理タスクを実行したりできます。
 
-この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
+コントロールパネルにアクセスする方法と、コントロールパネルを操作できるようになるための前提条件を説明します。
 
-## [!UICONTROL Control Panel] へのアクセス
+## [!UICONTROL Control Panel]
 
-Campaign コントロールパネルにアクセスするには、Experience Cloud ホーム（[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)）に移動します。
+Campaign コントロールパネルにアクセスするには、Experience Cloudホームに移動します。[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]**／**[!UICONTROL Quick Access]**
 
@@ -45,7 +45,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 ### [!DNL IMS Org ID] の確認
 
-自分の [!DNL IMS org ID] がわかっている必要があります。次のビデオでは、インスタンスの [!DNL IMS org ID] を参照できる場所を説明しています。
+次のビデオでは、インスタンスの[!DNL IMS org ID]を検索できる場所を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
@@ -58,4 +58,4 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 ## その他のリソース
 
-* [Campaign コントロールパネルヘルプセンター](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
+* [Campaign コントロールパネルヘルプセンター](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
