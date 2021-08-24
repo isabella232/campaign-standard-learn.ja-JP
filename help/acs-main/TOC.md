@@ -8,10 +8,10 @@ tutorials-title: チュートリアル
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja
 getting-started-title: ドキュメント
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 89%
+ht-degree: 83%
 
 ---
 
@@ -39,18 +39,18 @@ ht-degree: 89%
    + [サービスとサブスクリプションの管理](/help/managing-processes-and-data/services-and-subscriptions.md)
    + オーディエンスの宛先（ベータ版）{#audience-destinations}
       + [概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [統合セグメントビルダーを使用した新規オーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [統合セグメントビルダーを使用したオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [ターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通信チャネル{#communication-channels}
    + E メール {#email}
       + [メールの作成](/help/communication-channels/email/create-email-from-homepage.md)
-      + [テストの送信、メールの準備および送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [テストの送信、Eメールの準備、送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B テスト](/help/communication-channels/email/a-b-testing.md)
       + [ターゲットプロファイルを使用したメールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)
       + [配信へのコントロール母集団の追加](/help/communication-channels/email/control-groups.md)
       + [多言語のメールまたは SMS 配信の作成](/help/communication-channels/create-multilingual-deliveries.md)
-      + [既存のメール、SMS 配信またはテンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [既存のEメール、SMS配信または配信テンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [ワークフローを介したメールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
@@ -63,7 +63,7 @@ ht-degree: 89%
       + プッシュ通知{#push}
          + [プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [多言語プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [チュートリアル：Android 向けプッシュ通知の概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja)
+         + [チュートリアル：Android 向けプッシュ通知の概要™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja)
       + アプリ内メッセージ {#in-app}
          + [アプリ内メッセージの概要](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [イベントの設定](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [エクスペリエンスイベントのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [シードテーブルデータのマップ](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [データマッピングの変更](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [データ取得ジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [データ取り込みジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + タイポロジルール{#typology-rules}
       + 疲労管理{#fatigue-management}
          + [疲労ルールの作成](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
