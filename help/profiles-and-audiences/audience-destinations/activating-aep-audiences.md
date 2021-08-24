@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->この機能は現在ベータ版で、予告なく頻繁に更新および変更される可能性があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
+>この機能はベータ版で、予告なく頻繁に更新および変更される可能性があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
 >
 >この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
@@ -35,9 +35,9 @@ ht-degree: 7%
 
 ドキュメント：
 
-* [Campaign内でのExperience Platformオーディエンスのアクティブ化 — ドキュメント](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Adobe Experience Platform オーディエンスの Campaign への取り込み](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
 ビデオリソース：
 
-* [統合セグメントビルダーを使用したAdobe Campaign Standardでの新しいオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [プラットフォームオーディエンスの配信のターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [統合セグメントビルダーを使用したAdobe Campaign Standardでのオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Platformオーディエンスの配信のターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
