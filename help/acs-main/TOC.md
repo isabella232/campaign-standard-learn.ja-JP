@@ -3,15 +3,15 @@ user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=ja&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: チュートリアル
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja
-getting-started-title: ドキュメント
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+tutorials-title: Tutorials
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+getting-started-title: Documentation
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
+source-git-commit: 3d11a2d81dab20b449c50d133f1c4fd4376356b5
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 83%
+source-wordcount: '536'
+ht-degree: 81%
 
 ---
 
@@ -127,3 +127,4 @@ ht-degree: 83%
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
    + [プライバシーリクエストの手動による作成および追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
++ [Campaign Standard](/https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
