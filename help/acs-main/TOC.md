@@ -8,10 +8,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-source-git-commit: 3d11a2d81dab20b449c50d133f1c4fd4376356b5
+source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 81%
+source-wordcount: '542'
+ht-degree: 80%
 
 ---
 
@@ -127,4 +127,4 @@ ht-degree: 81%
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
    + [プライバシーリクエストの手動による作成および追跡](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
-+ [Campaign Standard](/https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
