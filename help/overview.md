@@ -3,13 +3,13 @@ title: Adobe Campaign Standard チュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: 概要
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 74%
+source-wordcount: '258'
+ht-degree: 64%
 
 ---
 
@@ -19,13 +19,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[Adobe Analytics での配信の成功を追跡する](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[トラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-   *Campaign Standard と Analytics の統合を設定する方法について説明します。Campaign Standard から受信したデータと使用可能な KPI を使用して、Analytics でレポートを作成する方法について説明します。*
-
-* **[トランザクションメッセージに対するトリガーの使用](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
-
-   *トランザクションメッセージにトリガーを設定および使用する方法について説明します。*
+   *Adobe Campaign Standardの既知の問題のトラブルシューティングに関するヘルプを参照してください。*
 
 ## アドビのお勧め
 
