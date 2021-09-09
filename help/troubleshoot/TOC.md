@@ -1,7 +1,7 @@
 ---
-user-guide-title: Adobe Campaign Standardのトラブルシューティング
-user-guide-description: Adobe Campaign Standardの問題のトラブルシューティング方法に関するヘルプを参照してください。
-breadcrumb-title: Adobe Campaign Standardのトラブルシューティング
+user-guide-title: Adobe Campaign Standard のトラブルシューティング
+user-guide-description: Adobe Campaign Standard で発生した問題のトラブルシューティングに役立つ情報をご紹介します。
+breadcrumb-title: Adobe Campaign Standard のトラブルシューティング
 breadcrumb-url: /docs/campaign-standard-learn/troubleshoot-adobe-campaign/overview.html
 index: true
 feature: Overview
@@ -10,12 +10,12 @@ level: Experienced
 source-git-commit: 9eecc356e0ef4595874894294a71f797f3d105ac
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 1%
+ht-degree: 47%
 
 ---
 
 
-# Adobe Campaign Standardのトラブルシューティング {#troubleshooting}
+# Adobe Campaign Standard のトラブルシューティング {#troubleshooting}
 
 + [概要](/help/troubleshoot/overview.md)
 + [プロファイルの表示中の技術的エラー](/help/troubleshoot/technical-error-while-viewing-profile.md)

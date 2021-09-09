@@ -9,7 +9,7 @@ level: Beginner
 source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 64%
+ht-degree: 93%
 
 ---
 
@@ -37,12 +37,12 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     </div>
     <p>
-    <em>プロファイルが受け取るメッセージの正確な内容を確認するために配達確認を送信する方法を説明します。</em>
+    <em>プロファイルが受け取るメッセージの正確な表示内容を確認するために配達確認を送信する方法を説明します。</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja">
-      <img alt="Campaign コントロールパネル（ビデオ）" src="./assets/control-panel.png" />
+      <img alt="コントロールパネル（ビデオ）" src="./assets/control-panel.png" />
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
@@ -59,11 +59,11 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
-    <strong>チュートリアル：Android 向けプッシュ通知の概要™</strong>
+    <strong>チュートリアル：Android™ 向けプッシュ通知の概要</strong>
     </a>
     </div>
     <p>
-    <em>このチュートリアルでは、Adobe Campaignからプッシュ通知を送信し、Android™アプリでこれらの通知を受信する手順について説明します。  </em>
+    <em>このチュートリアルでは、プッシュ通知を Adobe Campaign から送信し Android™ アプリで受信する手順について説明します。</em>
     <p>
   </td>
 </tr>
@@ -71,4 +71,4 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## その他のリソース
 
-* [ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja)

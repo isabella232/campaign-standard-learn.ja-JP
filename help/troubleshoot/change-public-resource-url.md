@@ -3,14 +3,15 @@ title: パブリックリソース URL を http から https に変更する手�
 description: パブリックリソース URL を http から https に変更する方法について説明します。
 role: Admin
 level: Beginner, Experienced
+type: Troubleshooting
 kt: 8420
-source-git-commit: 908c997c130cf0fbb6699b4b5d824e6996e59cc3
-workflow-type: ht
+exl-id: a36ea881-2230-48df-b0cc-08ae3573f7f8
+source-git-commit: 184cd4469cd6872534d65c26fc5de08b4146c542
+workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
 
 ---
-
 
 # パブリックリソース URL を http から https に変更する手順
 
