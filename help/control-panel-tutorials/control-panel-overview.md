@@ -1,8 +1,8 @@
 ---
-title: コントロールパネル- 概要
-description: Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
+title: コントロールパネル - 概要
+description: Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位での SFTP ストレージの管理、GPG キーの管理、サブドメインと証明書の管理などの各種管理タスクを実行したりできます。
 landing-page-description: コントロールパネルを使用すると、Campaign 管理者は、SFTP ストレージ、GPG キー、サブドメインと証明書の管理などの管理タスクを実行できます。
-feature: Campaign コントロールパネル
+feature: Control Panel
 audience: administrator
 kt: 4696
 doc-type: feature video
@@ -10,9 +10,9 @@ activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '230'
+ht-degree: 100%
 
 ---
 
@@ -36,11 +36,11 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Adobe Campaignへのサブドメインのデリゲート（ビデオ）" src="./assets/31390.jpg"/>
+      <img alt="Adobe Campaign へのサブドメインのデリゲート（ビデオ）" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Adobe Campaignへのサブドメインのデリゲート（ビデオ）</strong>
+    <strong>Adobe Campaign へのサブドメインのデリゲート（ビデオ）</strong>
     </a>
     </div>
     <p>
