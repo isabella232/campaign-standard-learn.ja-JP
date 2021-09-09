@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 80%
 + [概要](/help/overview.md)
 + はじめに{#getting-started}
    + [Adobe Campaign Standard の概要](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [UI の概要](/help/getting-started/getting-started-with-the-ui.md)
+   + [UI の基本を学ぶ](/help/getting-started/getting-started-with-the-ui.md)
    + [リストの設定](/help/getting-started/configure-a-list.md)
    + [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
@@ -45,12 +45,12 @@ ht-degree: 80%
 + 通信チャネル{#communication-channels}
    + E メール {#email}
       + [メールの作成](/help/communication-channels/email/create-email-from-homepage.md)
-      + [テストの送信、Eメールの準備、送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [テストメールの送信、メール配信の準備、メールの送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B テスト](/help/communication-channels/email/a-b-testing.md)
       + [ターゲットプロファイルを使用したメールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)
       + [配信へのコントロール母集団の追加](/help/communication-channels/email/control-groups.md)
-      + [多言語のメールまたは SMS 配信の作成](/help/communication-channels/create-multilingual-deliveries.md)
-      + [既存のEメール、SMS配信または配信テンプレートの多言語変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [多言語メールまたは SMS 配信の作成](/help/communication-channels/create-multilingual-deliveries.md)
+      + [既存のメール、SMS 配信または配信テンプレートの多言語への変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [ワークフローを介したメールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
@@ -63,7 +63,7 @@ ht-degree: 80%
       + プッシュ通知{#push}
          + [プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [多言語プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [チュートリアル：Android 向けプッシュ通知の概要™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja)
+         + [チュートリアル：Android™ 向けプッシュ通知の概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja)
       + アプリ内メッセージ {#in-app}
          + [アプリ内メッセージの概要](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [イベントの設定](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -80,12 +80,12 @@ ht-degree: 80%
 + コンテンツの設計とパーソナライズ{#designing-content}
    + 電子メールデザイナー{#email-designer}
       + [概要](/help/designing-content/email-designer/email-designer-overview.md)
-      + [E メールデザイナーの基本を学ぶ](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [電子メールデザイナーの基本を学ぶ](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [メールコンテンツテンプレートの概要](/help/designing-content/email-designer/email-content-templates.md)
       + [モバイル表示の設定](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [メールおよびスパム対策分析のプレビュー](/help/designing-content/email-designer/preview-your-email.md)
-      + [既存のコンテンツの使用](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [Adobe Dreamweaverを使用したコンテンツの作成](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [既存コンテンツの操作](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [Adobe Dreamweaver を使用したコンテンツの作成](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [トランザクションメールの製品リストの設定](/help/designing-content/product-listings-in-transactional-email.md)
 + プロセスとデータ管理{#managing-processes-and-data}
    + [ワークフローの作成](/help/managing-processes-and-data/creating-a-workflow.md)
@@ -112,10 +112,10 @@ ht-degree: 80%
    + [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ja)
    + [コントロールパネル](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja)
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
-      + [Adobe Experience Platform コネクタについて](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+      + [Adobe Experience Platform Data Connector について](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [カスタムリソースのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [エクスペリエンスイベントのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [シードテーブルデータのマップ](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [シードテーブルデータのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [データマッピングの変更](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [データ取り込みジョブのステータスの確認](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + タイポロジルール{#typology-rules}
@@ -125,6 +125,6 @@ ht-degree: 80%
    + [概要](/help/privacy/privacy-overview.md)
    + [プライバシーリクエストの名前空間の作成](/help/privacy/namespaces-for-privacy-requests.md)
    + [プライバシーリクエストのカスタムリソースの変更](/help/privacy/custom-resources-for-privacy-requests.md)
-   + [プライバシーリクエストの手動による作成および追跡](/help/privacy/create-and-track-privacy-requests.md)
+   + [プライバシーリクエストの手動による作成およびトラッキング](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
-+ [Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Campaign Standard のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ja)
