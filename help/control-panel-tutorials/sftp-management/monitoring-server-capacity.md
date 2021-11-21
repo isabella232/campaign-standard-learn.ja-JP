@@ -1,7 +1,7 @@
 ---
 title: サーバー容量の監視
-description: SFTP サーバーのストレージ容量を監視する方法を説明します。
-feature: Campaign コントロールパネル
+description: SFTP サーバーのストレージ容量を監視する方法について説明します。
+feature: Control Panel
 audience: administrator
 kt: 6239
 thumbnail: 27270.jpg
@@ -9,10 +9,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 432a1af6-22de-41ff-b733-e086ee14ab7a
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
@@ -32,6 +31,6 @@ Campaign コントロールパネルでは、インスタンスごとに SFTP �
 
 ## サーバー容量の監視、[!UICONTROL allow list] への IP アドレスの追加、SSH 鍵の追加
 
-SFTP サーバーのストレージ容量を監視する方法を説明します。
+SFTP サーバーのストレージ容量を監視する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)

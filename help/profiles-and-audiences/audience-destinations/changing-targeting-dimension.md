@@ -1,7 +1,7 @@
 ---
 title: ターゲティングディメンションの変更
-description: このビデオでは、Adobe Campaign Standardのプライマリプロファイルテーブル以外で、Platform Audienceの配信のターゲティングディメンションを変更する方法を説明します。
-feature: Peopleコアサービスの統合
+description: このビデオでは、Adobe Campaign Standardのプライマリプロファイルテーブル以外で、Platform オーディエンスに対する配信のターゲティングディメンションを変更する方法を説明します。
+feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->この機能はベータ版で、予告なく頻繁に更新および変更される可能性があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
+>この機能はベータ版で、予告なく頻繁に更新や変更がおこなわれます。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
 >
->この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
+>次の場所に連絡してください： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
 
-このビデオでは、Adobe Campaign Standardのプライマリプロファイルテーブルの外部にある[!UICONTROL Platform Audience]の配信のターゲティングディメンションを変更する方法を説明します。
+このビデオでは、 [!UICONTROL Platform Audience] Adobe Campaign Standardのプライマリプロファイルテーブルの外側にある
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 

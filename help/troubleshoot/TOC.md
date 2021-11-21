@@ -17,8 +17,8 @@ ht-degree: 47%
 # Adobe Campaign Standard のトラブルシューティング {#troubleshooting}
 
 + [概要](/help/troubleshoot/overview.md)
-+ [プロファイルの表示中の技術的エラー](/help/troubleshoot/technical-error-while-viewing-profile.md)
++ [プロファイル表示中の技術的エラー](/help/troubleshoot/technical-error-while-viewing-profile.md)
 + [Experience Managerへの接続エラー](/help/troubleshoot/error-aem-connection.md)
-+ [パブリックリソースURLをhttpからhttpsに変更](/help/troubleshoot/change-public-resource-url.md)
-+ [復号化されたイベントIDと配信IDの取得](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
++ [パブリックリソース URL を http から https に変更](/help/troubleshoot/change-public-resource-url.md)
++ [復号化されたイベント ID と配信 ID の取得](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
 

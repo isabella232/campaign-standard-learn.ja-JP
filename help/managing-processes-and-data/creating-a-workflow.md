@@ -1,7 +1,7 @@
 ---
 title: ワークフローの作成
 description: ワークフローを作成および編集する方法について説明します。
-feature: ワークフロー
+feature: Workflows
 kt: 1809
 thumbnail: 23937.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 34%
 
 ---
@@ -21,12 +21,12 @@ ht-degree: 34%
 
 ワークフローは、次のように異なるコンテキストで使用できます。
 
-* オーディエンスの管理やメッセージの送信のターゲティング
-* データ管理(ETL)によるデータの操作
-* Campaignデータベースへのデータのインポート
+* オーディエンスを管理またはメッセージを送信するためのターゲティング
+* データ管理 (ETL) を使用したデータの操作
+* Campaign データベースへのデータのインポート
 * データベースのクリーンアップ、トラッキング情報の復元などの技術的プロセス。
 
-このビデオでは、Adobe Campaign Standardでのワークフローの作成および編集方法を説明します。
+このビデオでは、Adobe Campaign Standardでワークフローを作成および編集する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 

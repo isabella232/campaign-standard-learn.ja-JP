@@ -1,7 +1,7 @@
 ---
 title: ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション
-description: このビデオでは、「オーディエンスの閲覧」アクティビティを使用して、ワークフロー内でデータサービスクエリオーディエンスを有効化する方法を説明します。
-feature: Peopleコアサービスの統合
+description: このビデオでは、「オーディエンスの閲覧」アクティビティを使用して、ワークフロー内でデータサービスクエリオーディエンスを有効にする方法を説明します。
+feature: People Core Service Integration
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
@@ -12,24 +12,24 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '144'
 ht-degree: 12%
 
 ---
 
-# マーケティングワークフローのワークフロー[!UICONTROL Adobe Experience Platform Audiences]でのAdobe Experience Platformオーディエンスのアクティブ化
+# ワークフローでのAdobe Experience Platformオーディエンスのアクティブ化 [!UICONTROL Adobe Experience Platform Audiences] マーケティングワークフロー内
 
 >[!NOTE]
 >
->この機能はベータ版で、予告なく頻繁に更新および変更される可能性があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
+>この機能はベータ版で、予告なく頻繁に更新や変更がおこなわれます。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
 >
->この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
+>次の場所に連絡してください： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
 
-このビデオでは、[!UICONTROL Read Audience]アクティビティを使用してワークフロー内で[!UICONTROL Data Services Query Audience]をアクティブにする方法を説明します。
+このビデオでは、 [!UICONTROL Data Services Query Audience] ワークフロー内で [!UICONTROL Read Audience] アクティビティ。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
-*ワークフローでのAdobe Experience Platformオーディエンスのアクティブ化（2分37秒）*
+*ワークフローでのAdobe Experience Platformオーディエンスのアクティブ化（2 分 37 秒）*
 
 ## その他のリソース
 
@@ -40,4 +40,4 @@ ht-degree: 12%
 ビデオリソース：
 
 * [統合セグメントビルダーを使用したAdobe Campaign Standardでのオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Platformオーディエンスの配信のターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Platform オーディエンスの配信のターゲティングディメンションを変更する](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

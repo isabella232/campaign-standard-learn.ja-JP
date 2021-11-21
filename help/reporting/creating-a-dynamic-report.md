@@ -1,7 +1,7 @@
 ---
 title: 動的レポートの作成
 description: レポートの作成方法を説明します。
-feature: レポート
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 33%
+source-wordcount: '62'
+ht-degree: 32%
 
 ---
 
-# [!UICONTROL Dynamic Report]を作成します。{#creating-a-report}
+# の作成 [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaignの[!UICONTROL Dynamic Reports]は、データを調査できる柔軟なフリーフォーム環境です。 ディメンション、指標、時間範囲を任意の組み合わせで組み合わせ、無制限の分類や比較が可能です。
+Adobe Campaign [!UICONTROL Dynamic Reports] は、データを調査できる柔軟なフリーフォーム環境です。 任意の組み合わせでディメンション、指標、時間範囲を組み合わせ、分類や比較を無制限に行うことができます。
 
 レポートの作成方法を説明します。
 

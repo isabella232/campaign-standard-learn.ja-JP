@@ -1,7 +1,7 @@
 ---
 title: ランディングページのテストと公開
 description: Adobe Campaign Standardで構築されたランディングページをテストする方法と公開する方法を説明します。
-feature: ランディングページ
+feature: Landing Pages
 kt: 1813
 thumbnail: 24992.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 30%
+source-wordcount: '44'
+ht-degree: 27%
 
 ---
 

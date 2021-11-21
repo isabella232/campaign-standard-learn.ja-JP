@@ -1,7 +1,7 @@
 ---
 title: SSH キーの生成
 description: ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。
-feature: コントロールパネル
+feature: Control Panel
 kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
@@ -9,21 +9,20 @@ audience: administrator
 activity: use
 team: PM
 exl-id: e0b4804c-d0ea-4f4b-a6fd-f9363b264111
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 79%
 
 ---
 
 # SSH キーの生成
 
-SSHキーを[!UICONTROL Control Panel]に追加するには、SSHキーを生成する必要があります。
+SSH キーを [!UICONTROL Control Panel].
 
 ## [!UICONTROL Control Panel] の SFTP 管理へのアクセス
 
-[!UICONTROL Control Panel]のSFTP管理にアクセスするには、次の場所に移動します。
+で SFTP 管理にアクセスするには、以下を実行します。 [!UICONTROL Control Panel]に移動します。
 
 * [Experience Cloud ホーム](https://experience.adobe.com/#/home)／[!UICONTROL Solution picker]：[!UICONTROL Campaign]／**[!UICONTROL Control Panel]** カード／**SFTP** カード
 

@@ -4,7 +4,7 @@ user-guide-description: コントロールパネルで Adobe Campaign インス�
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 

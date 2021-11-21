@@ -1,7 +1,7 @@
 ---
 title: Email Designer の概要
-description: Eメールデザイナーの一般的な機能とEメールをゼロからデザインする方法を理解します。
-feature: Eメールデザイン
+description: E メールデザイナーの一般的な機能と E メールをゼロから設計する方法を理解します。
+feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 85%
+source-wordcount: '123'
+ht-degree: 86%
 
 ---
 

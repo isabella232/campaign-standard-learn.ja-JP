@@ -1,7 +1,7 @@
 ---
-title: テストの送信、Eメールの準備、送信
-description: 「テスト用のEメールを送信し、準備してからEメール配信を送信する方法を説明します。 」
-feature: 'メール  '
+title: テストメールの送信、メール配信の準備、メールの送信
+description: 「テスト用 E メールを送信し、準備して、E メール配信を送信する方法を説明します。 」
+feature: Email
 kt: 1812
 thumbnail: 24013.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 40%
 
 ---
 
-# テストの送信、Eメールの準備、送信
+# テストメールの送信、メール配信の準備、メールの送信
 
-このビデオでは、Adobe Campaign Standard(ACS)でテスト用Eメールを送信し、Eメール配信を準備して送信する方法を説明します。
+このビデオでは、Adobe Campaign Standard(ACS) でテスト E メールを送信し、E メール配信を準備して送信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)
 

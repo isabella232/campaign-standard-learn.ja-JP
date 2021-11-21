@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Platform SDK を使用したモバイルアプリケーションの設定
 description: Adobe Experience Platform Launchでモバイルアプリを設定する方法と、Adobe Campaignでモバイルアプリを設定する方法について説明します。
-feature: アプリ内、プッシュ、チャネル設定、モバイルSDK統合
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 kt: 2501
 thumbnail: 26224.jpg
 doc-type: feature video
@@ -12,24 +12,24 @@ role: Admin
 level: Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '137'
 ht-degree: 11%
 
 ---
 
-# [!UICONTROL Adobe Experience Platform SDK]を使用したモバイルアプリの設定 {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+# を使用してモバイルアプリを設定する [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
-Mobile SDK V5を使用してアプリ内メッセージまたは[!UICONTROL push notifications]を送信するには、モバイルアプリを[!UICONTROL Adobe Experience Platform Launch]に設定し、Adobe Campaignで設定する必要があります。
+アプリ内メッセージを送信するには、以下を実行します。 [!UICONTROL push notifications] Mobile SDK V5 を使用する場合、モバイルアプリケーションは [!UICONTROL Adobe Experience Platform Launch] Adobe Campaignで設定されます。
 
-以下のビデオでは、モバイルアプリをExperience Platform Launchで設定するために必要な手順を示します。
+以下のビデオでは、モバイルアプリを設定するために必要な手順をExperience Platform Launchします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
 
 >[!NOTE]
 >
->詳細なドキュメントとビデオで使用されるコードテンプレートについては、 [[!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)でのアプリケーションの設定を参照してください。
+>詳しくは、 [でのアプリケーションの設定 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 詳細なドキュメントとビデオで使用されているコードテンプレートについて説明します。
 
 ## その他のリソース
 
-* [モバイルプロパティの設定(AdobeLaunchのドキュメント)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Adobe Experience Platform SDKを使用したモバイルアプリケーションの設定（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)
+* [モバイルプロパティの設定 (AdobeLaunch ドキュメント )](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
+* [Adobe Experience Platform SDK を使用したモバイルアプリケーションの設定（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)

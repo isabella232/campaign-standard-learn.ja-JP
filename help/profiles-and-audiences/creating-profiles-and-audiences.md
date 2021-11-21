@@ -1,7 +1,7 @@
 ---
 title: プロファイルとオーディエンスの作成 - 概要
 description: 既存のプロファイルへ移動する方法、およびプロファイルとオーディエンスを作成する方法について説明します。
-feature: プロファイル、オーディエンス
+feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,19 +12,19 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 35%
+source-wordcount: '83'
+ht-degree: 33%
 
 ---
 
 # プロファイルとオーディエンスの作成 - 概要
 
-Adobe Campaignには次の2つのタイプのプロファイルがあります。
+Adobe Campaignには次の 2 つのタイプのプロファイルがあります。
 
 * 識別されたプロファイル
 * テストプロファイル
 
-1つまたは複数の共通条件に従ってグループ化されたプロファイルは、**audiences**&#x200B;と呼ばれます。
+1 つまたは複数の共通の条件に従ってグループ化されたプロファイルを、 **audiences**.
 
 このビデオでは、既存のプロファイルに移動する方法と、Adobe Campaign Standardでプロファイルとオーディエンスを作成する方法を説明します。
 

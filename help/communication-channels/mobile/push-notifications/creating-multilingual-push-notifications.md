@@ -1,7 +1,7 @@
 ---
 title: 多言語プッシュ通知の作成
-description: '多言語プッシュ通知の作成方法を説明します。 '
-feature: プッシュ
+description: '多言語プッシュ通知を作成する方法を説明します。 '
+feature: Push
 kt: 1375
 thumbnail: 23304.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 39%
+source-wordcount: '63'
+ht-degree: 38%
 
 ---
 

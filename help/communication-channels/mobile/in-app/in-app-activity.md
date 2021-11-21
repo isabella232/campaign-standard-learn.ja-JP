@@ -1,7 +1,7 @@
 ---
 title: ワークフロー内でのアプリ内配信の作成
 description: アプリ内配信アクティビティを使用して、ワークフロー内で計算されたターゲットオーディエンスへのアプリ内メッセージの送信を自動化する方法を説明します。
-feature: アプリ内
+feature: In App
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 6%
 
 ---
 
-# ワークフロー内での[!UICONTROL In-App]配信の作成
+# の作成 [!UICONTROL In-App] ワークフロー内での配信
 
-アプリ内配信アクティビティは、同じワークフロー内で計算されるターゲットオーディエンスへの[!UICONTROL In-App]メッセージ送信を自動化するために使用されます。
+アプリ内配信アクティビティは、 [!UICONTROL In-App] 同じワークフロー内で計算されたターゲットオーディエンスに対するメッセージ。
 
 アプリ内配信アクティビティを使用して、ワークフロー内で計算されたターゲットオーディエンスへのアプリ内メッセージの送信を自動化する方法を説明します。
 

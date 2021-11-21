@@ -1,7 +1,7 @@
 ---
 title: Campaign コントロールパネルのトラブルシューティング
-description: 「 」Campaign コントロールパネルを使用すると、インスタンス別、およびIPアドレス別に、SFTPストレージを監許可リスト視および管理できます。
-feature: コントロールパネル
+description: コントロールパネルを使用すると、インスタンスおよび許可リストの IP アドレスごとに SFTP ストレージを監視および管理できます。
+feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
@@ -9,8 +9,8 @@ team: PM
 exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 44%
+source-wordcount: '318'
+ht-degree: 57%
 
 ---
 
@@ -22,10 +22,10 @@ Campaign コントロールパネルを使用する際の問題のトラブル�
 
 ログインとホームページで発生する問題。
 
-### 症状：Adobe Experience Cloudにログインできない
+### 症状：Adobe Experience Cloudにログインできません
 
 **対処方法：**
-ユーザーは、(xxx)を見つけ [!DNL IMS Org ID] る必要があります。管理者は、管理する各インスタンスについて、ユーザーを[!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”]に追加する必要があります。 ユーザーがすべてのインスタンスの管理者である場合は、自分自身を&#x200B;*[!UICONTROL user]*&#x200B;として追加する必要があります。
+ユーザーは、 [!DNL IMS Org ID] 三十 管理者はユーザーを [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] 管理する各インスタンスに対して、 ユーザーがすべてのインスタンスの管理者である場合、自身を *[!UICONTROL user]*.
 
 ### 症状：[!UICONTROL Adobe Experience Cloud Home] の [!UICONTROL Control Panel] にアクセスするリンクがユーザーに表示されない
 
@@ -33,17 +33,17 @@ Campaign コントロールパネルを使用する際の問題のトラブル�
 ユーザーが [!UICONTROL product profile]（`Campaign-xxx-Administrators/Admin`）に追加されない限り、リンクは表示されません。
 
 **対処方法：**
-管理者は、管理する各インスタンスについ [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* て、ユーザーをに追加する必要があります。ユーザーがすべてのインスタンスの管理者である場合は、自分自身を&#x200B;*[!UICONTROL user]*&#x200B;として追加する必要があります。
+管理者はユーザーを [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* 管理する各インスタンスに対して、 ユーザーがすべてのインスタンスの管理者である場合、自身を *[!UICONTROL user]*.
 
 ### 症状： インスタンスが [!UICONTROL Control Panel] の一覧に表示されない
 
 **原因：**
-ユーザーは、見つからないインスタンスの製品プロフ *[!UICONTROL user]* ァイルと `Campaign-xxx-Administrators/Admin` して追加される必要がある可能性が高いです
+ほとんどの場合、ユーザーは *[!UICONTROL user]* 製品プロファイル `Campaign-xxx-Administrators/Admin` 見つからないインスタンスの
 
 **対処方法：**
-管理者は、管理する各インスタンスについて、ユーザーを製 `Campaign-xxx-Admins` 品プロファイルに追加する必要があります。ユーザーがすべてのインスタンスの管理者である場合は、自分自身を&#x200B;*[!UICONTROL user]*&#x200B;として追加する必要があります。
+管理者は製品プロファイルにユーザーを追加する必要があります `Campaign-xxx-Admins` 管理する各インスタンスに対して、 ユーザーがすべてのインスタンスの管理者である場合、自身を *[!UICONTROL user]*.
 
-### 参考になるビデオ
+### 役立つビデオ
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
@@ -63,8 +63,8 @@ Campaign コントロールパネルを使用する際の問題のトラブル�
 SFTP サーバーに接続するには、次の環境が必要です。
 
 * SFTP サーバーに接続する IP アドレスの [!UICONTROL allow listing]
-* Adobe Campaignに登録する必要がある秘密鍵と公開鍵のペア
-* SFTPサーバーに直接接続する場合は、SFTPクライアントソフトウェアが必要です
+* Adobe Campaign に登録する必要がある秘密キーと公開キーのペア
+* SFTP サーバーに直接接続する場合は、SFTP クライアントソフトウェアが必要です
 
 ### 参考ドキュメント {#helpful-docs}
 

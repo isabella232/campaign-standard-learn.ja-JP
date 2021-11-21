@@ -1,7 +1,7 @@
 ---
 title: レポートベースのカスタムプロファイル属性の作成
 description: カスタムプロファイル属性に基づくレポートを作成する方法を説明します。
-feature: レポート
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 14%
+source-wordcount: '87'
+ht-degree: 13%
 
 ---
 
 # カスタムプロファイル属性に基づくレポートの作成
 
-Adobe Campaignの[!UICONTROL Dynamic Reports]は、柔軟なフリーフォーム環境で、カスタムプロファイル属性を含めてデータを調査できます。 ディメンション、指標、時間範囲を任意の組み合わせで組み合わせ、無制限の分類や比較が可能です。
+Adobe Campaign [!UICONTROL Dynamic Reports] は柔軟なフリーフォーム環境で、カスタムプロファイル属性を含めてデータを調査できます。 任意の組み合わせでディメンション、指標、時間範囲を組み合わせ、分類や比較を無制限に行うことができます。
 
 このビデオでは、カスタムプロファイル属性に基づくレポートを作成する方法を説明します。
 

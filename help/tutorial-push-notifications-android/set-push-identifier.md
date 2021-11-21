@@ -1,7 +1,7 @@
 ---
-title: 手順4 — プッシュ識別子を設定する
-description: '**pushIdentifier**は、プッシュ通知用のデバイストークンを含む文字列です。 これは、Firebaseから送信され、 MobileCore.setPushIdentifierメソッドを使用してSDKに渡されるトークンと同じです。'
-feature: プッシュ
+title: 手順 4 - pushidentifier を設定する
+description: '**pushIdentifier**は、プッシュ通知用のデバイストークンを含む文字列です。 これは、Firebase から送信され、 MobileCore.setPushIdentifier メソッドを使用して SDK に渡されるトークンと同じです。'
+feature: Push
 kt: 4828
 doc-type: tutorial
 activity: use
@@ -9,18 +9,18 @@ team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
-# 手順4 - [!DNL pushidentifier]を設定する
+# 手順 4 — 設定 [!DNL pushidentifier]
 
-**[!DNL pushidentifier]**&#x200B;は、[!DNL Push]通知のデバイストークンを含む文字列です。 [!DNL Firebase]から送信され、[!DNL MobileCore.setPushIdentifier]メソッドを使用してSDKに渡されるトークンと同じです。
+この **[!DNL pushidentifier]** は、のデバイストークンを含む文字列です。 [!DNL Push] 通知。 これは次から送信されたトークンと同じです： [!DNL Firebase] を呼び出し、 [!DNL MobileCore.setPushIdentifier] メソッド。
 
-[!DNL Android™ ]スタジオでプロジェクトを開きます。 [!DNL MainActivity] **内のコード全体を削除します。ただし、パッケージステートメント**&#x200B;の最初の行は除きます。
+でプロジェクトを開きます。 [!DNL Android™ ]スタジオ。 のコード全体を削除する [!DNL MainActivity] **パッケージ文の最初の行以外は**.
 
-次のコードを[!DNL MainActivity]に貼り付けます。
+次のコードを [!DNL MainActivity]:
 
 <!--
 Removed `{.line-numbers}` below
@@ -87,21 +87,21 @@ MobileCore.lifecyclePause();
 
 ## アプリのテスト
 
-今が、それ以降に進む前にアプリをテストする良い機会です。
+これで、今後に進む前にアプリをテストする良い機会になりました。
 
-* 緑の矢印をクリックするか、「**[!DNL Run->Run'app']**」を選択して、アプリを実行します。
-* [!DNL Android™]エミュレーターが起動し、[!DNL "Hello World" ]テキストでアプリが実行されていることを確認します。
-* [!DNL logcat]ウィンドウを開きます。 「[!DNL Got]」を検索します。 [!DNL Firebase]から受信したトークンが、次のようにログに書き込まれています。 「[!DNL Got token]」の後の長い文字列は、Adobe Campaignに送信される[!DNL pushidentifier ]です。
+* 緑の矢印をクリックするか「 **[!DNL Run->Run'app']**.
+* この [!DNL Android™] エミュレーターが起動し、アプリがで実行されていることを確認します。 [!DNL "Hello World" ]テキスト。
+* を開きます。 [!DNL logcat] ウィンドウ 「[!DNL Got]&quot;. から受け取ったトークンが表示されます。 [!DNL Firebase] を次のようにログに書き込みます。 &quot;の後の長い文字列[!DNL Got token]&quot;は [!DNL pushidentifier ]Adobe Campaignに送信される
 
-![logcatトークン](assets/logcat-got-token.PNG)
+![logcat-token](assets/logcat-got-token.PNG)
 
 ### モバイルアプリケーション購読者の確認
 
 Adobe Campaign Standardインスタンスにログインします。
-**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**&#x200B;に移動します。 適切なモバイルアプリケーションを開きます。 「[!UICONTROL Mobile Application Subscribers]」タブに移動します。 [!UICONTROL registration token ]が表示されます。
+移動 **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**. 適切なモバイルアプリケーションを開きます。 タブで [!UICONTROL Mobile Application Subscribers] タブをクリックします。 次のように表示されます。 [!UICONTROL registration token ]リストに表示されました。
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->[!UICONTROL Mobile Application Subscribers]タブに登録トークンが表示されない場合は、ここで停止してから先に進んでください。
+>が [!UICONTROL Mobile Application Subscribers] ここで停止を押してから、続行してください。

@@ -1,7 +1,7 @@
 ---
 title: アプリ内メッセージのブロードキャスト
 description: ブロードキャストテンプレートを設定および使用して、モバイルアプリのすべてのユーザーをターゲットにする方法について説明します。
-feature: アプリ内
+feature: In App
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 7%
 
 ---
@@ -21,16 +21,16 @@ ht-degree: 7%
 
 アプリ内メッセージをブロードキャストし、Adobe Campaignがプロファイル情報を持っているかどうかに関わらず、モバイルアプリのすべてのユーザーをターゲットに設定できます。
 
-このカテゴリの関連ユースケースの一部を次に示します。
+このカテゴリの適切な使用例の一部を次に示します。
 
-* モバイルアプリチュートリアルを初めてのアプリランチャーに送信する。または
+* モバイルアプリチュートリアルを初めてのアプリランチャーに送信する、または
 * 新機能リリースのお知らせ
 
 ブロードキャストテンプレートを設定および使用して、モバイルアプリのすべてのユーザーをターゲットにする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*SDKV5モバイルプロパティを使用したブロードキャストアプリ内メッセージの作成*
+*SDKV5 Mobile プロパティを使用した Broadcast アプリ内メッセージの作成*
 
 ## その他のリソース
 

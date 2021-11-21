@@ -1,7 +1,7 @@
 ---
 title: データ取り込みジョブのステータスの確認
 description: ステータスを確認し、データマッピングを変更する方法を説明します。
-feature: Peopleコアサービスの統合
+feature: People Core Service Integration
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 23%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->この機能はベータ版で、予告なく頻繁に更新および変更される可能性があります。
+>この機能はベータ版で、予告なく頻繁に更新や変更がおこなわれます。
 >
->この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
+>次の場所に連絡してください： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
 
 データ取り込みジョブのステータスを確認する方法、およびデータがAdobe Campaign StandardからAdobe Experience Platformに取り込まれているかどうかを確認する方法について説明します。
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 
 * [マッピング定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
 * [マッピングのアクティベーション](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-* [API によるデータ取得トリガー](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)
+* [API によるデータ取り込みのトリガー](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)

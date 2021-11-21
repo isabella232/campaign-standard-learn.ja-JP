@@ -1,7 +1,7 @@
 ---
 title: トランザクションメールの製品リストの設定
-description: トランザクションEメールで製品リストを設定するために必要な手順を説明します。
-feature: トランザクションメッセージ、Eメール
+description: トランザクション E メールで製品リストを設定するために必要な手順を説明します。
+feature: Transactional Messaging, Email
 kt: 1728
 thumbnail: 25915
 doc-type: feature video
@@ -12,30 +12,30 @@ role: User, Developer
 level: Experienced
 source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 4%
 
 ---
 
-# トランザクションEメールでの[!UICONTROL product listings]の設定
+# 設定 [!UICONTROL product listings] トランザクション e メール内
 
-Eメールのデザイン時に不明な製品のリストを含むリターゲティングEメールを設定できます。 これらの製品は、実行時にペイロードから追加できます。 例えば、ユーザーが買い物かごを放棄した前に買い物かごに入っていたすべての製品をリストした電子メールを、画像、価格および各製品へのリンクと共に自動的に送信できます。
+E メールのデザイン時に不明な製品のリストを含むリターゲティング E メールを設定できます。 これらの製品は、実行時にペイロードから追加できます。 例えば、買い物かごを放棄した前にユーザーが買い物かごにあったすべての製品をリストする買い物かご放棄の E メールを、画像、価格、各製品へのリンクと共に自動的に送信できます。
 
-次のビデオでは、[!UICONTROL transactional emails]で[!UICONTROL product listings]を設定するために必要な手順を説明します。
+次のビデオでは、を設定するために必要な手順を説明します [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
 >[!NOTE]
 >
->この機能は、ビデオでは「ループ」と呼ばれます。
+>この機能は、ビデオでは Loop と呼ばれます。
 
-## 手順1 — イベントを作成して公開する
+## 手順 1 — イベントを作成して公開する
 
 >[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12)
 
-## 手順2 — 製品リストをトランザクションメッセージテンプレートに追加する
+## 手順 2 — トランザクションメッセージテンプレートに製品リストを追加する
 
 >[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12)
 
-## 手順3 — トランザクションメッセージのテスト
+## 手順 3 — トランザクションメッセージのテスト
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
 

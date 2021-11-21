@@ -1,31 +1,30 @@
 ---
-title: 手順 2 - モバイル SDK を統合
-description: この部分では、AndroidアプリをモバイルSDKと統合します。 モバイルSDKとAndroidアプリを統合するには
-feature: プッシュ
+title: 手順 2 - Mobile SDK の統合
+description: ここでは、Android アプリを Mobile SDK と統合します。 モバイル SDK を Android アプリと統合するには：
+feature: Push
 kt: 4826
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 4%
+source-wordcount: '158'
+ht-degree: 3%
 
 ---
 
-# 手順2 - [!UICONTROL Mobile SDK]をAndroidアプリと統合する
+# 手順 2 — 統合 [!UICONTROL Mobile SDK] Android アプリを使用
 
-この部分では、[!DNL Android]アプリを[!UICONTROL Mobile SDK]と統合します。 [!UICONTROL mobile SDK]を[!DNL Android]アプリと統合するには、次の手順に従ってください。
+この部分では、 [!DNL Android] アプリ [!UICONTROL Mobile SDK]. 統合する [!UICONTROL mobile SDK] と [!DNL Android] アプリの場合は、次の手順に従ってください。
 
-* [!DNL Android Studio]の&#x200B;*ACSPushTutorial*&#x200B;プロジェクトを開きます
-* *MainApp*&#x200B;という名前の新しいJavaクラスを作成し、[!DNL android.app.Application]を拡張します。
+* を開きます。 *ACSPushTutorial* プロジェクト [!DNL Android Studio]
+* という新しい Java クラスを作成します。 *MainApp* 拡張する [!DNL android.app.Application]
 * この時点でのプロジェクト構造は次のようになります
 
 ![メインアプリ](assets/android-main-app.PNG)
 
-* [!DNL Gradle Scripts]フォルダーを展開します。 重複はモジュールの[!DNL build.gradle]をクリックします。 次の依存関係を[!DNL build.gradle]ファイルの依存関係セクションに貼り付けます。 [!DNL build.gradle]ファイルは次のようになります
+* を展開します。 [!DNL Gradle Scripts] フォルダー。 次をダブルクリックします。 [!DNL build.gradle] モジュールの。 次の依存関係を、 [!DNL build.gradle] ファイル。 お使いの [!DNL build.gradle] ファイルは次のようになります。
 
 <!--
 Removed `{.line-numbers}` below
@@ -37,13 +36,13 @@ implementation 'com.adobe.marketing.mobile:userprofile:1.+'
 implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 ```
 
-![モジュール・グレーダル](assets/module-build-gradle.PNG)
+![module-gradle](assets/module-build-gradle.PNG)
 
-* 「今すぐ同期」ボタンをクリックして[!DNL Android]プロジェクトを同期し、プロジェクトを同期します
+* 同期 [!DNL Android] 「今すぐ同期」ボタンをクリックしてプロジェクトを同期する
 
 ## 変更 [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
-*AndroidManifest.xml*&#x200B;を開き、manifest要素の後、アプリケーション要素の前に、次の2行を貼り付けます。 これにより、アプリケーションが外部の世界と通信できるようになります
+開く *AndroidManifest.xml* 次の 2 行を manifest 要素の後、application 要素の前に貼り付けます。 これにより、アプリが外部と通信できるようになります
 
 <!--
 Removed `{.line-numbers}` below
@@ -56,8 +55,8 @@ Removed `{.line-numbers}` below
 
 アプリケーション要素内の次の行をコピーします。
 [!DNL android:name=".MainApp"]
-[!DNL AndroidManifest.xml]を保存
-[!DNL AndroidManifest.xml]は次のようになります
+保存する [!DNL AndroidManifest.xml]
+お使いの [!DNL AndroidManifest.xml] 次のようになります
 
 <!--
 Removed `{.line-numbers}` below

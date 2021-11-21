@@ -21,7 +21,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 * **[トラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-*Adobe Campaign Standardの既知の問題のトラブルシューティングに関するヘルプを参照してください。*
+*Adobe Campaign Standardの既知の問題のトラブルシューティングに関するヘルプを見つけます。*
 
 ## アドビのお勧め
 
