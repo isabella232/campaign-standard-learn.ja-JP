@@ -10,10 +10,10 @@ team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 role: User
 level: Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 32%
+source-wordcount: '78'
+ht-degree: 28%
 
 ---
 
@@ -23,6 +23,4 @@ ht-degree: 32%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 
-## その他のリソース
-
-* [多言語 E メールの作成（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+詳しくは、製品ドキュメントを参照してください。 [多言語の e メールの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

@@ -1,17 +1,17 @@
 ---
 title: カスタムリソースのマッピング
 description: Adobe Campaign Standard(ACS) とAdobe Experience Platform(AEP) の間で異なるデータタイプをマッピングする方法を説明します
-feature: People Core Service Integration
+feature: People Core Service Integration, Profiles
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 10%
+source-wordcount: '82'
+ht-degree: 4%
 
 ---
 
@@ -27,6 +27,4 @@ Adobe Campaign StandardとAdobe Experience Platformの間で異なるデータ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12)
 
-## その他のリソース
-
-* [マッピング定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+詳しくは、製品ドキュメントを参照してください。 [マッピング定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

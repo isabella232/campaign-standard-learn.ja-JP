@@ -1,7 +1,7 @@
 ---
 title: ワークフローを介したメールの作成と送信
 description: ワークフローを使用して E メールを作成し、送信する方法を説明します。
-feature: Email
+feature: Email,Workflows
 kt: 4319
 thumbnail: 31465.jpg
 role: User
@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 60%
+source-wordcount: '65'
+ht-degree: 69%
 
 ---
 
@@ -24,8 +24,3 @@ ht-degree: 60%
 ワークフローを使用して E メールを作成し、送信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31465?quality=12)
-
-## その他のリソース
-
-* [E メール配信の作成](/help/communication-channels/email/create-email-from-homepage.md)
-* [E メールの作成（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-an-email.html?lang=en)

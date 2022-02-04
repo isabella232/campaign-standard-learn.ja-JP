@@ -1,7 +1,7 @@
 ---
 title: プロファイルの置き換え — ターゲットプロファイルを使用した E メールメッセージのテスト
 description: プロファイル置き換え機能を使用して電子メールメッセージをテストする方法を説明します。
-feature: Email
+feature: Personalization, Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 76%
+source-wordcount: '167'
+ht-degree: 67%
 
 ---
 
@@ -31,8 +31,4 @@ ht-degree: 76%
 >
 >この機能を使用すると、プロファイルの個人情報を外部の E メールアドレスに送信できます。Campaign Standard でプライバシーリクエスト（GDPR および CCPA）を実行しても、リクエストは外部で実行されないことに注意してください。
 
-## その他のリソース
-
-* [ターゲットプロファイルを使用したメッセージのテスト（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
-* [A/B テスト用 E メールのデザイン](/help/communication-channels/email/a-b-testing.md)
-* [テストメールの送信、メール配信の準備、メールの送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+詳しくは、製品ドキュメントを参照してください。 [ターゲットプロファイルを使用したメッセージのテスト](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)

@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 89%
+source-wordcount: '203'
+ht-degree: 81%
 
 ---
 
@@ -30,12 +30,4 @@ Adobe Campaign とジャーニー AI モデルの間でデータを同期する�
 
 >[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
 
-## その他のリソース
-
-チュートリアル：
-
-* [予測エンゲージメントスコアリング](predictive-engagement-scoring.md)
-
-ドキュメント：
-
-* [AI を利用した E メールのデザインと配信の最適化](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
+詳しくは、製品ドキュメントを参照してください [AI を利用した e メールによる設計と配信の最適化](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
