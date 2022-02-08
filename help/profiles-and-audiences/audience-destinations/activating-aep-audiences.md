@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c270d2c6ef7ad695226d79da51cfd2f18dcefaff
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 
@@ -31,13 +31,4 @@ ht-degree: 12%
 
 *ワークフローでのAdobe Experience Platformオーディエンスのアクティブ化（2 分 37 秒）*
 
-## その他のリソース
-
-ドキュメント：
-
-* [Adobe Experience Platform オーディエンスの Campaign への取り込み](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
-
-ビデオリソース：
-
-* [統合セグメントビルダーを使用したAdobe Campaign Standardでのオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Platform オーディエンスの配信のターゲティングディメンションを変更する](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+次の方法に関する製品ドキュメントを参照してください。 [Adobe Experience Platform Audiences の Campaign への取り込み](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
