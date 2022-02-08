@@ -10,10 +10,10 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 7777c76109ca8f40982073ec4782e82903a78095
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 12%
+source-wordcount: '119'
+ht-degree: 3%
 
 ---
 
@@ -30,14 +30,3 @@ Adobe Campaignでは、パーソナライズおよびセグメント化された
 このビデオでは、 [!DNL push notification to app subscribers].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
-
-## その他のリソース
-
-ドキュメント：
-
-* [プッシュ通知について](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [プッシュ通知の準備と送信](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
-
-チュートリアル：
-
-* [多言語プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
