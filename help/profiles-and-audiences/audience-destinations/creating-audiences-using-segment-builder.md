@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 12%
+source-wordcount: '194'
+ht-degree: 8%
 
 ---
 
@@ -35,14 +35,9 @@ Adobe Campaign Standardでは、Adobe Experience Cloudのデータを使用し�
 
 *統合セグメントビルダーを使用してAdobe Campaign Standardでオーディエンスを作成する方法（最小値 02:47）*
 
-## その他のリソース
-
-ドキュメント：
+詳しくは、製品ドキュメントを参照してください。
 
 * [リアルタイム顧客プロファイルの概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 * [セグメントビルダーユーザーガイド](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 
-ビデオリソース：
 
-* [ワークフローでの Experience Platform オーディエンスのアクティベーション](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Platform オーディエンスの配信のターゲティングディメンションを変更する](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
