@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 66%
+source-wordcount: '188'
+ht-degree: 67%
 
 ---
 
@@ -29,13 +29,3 @@ ht-degree: 66%
 個々のプロファイルレベルでのエンゲージメントスコアの表示、エンゲージユーザーをターゲティングするためのスコア利用、疲労ユーザーの抑制、顧客疲労を管理するタイポロジルールの作成方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## その他のリソース
-
-チュートリアル：
-
-* [予測送信時間の最適化](predictive-send-time-optimization.md)
-
-ドキュメント：
-
-* [AI を利用した E メールのデザインと配信の最適化](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
