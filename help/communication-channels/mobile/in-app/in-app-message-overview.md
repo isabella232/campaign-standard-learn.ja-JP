@@ -9,10 +9,10 @@ team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: User
 level: Beginner
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 12%
+source-wordcount: '629'
+ht-degree: 10%
 
 ---
 
@@ -68,13 +68,3 @@ ht-degree: 12%
 ## アプリ内配信のレポート {#report}
 
 配信が公開されると、次の操作が可能になります [アプリ内配信のレポート](/help/communication-channels/mobile/in-app/in-app-reporting.md).
-
-## その他のリソース
-
-* [アプリ内レポート](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)
-* [モバイルプロパティの設定](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Adobe Experience Platform SDK を使用したモバイルアプリケーションの設定](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)
-* [アプリ内メッセージの準備と送信](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [アプリ内メッセージのカスタマイズ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
-* [ワークフロー内でのアプリ内メッセージの送信](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html?lang=en)
-* [ライフサイクル指標の有効化](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

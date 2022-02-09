@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 68%
+source-wordcount: '69'
+ht-degree: 73%
 
 ---
 
@@ -33,8 +33,3 @@ Adobe Campaign [!UICONTROL Control Panel] を使用すると、サブドメイ�
 サブドメインをAdobe Campaignにデリゲートする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-
-## その他のリソース
-
-* [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [サブドメインおよび証明書](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 92%
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,3 @@ ht-degree: 92%
 次のビデオでは、[!UICONTROL Campaign Control Panel] で Gmail アドレスに E メールを送信する際に使用するすべてのサブドメインに、[!DNL Google] TXT サイト検証レコードを追加する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## その他のリソース
-
-* [ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html?lang=en)

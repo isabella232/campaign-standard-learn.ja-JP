@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 68%
+source-wordcount: '170'
+ht-degree: 70%
 
 ---
 
@@ -56,8 +56,3 @@ SSL 証明書を取得したら、保護するサブドメイン用に SSL 証�
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *SSL 証明書のインストール（1 分 25 秒）*
-
-## その他のリソース
-
-* [完全なサブドメインのデリゲーション（ビデオ）](./subdomain-delegation.md)
-* [サブドメインおよび証明書 - ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

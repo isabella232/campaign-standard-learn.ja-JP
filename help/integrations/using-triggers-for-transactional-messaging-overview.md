@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,3 @@ ht-degree: 100%
 3. [Campaign Standard でのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
 
 トリガーの設定が完了すると、[リアルタイムイベントデータを使用してトランザクションメッセージを設定](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)できます。
-
-## その他のリソース
-
-* [Adobe Experience Cloud トリガーについて](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=ja#integrating-with-adobe-cloud)
