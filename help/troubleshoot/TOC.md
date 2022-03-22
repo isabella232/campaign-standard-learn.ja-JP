@@ -7,9 +7,9 @@ feature: Overview
 role: Admin
 level: Experienced
 source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 47%
 
 + [概要](/help/troubleshoot/overview.md)
 + [プロファイル表示中の技術的エラー](/help/troubleshoot/technical-error-while-viewing-profile.md)
-+ [Experience Managerへの接続エラー](/help/troubleshoot/error-aem-connection.md)
++ [Experience Manager への接続中のエラー](/help/troubleshoot/error-aem-connection.md)
 + [パブリックリソース URL を http から https に変更](/help/troubleshoot/change-public-resource-url.md)
 + [復号化されたイベント ID と配信 ID の取得](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
 
