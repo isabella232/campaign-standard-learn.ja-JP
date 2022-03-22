@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '258'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[トラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
+* **[トラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ja)**
 
-*Adobe Campaign Standardの既知の問題のトラブルシューティングに関するヘルプを見つけます。*
+*Adobe Campaign Standard の既知の問題のトラブルシューティングに関するヘルプを見つけます。*
 
 ## アドビのお勧め
 
@@ -46,7 +46,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
       <img alt="コントロールパネル（ビデオ）" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja">
     <strong>Campaign コントロールパネル（ビデオ）</strong>
     </a>
     </div>
@@ -55,11 +55,11 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja">
       <img alt="チュートリアル：Android 向けプッシュ通知の概要" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja">
     <strong>チュートリアル：Android™ 向けプッシュ通知の概要</strong>
     </a>
     </div>
