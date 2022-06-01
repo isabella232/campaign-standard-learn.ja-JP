@@ -8,18 +8,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 26dd621e1f89ed31a8656783f46b2bc388464ed1
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# CNAME を使用したサブドメインのデリゲート（ベータ版）
-
->[!IMPORTANT]
->
-> サブドメインのデリゲーションで CNAME を使用する機能はベータ版であり、通知なく頻繁に更新や変更が行われる可能性があります。
+# CNAME を使用したサブドメインのデリゲート
 
 Adobe Campaign でメールの送信やランディングページの公開を行うには、まず新しいサブドメインを設定する必要があります。
 
