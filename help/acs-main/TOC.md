@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
-source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 100%
+source-wordcount: '565'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,6 @@ ht-degree: 100%
       + [既存のメール、SMS 配信または配信テンプレートの多言語への変換](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [メール配信とレポートの確認](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [ワークフローを介したメールの作成と送信](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
       + AI を活用したメール{#journey-ai}
          + [予測送信時間の最適化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [予測エンゲージメントスコアリング](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
@@ -122,3 +121,6 @@ ht-degree: 100%
    + [プライバシーリクエストの手動による作成およびトラッキング](/help/privacy/create-and-track-privacy-requests.md)
    + [プライバシーリクエストの実行](/help/privacy/execute-privacy-requests.md)
 + [Campaign Standard のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ja)
++ 戦略と思考のリーダーシップ{#strategy}
+   + [購読者の再エンゲージメントに関するメールの ROI とベストプラクティスを最大化](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
