@@ -4,9 +4,9 @@ user-guide-description: コントロールパネルで Adobe Campaign インス�
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 index: true
 source-git-commit: f5d3396f46839a37fdc7199347344382a02d3ff1
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '111'
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
    + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + サブドメインおよび証明書{#subdomains-and-certificates}
-   + [完全なサブドメインのデリゲーション](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [完全なサブドメインデリゲーション](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [CNAME を使用したサブドメインのデリゲート](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT レコード管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
