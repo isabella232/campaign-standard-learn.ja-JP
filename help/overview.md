@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '305'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[メールの ROI を最大化し、購読者の再エンゲージメントに関するベストプラクティスを学びます。](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティスの概要](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ja)**
 
-   *電子メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスを学びます。 購読者のエンゲージメントを改善するための戦略を見つけ、電子メールキャンペーンの全体的な成功を把握します。*
+   *メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスについて説明します。購読者のエンゲージメントを向上させる戦略とメールキャンペーンの全体的な成功を理解します。*
 
 * **[トラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ja)**
 
@@ -63,7 +63,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
       <img alt="チュートリアル：Android 向けプッシュ通知の概要" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja">
     <strong>チュートリアル：Android™ 向けプッシュ通知の概要</strong>
     </a>
     </div>
