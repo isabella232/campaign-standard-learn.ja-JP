@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
-workflow-type: ht
-source-wordcount: '305'
-ht-degree: 100%
+source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
+workflow-type: tm+mt
+source-wordcount: '306'
+ht-degree: 78%
 
 ---
 
@@ -20,13 +20,13 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティスの概要](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ja)**
+* **[Campaign コントロールパネル — ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
-   *メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスについて説明します。購読者のエンゲージメントを向上させる戦略とメールキャンペーンの全体的な成功を理解します。*
+   *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
 
-* **[トラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ja)**
+* **[Campaign コントロールパネル — スループットと遅延の監視](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
 
-*Adobe Campaign Standard の既知の問題のトラブルシューティングに関するヘルプを見つけます。*
+   *キャンペーンインスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
 
 ## アドビのお勧め
 
@@ -63,7 +63,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
       <img alt="チュートリアル：Android 向けプッシュ通知の概要" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>チュートリアル：Android™ 向けプッシュ通知の概要</strong>
     </a>
     </div>
