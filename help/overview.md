@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '306'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -20,13 +20,13 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[Campaign コントロールパネル — ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Campaign コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=ja){target=&quot;_blank&quot;}**
 
    *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
 
-* **[Campaign コントロールパネル — スループットと遅延の監視](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Campaign コントロールパネル - スループットと遅延の監視](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=ja){target=&quot;_blank&quot;}**
 
-   *キャンペーンインスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
+   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
 
 ## アドビのお勧め
 
@@ -63,7 +63,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
       <img alt="チュートリアル：Android 向けプッシュ通知の概要" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja">
     <strong>チュートリアル：Android™ 向けプッシュ通知の概要</strong>
     </a>
     </div>
