@@ -4,8 +4,9 @@ description: Adobe Campaignをご利用のお客様にとって、デジタル�
 doc-type: article
 role: User
 level: Beginner
-kt: 11772
-source-git-commit: cb58f49fe6f549ed05e590a3381a796c20726531
+kt: 11779
+last-update-author: 20230130
+source-git-commit: 26570845b0516d60d333afb8addc1de46947c88a
 workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 0%
