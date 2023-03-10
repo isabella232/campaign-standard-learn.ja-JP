@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
@@ -20,13 +20,17 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ja){target=&quot;_blank&quot;}**
+* **[メッセージのスケジュール](/help/communication-channels/email/schedule-messages.md)**
 
-   *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
+   *E メール配信のスケジュール方法を説明します。*
 
-* **[コントロールパネル - スループットと待ち時間の監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ja){target=&quot;_blank&quot;}**
+* **[配達確認の送信](/help/communication-channels/email/send-a-proof.md)**
 
-   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
+   *電子メールメッセージを最終的な受信者に送信する前にテストする方法を説明します。*
+
+* **[マーケター向け Adobe Campaign 成功のベストプラクティス 10 件](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *Adobe Campaignをご利用のお客様にとって、デジタル消費者の変革を解き放ち、迅速に実現し、より優れたエクスペリエンスを提供する 10 のベストプラクティスについて説明します。*
 
 ## アドビのお勧め
 
