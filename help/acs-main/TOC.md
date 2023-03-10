@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
-source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
+source-git-commit: b2bd6a29c54c505359eb3bc908ccf950db07da3a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '572'
+ht-degree: 99%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 0%
    + E メール {#email}
       + [メールの作成](/help/communication-channels/email/create-email-from-homepage.md)
       + [テストメールの送信、メール配信の準備、メールの送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [メッセージのスケジュール](/help/communication-channels/email/schedule-messages.md)
       + [配達確認の送信](/help/communication-channels/email/send-a-proof.md)
       + [A/B テスト](/help/communication-channels/email/a-b-testing.md)
       + [ターゲットプロファイルを使用したメールメッセージのテスト](/help/communication-channels/email/profile-substitution.md)
