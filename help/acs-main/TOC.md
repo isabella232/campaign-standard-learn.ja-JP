@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
-source-git-commit: b2bd6a29c54c505359eb3bc908ccf950db07da3a
+source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '563'
 ht-degree: 99%
 
 ---
@@ -125,5 +125,5 @@ ht-degree: 99%
 + [Campaign Standard のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
    + [マーケター向け Adobe Campaign 成功のベストプラクティス 10 件](/help/strategy/10-best-practices-for-marketers.md)
-   + [メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティス](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ja)
+   + [メールの ROI の最大化とメール購読者の再エンゲージメントに関するベストプラクティス](/help/strategy/campaign-maximize-email-best-practices.md)
    + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
