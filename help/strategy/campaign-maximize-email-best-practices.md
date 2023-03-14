@@ -3,7 +3,7 @@ title: メールの ROI の最大化と購読者の再エンゲージメント�
 description: メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスについて説明します。購読者のエンゲージメントを向上させるための戦略とメールキャンペーンの全体的な成功を理解します。
 solution: Campaign
 source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1471'
 ht-degree: 100%
 
