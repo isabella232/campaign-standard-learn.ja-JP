@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -24,15 +24,15 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 * **[メッセージのスケジュール](/help/communication-channels/email/schedule-messages.md)**
 
-   *E メール配信のスケジュール方法を説明します。*
+   *メール配信をスケジュールする方法を説明します。*
 
 * **[配達確認の送信](/help/communication-channels/email/send-a-proof.md)**
 
-   *電子メールメッセージを最終的な受信者に送信する前にテストする方法を説明します。*
+   *最終的な受信者に送信する前に、メールメッセージをテストする方法を説明します。*
 
-* **[マーケター向け Adobe Campaign 成功のベストプラクティス 10 件](/help/strategy/10-best-practices-for-marketers.md)**
+* **[マーケター向けの Adobe Campaign 成功のベストプラクティス 10](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Adobe Campaignをご利用のお客様にとって、デジタル消費者の変革を解き放ち、迅速に実現し、より優れたエクスペリエンスを提供する 10 のベストプラクティスについて説明します。*
+   *Adobe Campaign の担当者がデジタル消費者の変革を解き放ち、迅速に実現し、顧客により優れたエクスペリエンスを提供するのに役立つ 10 のベストプラクティスについて説明します。*
 
 </div>
 
