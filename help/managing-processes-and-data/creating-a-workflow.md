@@ -10,7 +10,7 @@ team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: d17d85030b0f6483f39dcee88dff084f31803422
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 29%
@@ -28,6 +28,6 @@ ht-degree: 29%
 
 このビデオでは、Adobe Campaign Standardでワークフローを作成および編集する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&learn=on)
 
 詳しくは、製品ドキュメントを参照してください。 [ワークフローの作成（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

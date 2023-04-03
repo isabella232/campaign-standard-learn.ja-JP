@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 23%
@@ -26,7 +26,7 @@ ht-degree: 23%
 
 データ取り込みジョブのステータスを確認する方法、およびデータがAdobe Campaign StandardからAdobe Experience Platformに取り込まれているかどうかを確認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 
 ## その他のリソース
 

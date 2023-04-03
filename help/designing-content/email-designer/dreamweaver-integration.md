@@ -10,7 +10,7 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 67%
@@ -31,8 +31,8 @@ Adobe Dreamweaver と Adobe Campaign Standard の統合により、Dreamweaver �
 
 このビデオでは、Dreamweaver の統合を有効にするために必要な機能と、Dreamweaver を使用して Adobe Campaign Standard 用のコンテンツを作成および編集する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12&learn=on)
 
 *Adobe Campaign での Dreamweaver 統合の使用方法（02:37 分）*
 
-Dreamweaver [Adobe Dreamweaver Documentation](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 詳細は [Adobe Campaign Dreamweaverのインストールのトラブルシューティング](https://helpx.adobe.com/jp/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Dreamweaver [Adobe Dreamweaver Documentation](https://helpx.adobe.com/jp/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 詳細は [Adobe Campaign Dreamweaverのインストールのトラブルシューティング](https://helpx.adobe.com/jp/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

@@ -10,7 +10,7 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 4%
@@ -29,12 +29,12 @@ E メールのデザイン時に不明な製品のリストを含むリターゲ
 
 ## 手順 1 — イベントを作成して公開する
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
 
 ## 手順 2 — トランザクションメッセージテンプレートに製品リストを追加する
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
 
 ## 手順 3 — トランザクションメッセージのテスト
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)

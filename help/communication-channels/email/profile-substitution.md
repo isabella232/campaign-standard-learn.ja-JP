@@ -10,7 +10,7 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 67%
@@ -23,7 +23,7 @@ ht-degree: 67%
 
 パーソナライズされた E メールニュースレターを送信する場合を考えてみます。ニュースレターを送信する前に、同僚からニュースレターのレビュー用にプルーフを送信するよう依頼されています。[!UICONTROL Profile Substitution] 機能を使用してプルーフを送信できます。これにより、ターゲットプロファイルが受け取るメッセージの正確な内容を送信できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)の詳細を参照してください。
 

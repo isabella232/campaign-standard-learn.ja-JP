@@ -10,7 +10,7 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 9%
@@ -31,6 +31,6 @@ Adobe Campaign Standardでは、Adobe Experience Cloudのデータを使用し�
 
 次のビデオでは、 [!UICONTROL Unified Segment Builder] Adobe Campaign Standardの
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
 
 *統合セグメントビルダーを使用してAdobe Campaign Standardでオーディエンスを作成する方法（最小値 02:47）*
