@@ -9,9 +9,9 @@ level: Experienced
 activity: setup
 team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
-source-wordcount: '71'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Dynamics と Campaign Standard の統合で使用する Microsoft® Dynamics 365 の設定方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12&learn=on)
 
 [Microsoft® Dynamics 365 統合の概要](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=ja)の詳細については、製品ドキュメントを参照してください。
