@@ -1,6 +1,6 @@
 ---
-title: Email Designer の概要
-description: E メールデザイナーの一般的な機能と E メールをゼロから設計する方法を理解します。
+title: メールデザイナーの概要
+description: メールデザイナーの一般的な機能と、メールをゼロからデザインする方法を説明します。
 feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
@@ -12,9 +12,9 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 86%
 
 次の詳細なチュートリアルを利用できます。
 
-* [Email Designer の概要](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+* [メールデザイナーの概要](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [コンテンツテンプレート](/help/designing-content/email-designer/email-content-templates.md)
 * [モバイル表示の設定](/help/designing-content/email-designer/configure-the-mobile-view.md)
-* [E メールのプレビュー](/help/designing-content/email-designer/preview-your-email.md)
+* [メールのプレビュー](/help/designing-content/email-designer/preview-your-email.md)
 * [既存コンテンツの操作](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Adobe Dreamweaver を使用したコンテンツ作成](/help/designing-content/email-designer/dreamweaver-integration.md)
