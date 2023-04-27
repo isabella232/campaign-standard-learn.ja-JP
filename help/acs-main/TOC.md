@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '563'
-ht-degree: 100%
+source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+workflow-type: tm+mt
+source-wordcount: '568'
+ht-degree: 99%
 
 ---
 
@@ -88,11 +88,12 @@ ht-degree: 100%
       + [外部信号アクティビティ](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + データ管理アクティビティ{#data-management-activities}
       + [外部 API アクティビティ](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ レポート{#reporting}
++ レポートと監視 {#reporting}
    + [レポートの詳細](/help/getting-started/exploring-reports.md)
    + [動的レポートの作成](/help/reporting/creating-a-dynamic-report.md)
    + [カスタムプロファイル属性に基づくレポートの作成](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [ワークフローセグメントに基づくレポートの作成](/help/reporting/report-on-workflow-segments.md)
+   + [配信の監視](/help/reporting/monitor-a-delivery.md)
 + 他のソリューションとの統合{#integrations}
    + [Adobe Analytics での配信の成功をトラックする](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + トランザクションメッセージに対するトリガーの使用{#triggers}
