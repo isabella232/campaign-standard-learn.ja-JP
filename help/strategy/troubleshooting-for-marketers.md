@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
 workflow-type: tm+mt
 source-wordcount: '737'
 ht-degree: 1%
@@ -80,9 +80,9 @@ ACS を使用している間にエラーが発生しました。このエラー�
 
 1. プライマリと除外の両方で同じフィールド名を使用し、そのフィールドを ID として使用します
 
-あるいは
+   あるいは
 
-2. JOINS 除外メソッドを使用して、レコードを除外するフィールドを選択します。
+1. JOINS 除外メソッドを使用して、レコードを除外するフィールドを選択します。
 
 ![一般的なフィールドデータセットエラー — ソリューション ](/help/assets/kt-13256/dataset-error-solution.png)
 
