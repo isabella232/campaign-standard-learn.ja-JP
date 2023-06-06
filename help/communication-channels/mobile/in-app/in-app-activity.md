@@ -10,16 +10,14 @@ team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 9%
+source-wordcount: '57'
+ht-degree: 12%
 
 ---
 
 # の作成 [!UICONTROL In-App] ワークフロー内での配信
-
-アプリ内配信アクティビティは、 [!UICONTROL In-App] 同じワークフロー内で計算されたターゲットオーディエンスに対するメッセージ。
 
 アプリ内配信アクティビティを使用して、ワークフロー内で計算されたターゲットオーディエンスへのアプリ内メッセージの送信を自動化する方法を説明します。
 

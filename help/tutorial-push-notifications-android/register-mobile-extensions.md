@@ -1,22 +1,22 @@
 ---
 title: 手順 3 - モバイルアプリに拡張機能を登録
-description: このパートでは、UserProfile、Identity、Lifecycle、Signal の拡張機能を登録するコードを追加します。
+description: この部分では、UserProfile、ID、ライフサイクル、シグナルの拡張を登録するコードを追加します。
 feature: Push
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 11%
+source-wordcount: '107'
+ht-degree: 13%
 
 ---
 
 # 手順 3 - モバイルアプリに拡張機能を登録
 
-このパートでは、ユーザープロファイル、ID、ライフサイクル、シグナルの拡張を登録するコードを追加します。 これらの拡張機能は、 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). また、以下のコードに示すように、Adobe Campaign Standard拡張機能を登録する必要があります。
+この部分では、ユーザープロファイル、ID、ライフサイクル、シグナルの拡張機能を登録するコードを追加します。 また、以下のコードに示すように、Adobe Campaign Standard拡張機能も登録する必要があります。
 
 でプロジェクトを開きます。 [!DNL Android] スタジオ。 MainApp 内のコード全体を削除する **パッケージ文の最初の行以外は**.
 

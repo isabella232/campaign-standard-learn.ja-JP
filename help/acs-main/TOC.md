@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
-source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '581'
 ht-degree: 96%
 
 ---
@@ -60,7 +60,6 @@ ht-degree: 96%
          + [多言語プッシュ通知の作成](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [チュートリアル：Android™ 向けプッシュ通知の概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja)
       + アプリ内メッセージ {#in-app}
-         + [アプリ内メッセージの概要](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [イベントの設定](/help/communication-channels/mobile/in-app/configure-events.md)
          + [アプリ内メッセージのブロードキャスト](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
          + [Campaign プロファイルに基づいたターゲットユーザー](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)

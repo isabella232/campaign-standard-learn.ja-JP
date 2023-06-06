@@ -1,6 +1,6 @@
 ---
 title: イベントの設定
-description: 「イベントが、どのユーザーが開始したアクションメッセージやアプリ内トリガーを表示するかを定義する方法を理解します。 」
+description: アプリ内メッセージとしてトリガーが開始したユーザーを理解し、これらのイベントの設定方法を学びます。
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -10,54 +10,15 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 56b973566e9dee412aeee1412fe6271537fc1295
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 2%
+source-wordcount: '35'
+ht-degree: 8%
 
 ---
 
 # 設定 [!UICONTROL Events] {#configuring-events}
 
-を設定する際 [!UICONTROL In-App] メッセージの場合、表示するメッセージのユーザーが開始するアクショントリガーを定義する必要があります。 これらのアクションは、 [!UICONTROL events]. 次の 3 つのカテゴリー： [!UICONTROL events] は使用可能です。 [!UICONTROL Mobile Application events], [!UICONTROL Life-Cycle events]、および [!UICONTROL Analytics events].
-
-## [!UICONTROL Mobile Application Events] {#mobile-application-events}
-
-[!UICONTROL Mobile Application events] が [!UICONTROL custom events] モバイルアプリケーションに実装される
-
-以下に例を示します。
-
-* 顧客が品目を閲覧した
-* 顧客が買い物かごに品目を追加します
-* 買い物かごの放棄
-* 顧客が何かを購入した
-
-これらを設定する必要があります [!UICONTROL events] Adobe Campaign 次のビデオでは、この方法を説明します。
+アプリ内メッセージとしてトリガーが開始したユーザーを理解し、これらのイベントの設定方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
-
-## [!UICONTROL Life-Cycle events] {#life-cycle-events}
-
-[!UICONTROL Lifecycle events] 標準搭載 [!UICONTROL events]. 以下 [!UICONTROL events] は使用可能です。
-
-* [!UICONTROL launched]
-* [!UICONTROL upgraded]
-* [!UICONTROL crashed]
-
-使用例としては、アップグレード後に新機能を紹介するメッセージやイベントプロモーションなどがあります。
-
->[!NOTE]
->
->この [!UICONTROL Lifecycle module] は、モバイルアプリケーションで設定する必要があります。 詳しくは、こちらを参照してください。 [アプリにライフサイクルを追加する方法](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
-
-## [!UICONTROL Analytics Events] {#analytics-events}
-
-モバイルアプリに実装されている機能に応じて、次の 3 つのカテゴリがサポートされます。
-
-* Adobe Analytics
-* [!UICONTROL Context data]
-* [!UICONTROL View state]
-
->[!NOTE]
->
->[!UICONTROL Analytics events] Adobe Analyticsライセンスが必要です。 次に、 [!DNL Analytics] 拡張機能が設定され、Analytics がアプリに追加された場合、これらのイベントは [!UICONTROL In-App] ACS での設定
