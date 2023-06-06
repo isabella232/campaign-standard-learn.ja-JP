@@ -1,6 +1,6 @@
 ---
 title: イベントの設定
-description: 「イベントが、どのユーザーが開始したアクションによって、表示するアプリ内メッセージをトリガーにするかを定義する方法を理解します。 」
+description: 「イベントが、どのユーザーが開始したアクションメッセージやアプリ内トリガーを表示するかを定義する方法を理解します。 」
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -10,16 +10,16 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: 56b973566e9dee412aeee1412fe6271537fc1295
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '185'
 ht-degree: 2%
 
 ---
 
 # 設定 [!UICONTROL Events] {#configuring-events}
 
-を設定する際 [!UICONTROL In-App] メッセージを表示するには、メッセージを表示するユーザーが開始するアクショントリガーを定義する必要があります。 これらのアクションは、 [!UICONTROL events]. 次の 3 つのカテゴリー： [!UICONTROL events] は使用可能です。 [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events]、および [!UICONTROL Analytics events].
+を設定する際 [!UICONTROL In-App] メッセージの場合、表示するメッセージのユーザーが開始するアクショントリガーを定義する必要があります。 これらのアクションは、 [!UICONTROL events]. 次の 3 つのカテゴリー： [!UICONTROL events] は使用可能です。 [!UICONTROL Mobile Application events], [!UICONTROL Life-Cycle events]、および [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
@@ -36,7 +36,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
-## [!UICONTROL Life Cycle events] {#life-cycle-events}
+## [!UICONTROL Life-Cycle events] {#life-cycle-events}
 
 [!UICONTROL Lifecycle events] 標準搭載 [!UICONTROL events]. 以下 [!UICONTROL events] は使用可能です。
 
@@ -60,4 +60,4 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] Adobe Analyticsライセンスが必要です。 次に、 [[!DNL Analytics] 拡張機能が設定されました](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) とが追加されました。 [アプリに対する Analytics](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)を使用する場合、これらのイベントは [!UICONTROL In-App] ACS での設定
+>[!UICONTROL Analytics events] Adobe Analyticsライセンスが必要です。 次に、 [!DNL Analytics] 拡張機能が設定され、Analytics がアプリに追加された場合、これらのイベントは [!UICONTROL In-App] ACS での設定
