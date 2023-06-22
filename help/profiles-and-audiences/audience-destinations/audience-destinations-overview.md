@@ -2,7 +2,7 @@
 title: オーディエンスの宛先 — 概要
 description: Adobe Campaign StandardでのAdobe Experience Platform Audiences の使用方法を説明します
 feature: People Core Service Integration
-kt: 2755
+jira: KT-2755
 thumbnail: null
 doc-type: feature video
 activity: using
@@ -11,7 +11,7 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: 87c7d040e2bdd1ccaceb5035b494a6fb50c77f7b
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 4%
@@ -27,6 +27,7 @@ ht-degree: 4%
 >この機能はベータ版で、予告なく頻繁に更新や変更がおこなわれます。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
 >
 >次の場所に連絡してください： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
+>
 
 このチュートリアルでは、Adobe Experience Platformの一元化された統合プロファイルデータを、Adobe Campaign Standardのマーケティングキャンペーンで使用する方法について説明します。
 

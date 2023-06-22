@@ -2,13 +2,13 @@
 title: カスタムリソースのマッピング
 description: Adobe Campaign Standard(ACS) とAdobe Experience Platform(AEP) の間で異なるデータタイプをマッピングする方法を説明します
 feature: People Core Service Integration, Profiles
-kt: 2828
+jira: KT-2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 4%

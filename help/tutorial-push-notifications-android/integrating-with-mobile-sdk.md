@@ -2,13 +2,13 @@
 title: 手順 2 - Mobile SDK の統合
 description: ここでは、Android アプリを Mobile SDK と統合します。 モバイル SDK を Android アプリと統合するには：
 feature: Push
-kt: 4826
+jira: KT-4826
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 3%

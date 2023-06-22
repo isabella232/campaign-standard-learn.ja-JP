@@ -2,13 +2,13 @@
 title: データマッピングの変更
 description: ステータスを確認し、データマッピングを変更する方法を説明します。
 feature: People Core Service Integration
-kt: 2830
+jira: KT-2830
 thumbnail: 27266
 doc-type: feature video
 activity: use
 team: TM
 exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 7%

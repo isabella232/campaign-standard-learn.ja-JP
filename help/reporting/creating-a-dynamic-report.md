@@ -2,7 +2,7 @@
 title: 動的レポートの作成
 description: レポートを作成する方法について学習します。
 feature: Reporting
-kt: 2037
+jira: KT-2037
 thumbnail: 25264.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 32%
 
 ---
 

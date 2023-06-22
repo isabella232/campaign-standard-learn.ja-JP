@@ -2,13 +2,13 @@
 title: 手順 1 - Android アプリを作成し、Firebase Cloud Messaging を使用するように設定する
 description: このパートでは、 [!DNL Android] 受信するアプリ [!UICONTROL Push notifications] Adobe Campaign Standardから送信済み プッシュ通知を受け取るには、アプリをGoogleに登録する必要があります [!DNL Firebase Cloud Service].
 feature: Push
-kt: 4825
+jira: KT-4825
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 3%
