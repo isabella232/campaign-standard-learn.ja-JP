@@ -2,7 +2,7 @@
 title: キャンペーンの管理
 description: キャンペーンの作成および管理方法について説明します。
 feature: Campaigns
-kt: 1816
+jira: KT-1816
 thumbnail: 24672.jpg
 doc-type: feature video
 activity: USE
@@ -10,7 +10,7 @@ team: DOC
 exl-id: 61b64e5d-2751-47f9-a2b7-08835a28f763
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
