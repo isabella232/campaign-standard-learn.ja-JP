@@ -2,15 +2,15 @@
 title: プライバシーリクエストに対応するように Adobe Campaign Standard を設定する際のカスタムリソースの変更
 description: プライバシーリクエストを処理できるように Adobe Campaign Standard をセットアップする際は、プロファイルにリンクされているカスタムデータがすべてプロファイルの削除時に確実に削除される必要があります。このビデオでは、この要件を満たすためにカスタムリソースを変更する方法を説明します。
 feature: Privacy Tools
-kt: 1243
+jira: KT-1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
-source-wordcount: '198'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
