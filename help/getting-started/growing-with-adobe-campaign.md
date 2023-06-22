@@ -2,7 +2,7 @@
 title: Adobe Campaign の利用による成長
 description: 真のクロスチャネルオーケストレーションを実現するための、考えられる次のステップについて説明します。
 feature: Cross Channel Orchestration
-kt: 3973
+jira: KT-3973
 thumbnail: 29460.jpg
 doc-type: value video
 activity: understand
@@ -10,7 +10,7 @@ team: PMM
 exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
 source-wordcount: '30'
 ht-degree: 100%
