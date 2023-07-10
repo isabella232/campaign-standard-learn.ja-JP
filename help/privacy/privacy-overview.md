@@ -8,10 +8,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 100%
+source-wordcount: '350'
+ht-degree: 90%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Adobe Campaign では、GDPR（General Data Protection Regulation）や CCPA（California Consumer Privacy Act）などのプライバシー法に準拠して、PII データのプライバシーアクセスおよび削除リクエストを実行するための 3 つの方法をデータコントローラーに提供しています。
 
-* **Privacy Core Service 統合を使用する：** [!UICONTROL Privacy Service] からすべての Experience Cloud ソリューションにプッシュされたプライバシーリクエストは、 専用のワークフローを通じて Campaign によって自動的に処理されます。Privacy Core Service からプライバシーリクエストを作成する方法については、[Adobe Experience Platform Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html) を参照してください。
+* **Privacy Core Service 統合を使用する：** [!UICONTROL Privacy Service] からすべての Experience Cloud ソリューションにプッシュされたプライバシーリクエストは、 専用のワークフローを通じて Campaign によって自動的に処理されます。Privacy Core Service からプライバシーリクエストを作成する方法については、[Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) を参照してください。
 
 * **API を使用する：** Adobe Campaign では、REST を使用したプライバシーリクエストの自動処理を可能にする API を提供しています。
 
@@ -29,7 +29,7 @@ Adobe Campaign では、GDPR（General Data Protection Regulation）や CCPA（C
 >
 > **ACS 19.4 での変更点：**
 > 
-> [Privacy Service 統合](https://www.adobe.io/apis/experienceplatform/gdpr.html)は、すべてのアクセスリクエストおよび削除リクエストに対して使用すべき方法です。19.4 以降、アクセスリクエストと削除リクエストに対する Campaign API およびインターフェイスの使用は非推奨（廃止予定）になりました。Campaign Standard の廃止および削除された機能の詳細については、 [こちらのページ](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=ja)を参照してください。
+> この [Privacy Service統合](https://developer.adobe.com/apis/experienceplatform/gdpr.html) は、すべてのアクセス要求および削除要求に使用する必要があるメソッドです。 19.4 以降、アクセスリクエストと削除リクエストに対する Campaign API およびインターフェイスの使用は非推奨（廃止予定）になりました。Campaign Standard の廃止および削除された機能の詳細については、 [こちらのページ](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=ja)を参照してください。
 >
 >**個人情報の販売のオプトアウト（CCPA）**
 >
@@ -53,5 +53,5 @@ Adobe Campaign では、GDPR（General Data Protection Regulation）や CCPA（C
 
 * [Adobe Campaign の一般的なプライバシーガイドライン](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=ja#getting-started)
 * [ACS の CCPA](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=ja#privacy-requests)
-* [Adobe Experience Platform Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html)
+* [Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
 * [Adobe Campaign Standard REST API ドキュメント](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)

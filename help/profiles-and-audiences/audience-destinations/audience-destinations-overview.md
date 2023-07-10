@@ -11,9 +11,9 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 4%
 
 ---
@@ -26,14 +26,14 @@ ht-degree: 4%
 >
 >この機能はベータ版で、予告なく頻繁に更新や変更がおこなわれます。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
 >
->次の場所に連絡してください： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
+>次の場所に移動： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
 >
 
 このチュートリアルでは、Adobe Experience Platformの一元化された統合プロファイルデータを、Adobe Campaign Standardのマーケティングキャンペーンで使用する方法について説明します。
 
-この [!UICONTROL Audiences] Adobe Campaign Standardのモジュールでは、 [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) それは [リアルタイム顧客プロファイル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+この [!UICONTROL Audiences] Adobe Campaign Standardのモジュールでは、 [Adobe Experience Platform - Data Services](https://developer.adobe.com/apis/experienceplatform/home/services.html) それは [リアルタイム顧客プロファイル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
-次のビデオチュートリアルでは、様々な手順をガイドします。
+次のビデオチュートリアルでは、様々な手順を説明します。
 
 1. [統合セグメントビルダーを使用したオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [マーケティングExperience Platformでのワークフローオーディエンスのアクティブ化](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
