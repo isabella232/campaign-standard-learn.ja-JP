@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
 source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -94,7 +94,7 @@ ht-degree: 96%
    + [ワークフローセグメントに基づくレポートの作成](/help/reporting/report-on-workflow-segments.md)
    + [配信の監視](/help/reporting/monitor-a-delivery.md)
 + 他のソリューションとの統合{#integrations}
-   + [Target と Campaign の統合](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
+   + [Target と Campaign の統合](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=ja)
    + [Adobe Analytics での配信の成功をトラックする](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + トランザクションメッセージに対するトリガーの使用{#triggers}
       + [概要](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
