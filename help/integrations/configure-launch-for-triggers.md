@@ -1,6 +1,6 @@
 ---
-title: Launch でのトリガーの設定
-description: Launch を設定し、設定をテストするために必要なプロパティを Web サイトに追加する方法について説明します。
+title: Adobe Experience Platformのデータ収集をトリガー用に設定
+description: Adobe Experience Platformデータ収集を実行し、Web サイトに必要なプロパティを追加して設定をテストする方法について説明します。
 feature: Triggers
 jira: KT-7434
 thumbnail: 332908.jpg
@@ -8,16 +8,18 @@ doc-type: feature video
 role: Admin
 level: Experienced
 team: TM
+hidefromtoc: true
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
-workflow-type: ht
-source-wordcount: '48'
-ht-degree: 100%
+badgeIntegration: label="統合" type="positive"
+source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+workflow-type: tm+mt
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
-# Launch でのトリガーの設定
+# Adobe Experience Platformのデータ収集をトリガー用に設定
 
-Launch を設定し、設定をテストするために必要なプロパティを Web サイトに追加する方法について説明します。
+Adobe Experience Platformデータ収集を実行し、Web サイトに必要なプロパティを追加して設定をテストする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
