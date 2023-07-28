@@ -2,13 +2,15 @@
 title: 手順 2 - Mobile SDK の統合
 description: ここでは、Android アプリを Mobile SDK と統合します。 モバイル SDK を Android アプリと統合するには：
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4826
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 913d2c08dc63e2073b3abd1de6b6b16711d817da
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 3%
@@ -17,15 +19,15 @@ ht-degree: 3%
 
 # 手順 2 — 統合 [!UICONTROL Mobile SDK] Android アプリを使用
 
-この部分では、 [!DNL Android] アプリ [!UICONTROL Mobile SDK]. 統合する [!UICONTROL mobile SDK] と [!DNL Android] アプリの場合は、次の手順に従ってください。
+この部分では、 [!DNL Android] 次のアプリ [!UICONTROL Mobile SDK]. 統合するには [!UICONTROL mobile SDK] と [!DNL Android] アプリの場合は、次の手順に従ってください。
 
-* を開きます。 *ACSPushTutorial* プロジェクト [!DNL Android Studio]
+* を開きます。 *ACSPushTutorial* ～に投じる [!DNL Android Studio]
 * という新しい Java クラスを作成します。 *MainApp* 拡張する [!DNL android.app.Application]
 * この時点でのプロジェクト構造は次のようになります
 
 ![メインアプリ](assets/android-main-app.PNG)
 
-* を展開します。 [!DNL Gradle Scripts] フォルダー。 次をダブルクリックします。 [!DNL build.gradle] モジュールの。 次の依存関係を、 [!DNL build.gradle] ファイル。 お使いの [!DNL build.gradle] ファイルは次のようになります。
+* を展開します。 [!DNL Gradle Scripts] フォルダー。 次をダブルクリックします。 [!DNL build.gradle] モジュールの。 次の依存関係を、の依存関係セクションに貼り付けます。 [!DNL build.gradle] ファイル。 お使いの [!DNL build.gradle] ファイルは次のようになります。
 
 <!--
 Removed `{.line-numbers}` below
@@ -39,7 +41,7 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 ![module-gradle](assets/module-build-gradle.PNG)
 
-* 同期 [!DNL Android] 「今すぐ同期」ボタンをクリックしてプロジェクトを同期する
+* を同期 [!DNL Android] 「今すぐ同期」ボタンをクリックしてプロジェクトを同期する
 
 ## 変更 [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
@@ -56,7 +58,7 @@ Removed `{.line-numbers}` below
 
 アプリケーション要素内の次の行をコピーします。
 [!DNL android:name=".MainApp"]
-保存する [!DNL AndroidManifest.xml]
+を保存します。 [!DNL AndroidManifest.xml]
 お使いの [!DNL AndroidManifest.xml] 次のようになります
 
 <!--
