@@ -2,12 +2,14 @@
 title: 手順 4 - pushidentifier を設定する
 description: '**pushIdentifier**は、プッシュ通知用のデバイストークンを含む文字列です。 これは、Firebase から送信され、 MobileCore.setPushIdentifier メソッドを使用して SDK に渡されるトークンと同じです。'
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4828
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -16,9 +18,9 @@ ht-degree: 0%
 
 # 手順 4 — 設定 [!DNL pushidentifier]
 
-この **[!DNL pushidentifier]** は、のデバイストークンを含む文字列です。 [!DNL Push] 通知。 これは次から送信されたトークンと同じです： [!DNL Firebase] を呼び出し、 [!DNL MobileCore.setPushIdentifier] メソッド。
+The **[!DNL pushidentifier]** は、次のデバイストークンを含む文字列です： [!DNL Push] 通知。 これは次から送信されたトークンと同じです： [!DNL Firebase] を呼び出し、 [!DNL MobileCore.setPushIdentifier] メソッド。
 
-でプロジェクトを開きます。 [!DNL Android™]スタジオ。 のコード全体を削除する [!DNL MainActivity] **パッケージ文の最初の行以外は**.
+でプロジェクトを開きます。 [!DNL Android™]スタジオ。 内のコード全体を削除する [!DNL MainActivity] **パッケージ文の最初の行を除いて**.
 
 次のコードを [!DNL MainActivity]:
 
@@ -85,13 +87,13 @@ MobileCore.lifecyclePause();
 }
 ```
 
-## アプリのテスト
+## アプリをテストする
 
 これで、今後に進む前にアプリをテストする良い機会になりました。
 
 * 緑の矢印をクリックするか「 **[!DNL Run->Run'app']**.
-* この [!DNL Android™] エミュレーターが起動し、アプリがで実行されていることを確認します。 [!DNL "Hello World"]テキスト。
-* を開きます。 [!DNL logcat] ウィンドウ 「[!DNL Got]&quot;. から受け取ったトークンが表示されます。 [!DNL Firebase] を次のようにログに書き込みます。 &quot;の後の長い文字列[!DNL Got token]&quot;は [!DNL pushidentifier]Adobe Campaignに送信される
+* The [!DNL Android™] エミュレーターが起動し、アプリがで実行されていることを確認します。 [!DNL "Hello World"]テキスト。
+* を開きます。 [!DNL logcat] ウィンドウ 「」を検索します。[!DNL Got]&quot;. から受け取ったトークンが表示されます。 [!DNL Firebase] を次のようにログに書き込みます。 「」の後の長い文字列[!DNL Got token]&quot;は [!DNL pushidentifier]Adobe Campaignに送信される
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
@@ -104,4 +106,4 @@ Adobe Campaign Standardインスタンスにログインします。
 
 >[!NOTE]
 >
->が [!UICONTROL Mobile Application Subscribers] ここで停止を押してから、続行してください。
+>登録トークンが [!UICONTROL Mobile Application Subscribers] ここで停止を押してから、続行してください。
