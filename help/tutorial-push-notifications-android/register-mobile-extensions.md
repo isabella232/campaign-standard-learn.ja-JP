@@ -2,12 +2,14 @@
 title: 手順 3 - モバイルアプリに拡張機能を登録
 description: この部分では、UserProfile、ID、ライフサイクル、シグナルの拡張を登録するコードを追加します。
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 13%
@@ -18,7 +20,7 @@ ht-degree: 13%
 
 この部分では、ユーザープロファイル、ID、ライフサイクル、シグナルの拡張機能を登録するコードを追加します。 また、以下のコードに示すように、Adobe Campaign Standard拡張機能も登録する必要があります。
 
-でプロジェクトを開きます。 [!DNL Android] スタジオ。 MainApp 内のコード全体を削除する **パッケージ文の最初の行以外は**.
+でプロジェクトを開きます。 [!DNL Android] スタジオ。 MainApp 内のコード全体を削除する **パッケージ文の最初の行を除いて**.
 
 次のコードを MainApp に貼り付けます。
 
