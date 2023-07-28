@@ -3,11 +3,13 @@ title: 手順 5 - 通知の伝達
 description: ここでは、Android Notification Manager.Firebase を使用して、Adobe Campaignから受け取ったメッセージを伝播します。
 feature: Push
 jira: KT-4829
+user: Admin
+level: Experienced
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 200dcb4d6698c174f7fde508779609b11043d031
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -16,14 +18,14 @@ ht-degree: 3%
 
 # 通知を送信するサービスを追加
 
-ここでは、Adobe Campaignから受信したメッセージを [!DNL Android Notification Manager]. [!DNL Notification manager] は、発生したイベントをユーザーに通知するために使用されます。
+ここでは、Adobe Campaignから受信したメッセージを、 [!DNL Android Notification Manager]. [!DNL Notification manager] は、発生したイベントをユーザーに通知するために使用されます。
 次に、バックグラウンドで何かが発生したことをユーザーに伝える方法を示します。
 
 * 開始 [!DNL Android Studio]
 * 開く *[!DNL ACSPushTutorial]* プロジェクト
 * プロジェクト構造を展開します。
 * パッケージフォルダー ([!DNL com.example.acspushtutorial]) および [!DNL New ->Java Class]
-* このクラスに名前を付ける *[!DNL MyService]* そしてそれが拡張していることを確かめる [!DNL FirebaseMessagingService]
+* このクラスに名前を付ける *[!DNL MyService]* そしてそれが拡張していることを確かめます [!DNL FirebaseMessagingService]
 * 作成 *[!DNL sendNotification]* メソッドを使用します。 この方法では、 [!DNL NotificationCompat.Builder] オブジェクト。 通知を表示するには、 [!DNL NotificationManagerCompat.notify()]通知との結果に一意の ID を渡す [!DNL NotificationCompat.Builder.build()].
 
 <!--
@@ -137,4 +139,4 @@ Removed `{.line-numbers}` below
 
 ## アプリを実行する
 
-アプリを実行するには、 **緑の矢印** ツールバーまたは [!DNL Run] メニュー
+アプリを実行するには、 **緑の矢印** ツールバーまたはから [!DNL Run] メニュー。
