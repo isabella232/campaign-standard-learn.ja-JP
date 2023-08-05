@@ -1,6 +1,6 @@
 ---
-title: Campaign Standardとの統合のためのMicrosoft&reg; Dynamics 365 の設定
-description: Dynamics と Dynamics の統合で使用するMicrosoft&reg; Dynamics 365 の設定方法をCampaign Standardします。
+title: Campaign Standard と統合するための Microsoft® Dynamics 365 の設定
+description: Dynamics と Campaign Standard の統合で使用する Microsoft® Dynamics 365 の設定方法について説明します。
 feature: Microsoft CRM Integration
 jira: KT-2927
 doc-type: feature video
@@ -11,9 +11,9 @@ team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
 badgeIntegration: label="統合" type="positive"
 source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
