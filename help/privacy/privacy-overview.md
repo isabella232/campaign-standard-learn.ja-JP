@@ -11,9 +11,9 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Campaign では、GDPR（General Data Protection Regulation）や CCPA（C
 >
 > **ACS 19.4 での変更点：**
 > 
-> この [Privacy Service統合](https://developer.adobe.com/apis/experienceplatform/gdpr.html) は、すべてのアクセス要求および削除要求に使用する必要があるメソッドです。 19.4 以降、アクセスリクエストと削除リクエストに対する Campaign API およびインターフェイスの使用は非推奨（廃止予定）になりました。Campaign Standard の廃止および削除された機能の詳細については、 [こちらのページ](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=ja)を参照してください。
+> [Privacy Service 統合](https://developer.adobe.com/apis/experienceplatform/gdpr.html)は、すべてのアクセスリクエストおよび削除リクエストに対して使用すべき方法です。19.4 以降、アクセスリクエストと削除リクエストに対する Campaign API およびインターフェイスの使用は非推奨（廃止予定）になりました。Campaign Standard の廃止および削除された機能の詳細については、 [こちらのページ](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=ja)を参照してください。
 >
 >**個人情報の販売のオプトアウト（CCPA）**
 >
