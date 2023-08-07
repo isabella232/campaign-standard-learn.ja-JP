@@ -1,6 +1,6 @@
 ---
 title: オーディエンスの宛先 — 概要
-description: Adobe Campaign StandardでのAdobe Experience Platform Audiences の使用方法を説明します
+description: Adobe Campaign StandardでのAdobe Experience Platform Audiences の使用方法を説明します。
 feature: People Core Service Integration
 jira: KT-2755
 thumbnail: null
@@ -31,7 +31,7 @@ ht-degree: 4%
 
 このチュートリアルでは、Adobe Experience Platformの一元化された統合プロファイルデータを、Adobe Campaign Standardのマーケティングキャンペーンで使用する方法について説明します。
 
-この [!UICONTROL Audiences] Adobe Campaign Standardのモジュールでは、 [Adobe Experience Platform - Data Services](https://developer.adobe.com/apis/experienceplatform/home/services.html) それは [リアルタイム顧客プロファイル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+The [!UICONTROL Audiences] Adobe Campaign Standardのモジュールでは、 [Adobe Experience Platform - Data Services](https://developer.adobe.com/apis/experienceplatform/home/services.html) それは [リアルタイム顧客プロファイル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 次のビデオチュートリアルでは、様々な手順を説明します。
 

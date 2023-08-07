@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # の作成 [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-この [!UICONTROL Direct Mail] 「チャネル」では、エージェンシーに送信したり SFTP サーバーにアップロードしたりする受信者のセグメント化リストを抽出できます。
+The [!UICONTROL Direct Mail] 「チャネル」では、エージェンシーに送信したり SFTP サーバーにアップロードしたりする受信者のセグメント化リストを抽出できます。
 
 このビデオでは、 [!UICONTROL Direct Mail] 配信と、プロファイルを [!UICONTROL Direct Mail] 配信。
 

@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ---
 
-# Adobe Experience Platform [!UICONTROL Data Connector]
+# Adobe Experience Platformについて [!UICONTROL Data Connector]
 
 >[!NOTE]
 >

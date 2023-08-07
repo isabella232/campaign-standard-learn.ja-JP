@@ -1,6 +1,6 @@
 ---
 title: プッシュ通知の作成
-description: プッシュ通知の作成方法を説明します。
+description: プッシュ通知を作成する方法を説明します。
 feature: Push
 jira: KT-1401
 thumbnail: 31499.jpg
@@ -23,9 +23,9 @@ ht-degree: 3%
 
 Adobe Campaignでは、パーソナライズおよびセグメント化されたを送信できます [!UICONTROL push notifications] をiOSおよび Android™モバイルデバイスに追加します。 次の 2 つのオプションがあります。
 
-* **[!UICONTROL Send push notification to Campaign profiles]**:モバイルアプリケーションを購読し、受信をオプトインしたAdobe Campaign CRM プロファイルをターゲットにできます [!UICONTROL push notifications]. パーソナライゼーションフィールドを [!UICONTROL push notification]（受信者の名など）
+* **[!UICONTROL Send push notification to Campaign profiles]**：モバイルアプリケーションを購読し、受信をオプトインしたAdobe Campaign CRM プロファイルをターゲットにできます [!UICONTROL push notifications]. パーソナライゼーションフィールドを [!UICONTROL push notification]（受信者の名など）
 
-* **[!UICONTROL Send push notification to app subscribers]**:次の項目を送信できます： [!UICONTROL push notification] アプリケーションからの通知の受信をオプトインした、既知のおよび匿名のモバイルアプリケーションユーザー全員に送信できます。 モバイルアプリケーションから収集したデータを使用して、これらのメッセージをパーソナライズできます。
+* **[!UICONTROL Send push notification to app subscribers]**: [!UICONTROL push notification] アプリケーションからの通知の受信をオプトインした、既知のおよび匿名のモバイルアプリケーションユーザー全員に送信できます。 モバイルアプリケーションから収集したデータを使用して、これらのメッセージをパーソナライズできます。
 
 このビデオでは、 [!DNL push notification to app subscribers].
 

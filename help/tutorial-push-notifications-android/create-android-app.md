@@ -23,7 +23,7 @@ ht-degree: 3%
 
 1. にログインします。 [!DNL Firebase] アカウント。
 
-   [!DNL Firebase] は、高品質のアプリをすばやく開発するのに役立つ、Googleのモバイルプラットフォームです。 次の条件を満たさない場合、 [!DNL Firebase] アカウントを作成してください [ここから](https://firebase.google.com).
+   [!DNL Firebase] は、高品質のアプリをすばやく開発するのに役立つ、Googleのモバイルプラットフォームです。 次の条件を満たしていない場合、 [!DNL Firebase] アカウントを作成してください [ここから](https://firebase.google.com).
 
 2. 開始 [!DNL Android Studio]
 3. クリック **[!UICONTROL File]** > **[!UICONTROL New]** > **[!UICONTROL New Project].**

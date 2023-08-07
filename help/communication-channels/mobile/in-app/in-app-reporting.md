@@ -17,7 +17,7 @@ ht-degree: 9%
 
 ---
 
-# レポート対象 [!UICONTROL In-App] 配信 {#in-app-message-reporting}
+# レポート対象： [!UICONTROL In-App] 配信 {#in-app-message-reporting}
 
 モバイルアプリケーション内での顧客のリアルタイム動作に応じて、コンテキスト上関連のアプリ内メッセージをユーザーに表示する方法を説明します。
 

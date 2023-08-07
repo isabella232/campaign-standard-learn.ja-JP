@@ -27,7 +27,7 @@ ht-degree: 9%
 
 Adobe Campaign Standardでは、Adobe Experience Cloudのデータを使用してオーディエンスを構築できます [リアルタイム顧客プロファイル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-次にアクセス： [!UICONTROL Unified Segment Builder] 経由でAdobe Campaign Standard内に直接 [!UICONTROL Audiences] モジュール。 これにより、 [!UICONTROL Audiences] リスト表示。Adobe Campaignインターフェイスから直接Adobe Experience Platformオーディエンスを編集または作成できます
+次にアクセス： [!UICONTROL Unified Segment Builder] 経由でAdobe Campaign Standard内に直接 [!UICONTROL Audiences] モジュール。 これにより、 [!UICONTROL Audiences] リスト表示。Adobe Campaignインターフェイスから直接Adobe Experience Platformオーディエンスを編集または作成できます。
 
 次のビデオでは、 [!UICONTROL Unified Segment Builder] Adobe Campaign Standardの
 

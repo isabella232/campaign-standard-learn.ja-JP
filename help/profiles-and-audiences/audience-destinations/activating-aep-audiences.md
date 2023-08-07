@@ -25,7 +25,7 @@ ht-degree: 6%
 >
 >次の場所に連絡してください： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
 
-このビデオでは、 [!UICONTROL Data Services Query Audience] ワークフロー内で [!UICONTROL Read Audience] アクティビティ。
+このビデオでは、 [!UICONTROL Data Services Query Audience] ワークフロー内で、 [!UICONTROL Read Audience] アクティビティ。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
 

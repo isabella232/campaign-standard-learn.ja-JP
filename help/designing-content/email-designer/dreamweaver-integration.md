@@ -35,4 +35,4 @@ Adobe Dreamweaver と Adobe Campaign Standard の統合により、Dreamweaver �
 
 *Adobe Campaign での Dreamweaver 統合の使用方法（02:37 分）*
 
-Dreamweaver [Adobe Dreamweaver Documentation](https://helpx.adobe.com/jp/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 詳細は [Adobe Campaign Dreamweaverのインストールのトラブルシューティング](https://helpx.adobe.com/jp/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Dreamweaver [Adobe Dreamweaver Documentation](https://helpx.adobe.com/jp/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 詳細は、 [Adobe Campaign Dreamweaverのインストールのトラブルシューティング](https://helpx.adobe.com/jp/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

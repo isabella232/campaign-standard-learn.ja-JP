@@ -9,17 +9,17 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
+exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
+source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
+# マーケター向けのトラブルシューティング：5 つの一般的なワークフローと配信エラー
 
-# マーケター向けのトラブルシューティング：5 一般的なワークフローと配信エラー
-
-基準： [スラジパトラ](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}（メイジャー）シニアコンサルタント
+基準： [スラジ・パトラ](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}（メイジェール・シニア・コンサルタント）
 
 過去 5 年間、シニアエンジニア兼お客様エキスパートとしてAdobe Experience Cloud製品に関するエキスパートとして、 [メイジェール](https://www.meijer.com/){target="_blank"}:1934 年に設立されたアメリカのスーパーセンターチェーンで、ACS と共に複雑なマーケティングキャンペーンとトランザクションキャンペーンを展開しています。 私が取り組んだいくつかのプロジェクトには、パーソナライゼーションのオファーと注文の詳細を保存するカスタマイズされたキャンペーン、Adobe Audience Managerと統合されたプロジェクト、セグメント取り込みのための顧客インサイトが含まれます。
 
@@ -53,13 +53,13 @@ ACS を使用している間にエラーが発生しました。このエラー�
 ![紐付けアクティビティを含むワークフロー](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **解決策：**
-共通 ID は、読み込まれたファイルと受信者テーブルから取得したものである必要があります。 この共通キーは、紐付けアクティビティ内で読み込みファイルを受信者テーブルに結合します。 ワークフロー内でこの紐付け手順が必要な受信者テーブルに存在しないレコードには、E メールが送信されない場合があります。 その際、「受信読み込みファイル」アクティビティを、プロファイルからの電子メール ID などの識別子に紐付けします。 この `nms:recipient` スキーマはプロファイルテーブルを参照し、受信レコードをプロファイルに紐付けすることで、e メールの準備中に使用できるようになります。
+共通 ID は、読み込まれたファイルと受信者テーブルから取得したものである必要があります。 この共通キーは、紐付けアクティビティ内で読み込みファイルを受信者テーブルに結合します。 ワークフロー内でこの紐付け手順が必要な受信者テーブルに存在しないレコードには、E メールが送信されない場合があります。 その際、「受信読み込みファイル」アクティビティを、プロファイルからの電子メール ID などの識別子に紐付けします。 The `nms:recipient` スキーマはプロファイルテーブルを参照し、受信レコードをプロファイルに紐付けすることで、e メールの準備中に使用できるようになります。
 
 以下に示す紐付けアクティビティのスクリーンショットを参照してください。
 
 ![紐付けの詳細を含むワークフロー](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-詳細情報： [紐付け](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
+詳細情報： [紐づけ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
 
 ## 共通フィールドデータセットエラー
 
@@ -91,7 +91,7 @@ ACS を使用している間にエラーが発生しました。このエラー�
 
 **原因:**
 
-エラーポイントは **エンリッチメント活性**. 最も一般的な例を以下に示します。
+エラーポイントは、 **エンリッチメント活性**. 最も一般的な例を以下に示します。
 
 ![フィールド名ドロップエラー](/help/assets/kt-13256/field-name-dropped-error.png)
 
@@ -113,7 +113,7 @@ ACS を使用している間にエラーが発生しました。このエラー�
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **原因：**
-これは、エンリッチメントや他のアクティビティが関わる複雑なワークフローで発生する一般的なエラーです。 ワークフローに対する複数の変更中に、一部のアクティビティワークフローが正しく保存されない可能性があります。
+これは、エンリッチメントやその他のアクティビティが関わる複雑なワークフローで発生する一般的なエラーです。 ワークフローに対する複数の変更中に、一部のアクティビティワークフローが正しく保存されない可能性があります。
 
 ![一時テーブルの削除エラー ](/help/assets/kt-13256/temp-table-dropped-error.png)
 
