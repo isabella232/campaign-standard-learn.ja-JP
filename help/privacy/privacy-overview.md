@@ -10,9 +10,9 @@ level: Experienced
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
@@ -21,23 +21,11 @@ ht-degree: 100%
 
 Adobe Campaign では、GDPR（General Data Protection Regulation）や CCPA（California Consumer Privacy Act）などのプライバシー法に準拠して、PII データのプライバシーアクセスおよび削除リクエストを実行するための 3 つの方法をデータコントローラーに提供しています。
 
-* **Privacy Core Service 統合を使用する：** [!UICONTROL Privacy Service] からすべての Experience Cloud ソリューションにプッシュされたプライバシーリクエストは、 専用のワークフローを通じて Campaign によって自動的に処理されます。Privacy Core Service からプライバシーリクエストを作成する方法については、[Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) を参照してください。
+* **Privacy Core Service 統合を使用する：** [!UICONTROL Privacy Service] からすべての Experience Cloud ソリューションにプッシュされたプライバシーリクエストは、 専用のワークフローを通じて Campaign によって自動的に処理されます。
 
 * **API を使用する：** Adobe Campaign では、REST を使用したプライバシーリクエストの自動処理を可能にする API を提供しています。
 
 * **Adobe Campaign インターフェイスを使用する：**&#x200B;データ管理者は、プライバシーリクエストごとに、対応するプライバシーリクエストを Adobe Campaign で作成します。
-
->[!NOTE]
->
-> **ACS 19.4 での変更点：**
-> 
-> [Privacy Service 統合](https://developer.adobe.com/apis/experienceplatform/gdpr.html)は、すべてのアクセスリクエストおよび削除リクエストに対して使用すべき方法です。19.4 以降、アクセスリクエストと削除リクエストに対する Campaign API およびインターフェイスの使用は非推奨（廃止予定）になりました。Campaign Standard の廃止および削除された機能の詳細については、 [こちらのページ](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=ja)を参照してください。
->
->**個人情報の販売のオプトアウト（CCPA）**
->
-> Campaign インターフェイスおよび API で、「CCPA のオプトアウト」フィールドが標準で提供されています。
->
-> バージョンを確認するには、インターフェイスの右上にある **?** アイコンをクリックし、「バージョン情報」を選択します。
 
 ## ビデオチュートリアル
 
@@ -55,5 +43,5 @@ Adobe Campaign では、GDPR（General Data Protection Regulation）や CCPA（C
 
 * [Adobe Campaign の一般的なプライバシーガイドライン](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=ja#getting-started)
 * [ACS の CCPA](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=ja#privacy-requests)
-* [Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
+* [Adobe Experience Platform Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=ja)
 * [Adobe Campaign Standard REST API ドキュメント](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
