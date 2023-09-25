@@ -10,9 +10,9 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 4%
 
 ---
@@ -33,7 +33,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] は、既存のお客様�
 
 Adobe Experience Platform [!UICONTROL Data Connector] は、Adobe Campaign Standardを理解しているデータエンジニアを対象としています [!UICONTROL custom resources] およびは、顧客の全体的なデータスキーマをAdobe Experience Platform内でどのように配置するかを理解しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
 
 *このビデオでは、Adobe Experience Platform [!UICONTROL Data Connector] （09:35 分）*
 

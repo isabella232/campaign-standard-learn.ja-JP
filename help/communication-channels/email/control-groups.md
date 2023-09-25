@@ -10,10 +10,10 @@ team: PM
 exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: User
 level: Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 98%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 [!UICONTROL delivery] の [!UICONTROL control group] を定義する方法と、[!UICONTROL delivery] の送信後に [!UICONTROL control group] に割り当てられたプロファイルを抽出する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){transcript=true}

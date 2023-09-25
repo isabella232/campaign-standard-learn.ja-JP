@@ -8,10 +8,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 100%
+source-wordcount: '199'
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign では、iOS と Android™ のモバイルデバイスに、パ�
 ## 前提条件
 
 * Adobe Campaign Standard 拡張機能を使用して起動プロパティを設定する必要があります。以下のオンラインヘルプに従ってください。
-   * [ビデオチュートリアル](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
+   * [ビデオチュートリアル](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=ja)
 
 * 対応するプロパティの Adobe Campaign Standard でのステータスが設定済みになっていることを確認します。

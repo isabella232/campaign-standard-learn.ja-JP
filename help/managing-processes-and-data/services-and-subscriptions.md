@@ -10,9 +10,9 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 43%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 43%
 
 Adobe Campaignでは、一連のサービスを通じて、ニュースレターやチャネル間の通信を作成および管理できます。メッセージは、サービスを購読している（オプトインしている）プロファイルにのみ送信できます。 これらのプロファイルは、メッセージを作成する際に、専用のフィルターを使用して特定されます。
 
-サブスクリプションメカニズムの設定により、顧客がこれらのサービスを（特に E メールとランディングページから）購読できるようにすることができます。
+サブスクリプションメカニズムの設定により、顧客がこれらのサービスを（特にメールとランディングページから）購読できるようにすることができます。
 
 各サービスには次の機能があります。
 
@@ -31,4 +31,4 @@ Adobe Campaignでは、一連のサービスを通じて、ニュースレター
 
 このビデオでは、サービスの作成方法と購読の管理方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}

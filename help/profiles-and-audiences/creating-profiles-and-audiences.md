@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 37%
+source-wordcount: '71'
+ht-degree: 36%
 
 ---
 
@@ -28,4 +28,4 @@ Adobe Campaignには次の 2 つのタイプのプロファイルがあります
 
 このビデオでは、既存のプロファイルに移動する方法と、Adobe Campaign Standardでプロファイルとオーディエンスを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}

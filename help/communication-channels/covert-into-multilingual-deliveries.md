@@ -10,10 +10,10 @@ team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 role: User
 level: Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 28%
+source-wordcount: '80'
+ht-degree: 27%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 28%
 
 このビデオでは、既存の E メール、SMS 配信または配信テンプレートを多言語に簡単に変換する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
 詳しくは、製品ドキュメントを参照してください。 [多言語の e メールの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

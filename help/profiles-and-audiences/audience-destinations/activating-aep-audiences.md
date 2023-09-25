@@ -10,9 +10,9 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '125'
 ht-degree: 6%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 6%
 
 このビデオでは、 [!UICONTROL Data Services Query Audience] ワークフロー内で、 [!UICONTROL Read Audience] アクティビティ。
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *ワークフローでのAdobe Experience Platformオーディエンスのアクティブ化（2 分 37 秒）*
 

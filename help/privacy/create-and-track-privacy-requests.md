@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: 850dbab3-10b4-4a8f-b6a8-6126bc48eee5
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 98%
 
 ---
 
@@ -23,6 +23,6 @@ Adobe Campaign では、GDPR や CCPA などのプライバシー法に従って
 
 Adobe Campaign Standard のユーザーインターフェイスでプライバシーリクエストを手動で作成し、その推移をトラッキングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
 
 詳しくは、製品ドキュメント [Campaign の一般的なプライバシーガイドライン](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=ja)を参照してください。
