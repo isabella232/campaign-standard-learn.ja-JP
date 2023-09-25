@@ -2,8 +2,9 @@
 user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
 breadcrumb-title: Campaign Standard チュートリアル
-source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
-workflow-type: tm+mt
+auto-video-transcripts: true
+source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
+workflow-type: ht
 source-wordcount: '567'
 ht-degree: 100%
 
@@ -20,7 +21,7 @@ ht-degree: 100%
    + [階層とマーケティングアクティビティの詳細](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [キャンペーンの管理](/help/getting-started/managing-campaigns.md)
    + [プロファイルとオーディエンスについて](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [E メールの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=ja)
+   + [メールの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=ja)
    + [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=ja)
    + [レポートの概要](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign を使用したモバイルマーケティング](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -37,7 +38,7 @@ ht-degree: 100%
       + [ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [ターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通信チャネル{#communication-channels}
-   + E メール {#email}
+   + メール {#email}
       + [メールの作成](/help/communication-channels/email/create-email-from-homepage.md)
       + [テストメールの送信、メール配信の準備、メールの送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [メッセージのスケジュール](/help/communication-channels/email/schedule-messages.md)
@@ -72,9 +73,9 @@ ht-degree: 100%
       + [ランディングページのテストと公開](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [ランディングページテンプレートの設定](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + コンテンツの設計とパーソナライズ{#designing-content}
-   + 電子メールデザイナー{#email-designer}
+   + E メールデザイナー{#email-designer}
       + [概要](/help/designing-content/email-designer/email-designer-overview.md)
-      + [電子メールデザイナーの基本を学ぶ](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [E メールデザイナーの基本を学ぶ](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [メールコンテンツテンプレートの概要](/help/designing-content/email-designer/email-content-templates.md)
       + [モバイル表示の設定](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [メールおよびスパム対策分析のプレビュー](/help/designing-content/email-designer/preview-your-email.md)
