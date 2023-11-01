@@ -4,11 +4,9 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
-role: User, Admin, Developer
-level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+source-git-commit: fad29341cb352d7d010735d97954de99d5b1686e
+workflow-type: ht
 source-wordcount: '286'
 ht-degree: 100%
 
@@ -51,7 +49,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 <tr>
   <td>
     <a href="./communication-channels/email/profile-substitution.md"> 
-      <img alt="プロファイルの置き換え - ターゲットプロファイルを使用した E メールメッセージのテスト（ビデオ）" src="./assets/substitution_tab.png"/>
+      <img alt="プロファイルの置き換え - ターゲットプロファイルを使用したメールメッセージのテスト（ビデオ）" src="./assets/substitution_tab.png"/>
     </a>
     <div>
       <a href="./communication-channels/email/profile-substitution.md">
