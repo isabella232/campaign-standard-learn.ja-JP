@@ -11,8 +11,8 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
-workflow-type: tm+mt
-source-wordcount: '226'
+workflow-type: ht
+source-wordcount: '191'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Adobe Campaign では、GDPR（General Data Protection Regulation）や CCPA（California Consumer Privacy Act）などのプライバシー法に準拠して、PII データのプライバシーアクセスおよび削除リクエストを実行するための 3 つの方法をデータコントローラーに提供しています。
 
-* **Privacy Core Service 統合を使用する：** [!UICONTROL Privacy Service] からすべての Experience Cloud ソリューションにプッシュされたプライバシーリクエストは、 専用のワークフローを通じて Campaign によって自動的に処理されます。
+* **Privacy Core Service 統合を使用する：**[!UICONTROL Privacy Service] からすべての Experience Cloud ソリューションにプッシュされたプライバシーリクエストは、 専用のワークフローを通じて Campaign によって自動的に処理されます。
 
 * **API を使用する：** Adobe Campaign では、REST を使用したプライバシーリクエストの自動処理を可能にする API を提供しています。
 
