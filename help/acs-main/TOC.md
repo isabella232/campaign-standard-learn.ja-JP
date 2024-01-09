@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe Campaign Standard チュートリアル
-user-guide-description: クロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を作成します。
+user-guide-description: Adobe Campaign Standardのビデオとチュートリアル
 breadcrumb-title: Campaign Standard チュートリアル
 auto-video-transcripts: true
-source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
-workflow-type: ht
-source-wordcount: '529'
-ht-degree: 100%
+source-git-commit: e694b637033066142bdb385a4b64243e9518a0ec
+workflow-type: tm+mt
+source-wordcount: '516'
+ht-degree: 98%
 
 ---
 
