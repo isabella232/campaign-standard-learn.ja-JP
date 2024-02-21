@@ -5,9 +5,9 @@ products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: fad29341cb352d7d010735d97954de99d5b1686e
-workflow-type: ht
-source-wordcount: '260'
+source-git-commit: ff7a80a06eb16a8b30202bec8fc82bf46b19e28a
+workflow-type: tm+mt
+source-wordcount: '199'
 ht-degree: 100%
 
 ---
@@ -15,24 +15,6 @@ ht-degree: 100%
 # Adobe Campaign Standard - 概要
 
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
-
-<div id="whats-new-section">
-
-## 新機能
-
-* **[メッセージのスケジュール](/help/communication-channels/email/schedule-messages.md)**
-
-  *メール配信をスケジュールする方法を説明します。*
-
-* **[配達確認の送信](/help/communication-channels/email/send-a-proof.md)**
-
-  *最終的な受信者に送信する前に、メールメッセージをテストする方法を説明します。*
-
-* **[マーケター向けの Adobe Campaign 成功のベストプラクティス 10](/help/strategy/10-best-practices-for-marketers.md)**
-
-  *Adobe Campaign の担当者がデジタル消費者の変革を解き放ち、迅速に実現し、顧客により優れたエクスペリエンスを提供するのに役立つ 10 のベストプラクティスについて説明します。*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
